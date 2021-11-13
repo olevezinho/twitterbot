@@ -7,8 +7,8 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: example
       MYSQL_DATABASE: mydb
-      MYSQL_USER: user
-      MYSQL_PASSWORD: user
+      MYSQL_USER: #change this
+      MYSQL_PASSWORD: #change this
     restart: always
     ports:
         - 3306:3306
