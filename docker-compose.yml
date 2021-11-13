@@ -1,0 +1,25 @@
+#docker run --name tweepy-mariadb -v ${PWD}/mariadb:/var/lib/mysql -e MARIADB_ROOT_PASSWORD=dockermdb2021! -d mariadb:latest
+version: '3.4'
+services: 
+
+  mariadb:
+    image: mariadb:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+      MYSQL_DATABASE: mydb
+      MYSQL_USER: user
+      MYSQL_PASSWORD: user
+    restart: always
+    ports:
+        - 3306:3306
+    volumes: 
+        - ./.dbinit:/docker-entrypoint-initdb.d
+        - ${PWD}/.db:/var/lib/mysql
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8084:8080
+    depends_on: 
+      - mariadb
