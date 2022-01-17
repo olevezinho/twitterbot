@@ -1,5 +1,5 @@
 # Author: Luis Brochado
-# Objective: Run a script to favor and retweet tweets
+# Objective: Script to favor and retweet tweets
 # Creation date: 29/10/2021
 # Last edited: 10/11/2021
 ### Core packages
@@ -9,9 +9,11 @@ import os
 from dotenv import load_dotenv
 import logging
 import logging.config
-from services import tweepy_auth, validate_authentication, validateDates
-from database import add_data, close_connection, database_auth
-### core packges
+from services.services import validateDates
+from services.database import add_data, close_connection, database_auth
+from services.authentication import tweepy_auth, validate_authentication
+import re
+### Core packges
 
 load_dotenv()
 logging.config.fileConfig('logging.conf')
@@ -47,9 +49,11 @@ try:
         for tweet in api.search_tweets(q=i, lang="en"):
             # the status contains all information about a specific tweet, like date_of_creation, author name, etc
             status = api.get_status(tweet.id)
-    # fetching the favorited attribute
+            # fetching the favorited attribute
             favored = status.favorited 
-    # if already liked, then skip, else like
+            # fetching for special characters in the username
+            special = re.search("[^a-zA-Z0-9]+", tweet.author.name)
+            # if already liked, then skip, else like
             if favored == True:
                 logger.info("The authenticated user already liked the tweet.")
                 # Validate some stuff before retweeting
@@ -58,7 +62,11 @@ try:
                     try:
                         api.retweet(tweet.id)
                         sleep(150)
-                        api.update_status(status=f"I'm thinking about writing a {i} article")
+                        # if there are no special characters, then update my status with the recent retweeted author name
+                        if special == True:
+                            sleep(5)
+                        else:
+                            api.update_status(status=f"Just retweeted @{tweet.author.screen_name}!!")
                         logger.info("The tweet was retweeted")
                     except tweepy.TweepyException as e:
                         print(e)
@@ -72,6 +80,7 @@ try:
                 logger.info(f"body: \"{tweet.text}\"")
                 logger.info("The tweet was favored!")
                 api.create_favorite(tweet.id)
+                # Validate if tweet is of type airdrop, if so, like, and follow account
                 sleep(10)
                 add_data(connection, cursor, tweet.id, status.created_at.strftime("%d-%m-%Y %H:%M"), i, tweet.author.name, tweet.text)
                 sleep(10)
@@ -80,3 +89,9 @@ except tweepy.TweepyException as e:
     logger.error(e)
 
 close_connection(connection=connection)
+
+# 1 - Reducing the amount of hashtags and increase the interaction/engagement with relevant users/topics 
+# 2 - Focus on twitter, creating content (within reach), following trends
+# 3 - Dynamically select a range of hot topics/trends, investigate the trending part, it will most definitey have some value
+# 4 - For Portuguese audience, search for popular hashtags in Brazil
+# 5 - Get airdrop metadata, and follow, comment, like

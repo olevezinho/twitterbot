@@ -1,3 +1,9 @@
+# Author: Luis Brochado
+# Objective: Database connection module
+# Creation date: 29/10/2021
+# Last edited: 10/11/2021
+### Core packages
+
 import mysql.connector as database
 
 def database_auth(username, password, host, dbname):
