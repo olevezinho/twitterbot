@@ -1,11 +1,10 @@
-websummit
 software
 ilovecoding
 softwareengineer
 python
 shellscript
 hacker
-debugging
+airdrop
 webdevelopment
 softwaredeveloper
 linux
@@ -25,3 +24,8 @@ devops
 tron
 ravencoin
 vscode
+chia
+pool.space
+spacepool
+ethereum
+monero
