@@ -90,8 +90,9 @@ except tweepy.TweepyException as e:
 
 close_connection(connection=connection)
 
-# 1 - Reducing the amount of hashtags and increase the interaction/engagement with relevant users/topics 
-# 2 - Focus on twitter, creating content (within reach), following trends
-# 3 - Dynamically select a range of hot topics/trends, investigate the trending part, it will most definitey have some value
-# 4 - For Portuguese audience, search for popular hashtags in Brazil
-# 5 - Get airdrop metadata, and follow, comment, like
+# 1 - Reducing the amount of hashtags and increase the interaction/engagement with relevant users/topics                     |# To do
+# 2 - Focus on twitter, creating content (within reach), following trends                                                    |# To do
+# 3 - Dynamically select a range of hot topics/trends, investigate the trending part, it will most definitey have some value |# Done
+# 4 - For Portuguese audience, search for popular hashtags in Brazil                                                         |# To do
+# 5 - Get airdrop metadata, and follow, comment, like                                                                        |# Optional
+# 6 - Dentro dos tópicos tentar perceber se é um tópico com sentimento positivo/negativo                                     |# Optional

@@ -1,0 +1,46 @@
+INFO - [2022-05-29 20:36:17,189] - twitterbot - Welcome to twitterbot! Authenticating ...
+INFO - [2022-05-29 20:36:17,191] - twitterbot - Python/3.7.3 Requests/2.27.1 Tweepy/4.4.0
+INFO - [2022-05-29 20:36:17,191] - twitterbot - Fetching available locations.
+INFO - [2022-05-29 20:36:17,488] - twitterbot - Writing locations to a file.
+INFO - [2022-05-29 20:36:18,083] - twitterbot - Writing locations to a file.
+INFO - [2022-05-29 20:36:18,092] - twitterbot - Finding closest location.
+INFO - [2022-05-29 20:36:18,382] - twitterbot - Gathering trends closer to your location.
+INFO - [2022-05-29 20:36:18,944] - twitterbot - Writing trends to a file.
+INFO - [2022-05-29 20:36:18,945] - twitterbot - Reading trends from file.
+INFO - [2022-05-29 20:36:18,945] - twitterbot - tweets about #staraikelungal
+
+INFO - [2022-05-29 20:36:19,629] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-29 20:36:19,630] - twitterbot - tweet id: [1530985959679926272] tweeted at: [2022-05-29 18:54:31+00:00]
+INFO - [2022-05-29 20:36:19,630] - twitterbot - tweeted by: "[A L A N ]"
+INFO - [2022-05-29 20:36:19,630] - twitterbot - body: "Hence once again Anna @actorvijay peedai played ! 💯🥺 #RRvsGT #IPL2022 #IPLFinal #staraikelungal https://t.co/UT1R4Om0Cc"
+INFO - [2022-05-29 20:36:19,630] - twitterbot - The tweet was favored!
+INFO - [2022-05-29 20:37:32,837] - twitterbot - Welcome to twitterbot! Authenticating ...
+INFO - [2022-05-29 20:37:32,838] - twitterbot - Python/3.7.3 Requests/2.27.1 Tweepy/4.4.0
+INFO - [2022-05-29 20:37:32,838] - twitterbot - Fetching available locations.
+INFO - [2022-05-29 20:37:33,148] - twitterbot - Writing locations to a file.
+INFO - [2022-05-29 20:37:33,931] - twitterbot - Writing locations to a file.
+INFO - [2022-05-29 20:37:33,938] - twitterbot - Finding closest location.
+INFO - [2022-05-29 20:37:34,214] - twitterbot - Gathering trends closer to your location.
+INFO - [2022-05-29 20:37:34,756] - twitterbot - Writing trends to a file.
+INFO - [2022-05-29 20:37:34,757] - twitterbot - Reading trends from file.
+INFO - [2022-05-29 20:37:34,757] - twitterbot - tweets about #staraikelungal
+
+INFO - [2022-05-29 20:37:35,448] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-29 20:37:35,448] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-29 20:37:35,713] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-29 20:37:35,713] - twitterbot - tweet id: [1530983604385644545] tweeted at: [2022-05-29 18:45:10+00:00]
+INFO - [2022-05-29 20:37:35,713] - twitterbot - tweeted by: "[Jothiramalingam@Munusamy]"
+INFO - [2022-05-29 20:37:35,713] - twitterbot - body: "#staraikelungal Congratulations Gujarat Titans Team, Especially Fantastic performance by All Rounder+Captain… https://t.co/JBGnwT7RjN"
+INFO - [2022-05-29 20:37:35,713] - twitterbot - The tweet was favored!
+INFO - [2022-05-29 20:37:46,341] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-29 20:37:46,341] - twitterbot - tweet id: [1530981796958982144] tweeted at: [2022-05-29 18:37:59+00:00]
+INFO - [2022-05-29 20:37:46,342] - twitterbot - tweeted by: "[bashafaizz]"
+INFO - [2022-05-29 20:37:46,342] - twitterbot - body: "RT @bashafaizz: #staraikelungal Gujarat Titans congratulations. CSK is waiting for next year.. Be ready.."
+INFO - [2022-05-29 20:37:46,342] - twitterbot - The tweet was favored!
+INFO - [2022-05-29 20:37:56,970] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-29 20:37:56,971] - twitterbot - tweet id: [1530980929547558912] tweeted at: [2022-05-29 18:34:32+00:00]
+INFO - [2022-05-29 20:37:56,971] - twitterbot - tweeted by: "[Pravin Kumar]"
+INFO - [2022-05-29 20:37:56,971] - twitterbot - body: "What a amazing win 'GT' 👑✨
+@hardikpandya7 
+#staraikelungal"
+INFO - [2022-05-29 20:37:56,971] - twitterbot - The tweet was favored!

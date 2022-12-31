@@ -2,6 +2,15 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../C-Files"
+		},
+		{
+			"path": "../simple_chat"
+		},
+		{
+			"path": "../python-series"
 		}
 	],
 	"remoteAuthority": "wsl+Debian",

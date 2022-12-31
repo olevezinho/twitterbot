@@ -1,0 +1,476 @@
+INFO - [2022-05-27 17:46:07,652] - twitterbot - Welcome to twitterbot! Authenticating ...
+INFO - [2022-05-27 17:46:07,654] - twitterbot - Python/3.7.3 Requests/2.27.1 Tweepy/4.4.0
+INFO - [2022-05-27 17:46:07,654] - twitterbot - Fetching available locations.
+INFO - [2022-05-27 17:46:07,958] - twitterbot - Writing locations to a file.
+INFO - [2022-05-27 17:46:08,757] - twitterbot - Writing locations to a file.
+INFO - [2022-05-27 17:46:08,768] - twitterbot - Finding closest location.
+INFO - [2022-05-27 17:46:09,058] - twitterbot - Gathering trends closer to your location.
+INFO - [2022-05-27 17:46:09,644] - twitterbot - Writing trends to a file.
+INFO - [2022-05-27 17:46:09,647] - twitterbot - Reading trends from file.
+INFO - [2022-05-27 17:46:09,648] - twitterbot - tweets about #AK62
+
+INFO - [2022-05-27 17:46:10,425] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:46:10,426] - twitterbot - tweet id: [1530228780958363648] tweeted at: [2022-05-27 16:45:46+00:00]
+INFO - [2022-05-27 17:46:10,426] - twitterbot - tweeted by: "[Ⓜ®.♏️🅰🅰Y🅰N🐾]"
+INFO - [2022-05-27 17:46:10,427] - twitterbot - body: "RT @indianBoxofflce: Which is Actor Control Fitness level ??? #Beast #AK62 #AK61
+#Thalapathy66 #Thalapathy67
+
+Rt- Vijay 🔄              Like…"
+INFO - [2022-05-27 17:46:10,427] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:46:21,128] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:46:21,128] - twitterbot - tweet id: [1530228758212317189] tweeted at: [2022-05-27 16:45:40+00:00]
+INFO - [2022-05-27 17:46:21,128] - twitterbot - tweeted by: "[Rxᴅ_Uᴅʜᴀʏᴀɴツ🖤]"
+INFO - [2022-05-27 17:46:21,128] - twitterbot - body: "RT @GaneshAK_FanBoy: Wow My DEAR AK.!😘💥
+
+#Ajithkumar | #AK61 | #AK62 https://t.co/W21OxEqbIK"
+INFO - [2022-05-27 17:46:21,128] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:46:31,782] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:46:31,782] - twitterbot - tweet id: [1530228744421507073] tweeted at: [2022-05-27 16:45:37+00:00]
+INFO - [2022-05-27 17:46:31,783] - twitterbot - tweeted by: "[Thala Sudharsan]"
+INFO - [2022-05-27 17:46:31,783] - twitterbot - body: "RT @ajith_seenu: #AjithKumar Sir Latest Pic's 🥰 
+
+#AK61 #AK62 https://t.co/q2RtTSiQRq"
+INFO - [2022-05-27 17:46:31,783] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:46:42,421] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:46:42,421] - twitterbot - tweet id: [1530228697059405826] tweeted at: [2022-05-27 16:45:26+00:00]
+INFO - [2022-05-27 17:46:42,421] - twitterbot - tweeted by: "[Rxᴅ_Uᴅʜᴀʏᴀɴツ🖤]"
+INFO - [2022-05-27 17:46:42,421] - twitterbot - body: "RT @TFC_Teams: Latest Pictures of Thala Ajith 👑💖
+
+#Ajithkumar #AK61 #AK62 https://t.co/yZdvZ46FeX"
+INFO - [2022-05-27 17:46:42,421] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:46:53,064] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:46:53,065] - twitterbot - tweet id: [1530228690965123078] tweeted at: [2022-05-27 16:45:24+00:00]
+INFO - [2022-05-27 17:46:53,065] - twitterbot - tweeted by: "[Hariharan DakshinaMurthy]"
+INFO - [2022-05-27 17:46:53,065] - twitterbot - body: "RT @AKmohanrajj1: Rare Certificate Pic Of Our Chief One &amp; 1ly Thala #Ajithkumar ❤️ When He Participated In Inaugural 33rd All India Motor R…"
+INFO - [2022-05-27 17:46:53,065] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:47:03,714] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:47:03,714] - twitterbot - tweet id: [1530228649584054274] tweeted at: [2022-05-27 16:45:14+00:00]
+INFO - [2022-05-27 17:47:03,714] - twitterbot - tweeted by: "[# Victor Sasi]"
+INFO - [2022-05-27 17:47:03,714] - twitterbot - body: "RT @RAJALovely10: Another new look 🤩
+
+#AjithKumar   #AK62 https://t.co/uIcVCt5mKz"
+INFO - [2022-05-27 17:47:03,715] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:47:14,380] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:47:14,381] - twitterbot - tweet id: [1530228623793213446] tweeted at: [2022-05-27 16:45:08+00:00]
+INFO - [2022-05-27 17:47:14,381] - twitterbot - tweeted by: "[suresh BM]"
+INFO - [2022-05-27 17:47:14,381] - twitterbot - body: "RT @EsakkiAadhvik: Mr. #AK Sir 😍 Recent Pic ❤😍
+
+#AK61 #AjithKumar #AK62 https://t.co/3Os4eVA7ZL"
+INFO - [2022-05-27 17:47:14,381] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:47:25,054] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:47:25,055] - twitterbot - tweet id: [1530228604763656192] tweeted at: [2022-05-27 16:45:04+00:00]
+INFO - [2022-05-27 17:47:25,055] - twitterbot - tweeted by: "[𝐑ockfort Praveen🍥]"
+INFO - [2022-05-27 17:47:25,055] - twitterbot - body: "RT @AjithFCMadurai: King AJITH Sir 😎😎👑
+
+#AK | #AK61 | #AjithKumar | #AK62 | https://t.co/owa6xp1kj6"
+INFO - [2022-05-27 17:47:25,055] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:47:35,736] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:47:35,736] - twitterbot - tweet id: [1530228567094616064] tweeted at: [2022-05-27 16:44:55+00:00]
+INFO - [2022-05-27 17:47:35,736] - twitterbot - tweeted by: "[Ｈ Ξ Ｌ Ｌ ]"
+INFO - [2022-05-27 17:47:35,736] - twitterbot - body: "RT @Jagadeesh_RT: Back to Back Pic's of #AK 🥵🥵
+
+Twitter, Insta, YT #Thala Ruling Everywhere 🤩💥💥 
+
+#Ajithkumar #AK61 #AK62 https://t.co/Ykb6…"
+INFO - [2022-05-27 17:47:35,737] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:47:46,567] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:47:46,568] - twitterbot - tweet id: [1530228524900286464] tweeted at: [2022-05-27 16:44:45+00:00]
+INFO - [2022-05-27 17:47:46,568] - twitterbot - tweeted by: "[🅰🅳🅰🅼 AJITH 🅵🅰🅽🆂 CLUB]"
+INFO - [2022-05-27 17:47:46,568] - twitterbot - body: "RT @Ajay34051459: One more Latest pic 😍😍
+
+#AK #AjithKumar #AK61 #AK62 https://t.co/BqCgHPWoBi"
+INFO - [2022-05-27 17:47:46,568] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:47:57,206] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-27 17:47:57,207] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-27 17:47:57,498] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:47:57,498] - twitterbot - tweet id: [1530228481753116672] tweeted at: [2022-05-27 16:44:34+00:00]
+INFO - [2022-05-27 17:47:57,499] - twitterbot - tweeted by: "[𝐑ockfort Praveen🍥]"
+INFO - [2022-05-27 17:47:57,499] - twitterbot - body: "RT @AkManiyarasan: #AjithKumar Sir Latest Pic 😍 His Look...🔥
+#AK61 #AK62 https://t.co/GmDceUpYLt"
+INFO - [2022-05-27 17:47:57,499] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:48:08,144] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-27 17:48:08,145] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-27 17:48:08,419] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-27 17:48:08,419] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-27 17:48:08,717] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:48:08,718] - twitterbot - tweet id: [1530228432436465670] tweeted at: [2022-05-27 16:44:23+00:00]
+INFO - [2022-05-27 17:48:08,718] - twitterbot - tweeted by: "[Gokul krishy]"
+INFO - [2022-05-27 17:48:08,718] - twitterbot - body: "RT @AjithKumarVlrFC: Another Latest Pic Of #AK
+
+#Ajithkumar𓃵  #AK61 #AK62 https://t.co/qtaOkMlrhx"
+INFO - [2022-05-27 17:48:08,718] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:48:19,063] - twitterbot - tweets about #AjithKumar
+
+INFO - [2022-05-27 17:48:19,815] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:48:19,815] - twitterbot - tweet id: [1530229333377175552] tweeted at: [2022-05-27 16:47:58+00:00]
+INFO - [2022-05-27 17:48:19,815] - twitterbot - tweeted by: "[Nellai Thala Veriyargal]"
+INFO - [2022-05-27 17:48:19,815] - twitterbot - body: "RT @AjithDQ_FC: One More Latest Pic 🥰
+
+#AjithKumar #AK61 #AK62 https://t.co/Oqj0zbLW7Y"
+INFO - [2022-05-27 17:48:19,815] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:48:30,483] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:48:30,483] - twitterbot - tweet id: [1530229330759929857] tweeted at: [2022-05-27 16:47:57+00:00]
+INFO - [2022-05-27 17:48:30,484] - twitterbot - tweeted by: "[😈👑Devil King👑😈]"
+INFO - [2022-05-27 17:48:30,484] - twitterbot - body: "RT @ETTB_Dindigul: #AjithKumar Sir Latest Pic..!! 🔥🔥 https://t.co/4gNuFRTS7z"
+INFO - [2022-05-27 17:48:30,484] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:48:41,132] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:48:41,132] - twitterbot - tweet id: [1530229325957431296] tweeted at: [2022-05-27 16:47:56+00:00]
+INFO - [2022-05-27 17:48:41,132] - twitterbot - tweeted by: "[ᴅɪᴠᴀᴋᴀʀᵛᵃˡᶤᵐᵃᶤ]"
+INFO - [2022-05-27 17:48:41,133] - twitterbot - body: "RT @humasqureshi: Janta ka cop dega crime ko muh-tod jawab! 
+Watch the World Television Premiere of Valimai on Saturday, 28th May at 8 PM,…"
+INFO - [2022-05-27 17:48:41,133] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:48:51,818] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:48:51,819] - twitterbot - tweet id: [1530229324263333889] tweeted at: [2022-05-27 16:47:55+00:00]
+INFO - [2022-05-27 17:48:51,819] - twitterbot - tweeted by: "[StopCrying AmHere Naᴺᴷᴾ]"
+INFO - [2022-05-27 17:48:51,819] - twitterbot - body: "RT @TFC_mass: Lovely Pic Thala #AjithKumar❤#AK61 https://t.co/HiG9gTCC9r"
+INFO - [2022-05-27 17:48:51,820] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:49:02,477] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:49:02,477] - twitterbot - tweet id: [1530229323633790976] tweeted at: [2022-05-27 16:47:55+00:00]
+INFO - [2022-05-27 17:49:02,478] - twitterbot - tweeted by: "[Thala Sudharsan]"
+INFO - [2022-05-27 17:49:02,478] - twitterbot - body: "RT @iammoviebuff007: #AjithKumar - latest pic..🌟 On his way to Hyderabad for the next schedule..🔥
+
+#AK61 - Look..👌💥 https://t.co/G12zfkzqI0"
+INFO - [2022-05-27 17:49:02,478] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:49:13,147] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:49:13,147] - twitterbot - tweet id: [1530229318596841472] tweeted at: [2022-05-27 16:47:54+00:00]
+INFO - [2022-05-27 17:49:13,147] - twitterbot - tweeted by: "[Tom cruise]"
+INFO - [2022-05-27 17:49:13,148] - twitterbot - body: "RT @TCAFMDU: Latest Click of #AjithKumar Sir 
+
+#AK61 https://t.co/r6J7uN0CdX"
+INFO - [2022-05-27 17:49:13,148] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:49:23,981] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:49:23,981] - twitterbot - tweet id: [1530229317334052864] tweeted at: [2022-05-27 16:47:54+00:00]
+INFO - [2022-05-27 17:49:23,981] - twitterbot - tweeted by: "[💖 𝓐𝓑𝓲 𝓐𝓶𝓶𝓾 💖]"
+INFO - [2022-05-27 17:49:23,981] - twitterbot - body: "RT @ajith_seenu: Continue...
+
+#AjithKumar #AK61 #AK62 https://t.co/aQ8RlCcdqL"
+INFO - [2022-05-27 17:49:23,981] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:49:34,623] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:49:34,624] - twitterbot - tweet id: [1530229312535658496] tweeted at: [2022-05-27 16:47:53+00:00]
+INFO - [2022-05-27 17:49:34,624] - twitterbot - tweeted by: "[Thala Sudharsan]"
+INFO - [2022-05-27 17:49:34,624] - twitterbot - body: "RT @tn_ajith: Recent pic of #Ajithkumar sir 😎
+
+#AK61 https://t.co/043eS7jbfb"
+INFO - [2022-05-27 17:49:34,624] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:49:45,292] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:49:45,292] - twitterbot - tweet id: [1530229312192118789] tweeted at: [2022-05-27 16:47:52+00:00]
+INFO - [2022-05-27 17:49:45,293] - twitterbot - tweeted by: "[StopCrying AmHere Naᴺᴷᴾ]"
+INFO - [2022-05-27 17:49:45,293] - twitterbot - body: "RT @ArulChristiano: Uff🥵🥵🥵 தல #AjithKumar #AK61 🔥🔥🔥💥💥💥💥his look🥰🥰😍❤️❤️with family latest pic https://t.co/invd7sQPqT"
+INFO - [2022-05-27 17:49:45,293] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:49:55,952] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:49:55,953] - twitterbot - tweet id: [1530229308647952384] tweeted at: [2022-05-27 16:47:52+00:00]
+INFO - [2022-05-27 17:49:55,953] - twitterbot - tweeted by: "[Rahman777]"
+INFO - [2022-05-27 17:49:55,953] - twitterbot - body: "RT @sankar_bhas: Ajith sir and Shalini mam with Our Mankatha Producer @dhayaalagiri family. 
+
+| #Ak #AK61 #AjithKumar | @TCAFMDU https://t.…"
+INFO - [2022-05-27 17:49:55,953] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:50:06,639] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:50:06,639] - twitterbot - tweet id: [1530229305711595520] tweeted at: [2022-05-27 16:47:51+00:00]
+INFO - [2022-05-27 17:50:06,639] - twitterbot - tweeted by: "[Raskin(valimai)]"
+INFO - [2022-05-27 17:50:06,640] - twitterbot - body: "RT @TFC_mass: AK Latest Picture From Airport.. 
+
+#AK61 || #AjithKumar https://t.co/6E1gGZ3wOo"
+INFO - [2022-05-27 17:50:06,640] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:50:17,345] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:50:17,345] - twitterbot - tweet id: [1530229301219856384] tweeted at: [2022-05-27 16:47:50+00:00]
+INFO - [2022-05-27 17:50:17,345] - twitterbot - tweeted by: "[Tom cruise]"
+INFO - [2022-05-27 17:50:17,346] - twitterbot - body: "RT @AjithNetwork: Latest Pic Of #Ajith sir 
+
+#AK61 #AjithKumar https://t.co/rE10q3dsDD"
+INFO - [2022-05-27 17:50:17,346] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:50:28,013] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:50:28,013] - twitterbot - tweet id: [1530229299277574144] tweeted at: [2022-05-27 16:47:49+00:00]
+INFO - [2022-05-27 17:50:28,013] - twitterbot - tweeted by: "[Rishi Rishap]"
+INFO - [2022-05-27 17:50:28,013] - twitterbot - body: "RT @Kaalakabali_ON: Like Actor Like Fans #AjithKumar #Vijay #Ak61 #Thalaivar169 #Thalapathy66 https://t.co/RRQobUqn1e"
+INFO - [2022-05-27 17:50:28,014] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:50:38,653] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:50:38,654] - twitterbot - tweet id: [1530229298887802880] tweeted at: [2022-05-27 16:47:49+00:00]
+INFO - [2022-05-27 17:50:38,654] - twitterbot - tweeted by: "[A_D_K]"
+INFO - [2022-05-27 17:50:38,654] - twitterbot - body: "RT @ajithFC: One more latest pic of Ajith sir. 
+
+| #Ak #Ajith #AjithKumar | #AK61 | https://t.co/oZPpjge3pz"
+INFO - [2022-05-27 17:50:38,654] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:50:49,304] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:50:49,304] - twitterbot - tweet id: [1530229295414534144] tweeted at: [2022-05-27 16:47:48+00:00]
+INFO - [2022-05-27 17:50:49,304] - twitterbot - tweeted by: "[💖 𝓐𝓑𝓲 𝓐𝓶𝓶𝓾 💖]"
+INFO - [2022-05-27 17:50:49,304] - twitterbot - body: "RT @ajith_seenu: Cover Page ❤️
+
+#AjithKumar #AK61 #AK62 https://t.co/Tg6qES1Qip"
+INFO - [2022-05-27 17:50:49,304] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:50:59,664] - twitterbot - tweets about #360டிகிரிகூமுட்டை
+
+INFO - [2022-05-27 17:51:00,402] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:51:00,402] - twitterbot - tweet id: [1530229972899467264] tweeted at: [2022-05-27 16:50:30+00:00]
+INFO - [2022-05-27 17:51:00,402] - twitterbot - tweeted by: "[Elangovan R C]"
+INFO - [2022-05-27 17:51:00,402] - twitterbot - body: "RT @sailaks11: Karnataka BJP high command has put their weight behind 𓃵. But it remains to be seen who has the final laugh
+#360டிகிரிகூமுட்…"
+INFO - [2022-05-27 17:51:00,402] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:51:11,055] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:51:11,055] - twitterbot - tweet id: [1530229597262036997] tweeted at: [2022-05-27 16:49:00+00:00]
+INFO - [2022-05-27 17:51:11,056] - twitterbot - tweeted by: "[Amin]"
+INFO - [2022-05-27 17:51:11,056] - twitterbot - body: "RT @Travancore_King: @Vij11 🤣🤣🤣🤣🤣
+
+Do you really know Tamil??!!
+
+#360டிகிரிகூமுட்டை 
+#உண்டியல்_திருடன் 
+#GoBackFascistModi #GoBack_Modi #Go…"
+INFO - [2022-05-27 17:51:11,056] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:51:21,709] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:51:21,709] - twitterbot - tweet id: [1530229276716326913] tweeted at: [2022-05-27 16:47:44+00:00]
+INFO - [2022-05-27 17:51:21,709] - twitterbot - tweeted by: "[Ramesha C.S ,PMP🌅🖤❤]"
+INFO - [2022-05-27 17:51:21,710] - twitterbot - body: "@Lalitha19010440 @Muruges85370215 @annamalai_k #360டிகிரிகூமுட்டை group."
+INFO - [2022-05-27 17:51:21,710] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:51:32,428] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:51:32,428] - twitterbot - tweet id: [1530228933651845121] tweeted at: [2022-05-27 16:46:22+00:00]
+INFO - [2022-05-27 17:51:32,428] - twitterbot - tweeted by: "[Loki Doki]"
+INFO - [2022-05-27 17:51:32,428] - twitterbot - body: "Modi visit says one thing. ADMK is dead. Congress is still in Coma and out of touch. Under Nonnamalai, BJP never gr… https://t.co/wYGBB2KvHv"
+INFO - [2022-05-27 17:51:32,429] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:51:43,039] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:51:43,039] - twitterbot - tweet id: [1530228144560451585] tweeted at: [2022-05-27 16:43:14+00:00]
+INFO - [2022-05-27 17:51:43,040] - twitterbot - tweeted by: "[Aravindhan Venkatachalapathy]"
+INFO - [2022-05-27 17:51:43,040] - twitterbot - body: "A complete trip around the edge of a circle is 360 degrees,which means that,if u were 2 complete a rotation around… https://t.co/qy7dm8HMwI"
+INFO - [2022-05-27 17:51:43,040] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:51:53,704] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:51:53,704] - twitterbot - tweet id: [1530227686085251072] tweeted at: [2022-05-27 16:41:25+00:00]
+INFO - [2022-05-27 17:51:53,704] - twitterbot - tweeted by: "[Sushilkumar N]"
+INFO - [2022-05-27 17:51:53,704] - twitterbot - body: "Today Trending 😂🔥🔥🔥
+
+#360டிகிரிகூமுட்டை"
+INFO - [2022-05-27 17:51:53,704] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:52:04,323] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:52:04,323] - twitterbot - tweet id: [1530227041073000448] tweeted at: [2022-05-27 16:38:51+00:00]
+INFO - [2022-05-27 17:52:04,323] - twitterbot - tweeted by: "[Full-Blooded Tamizhan™️]"
+INFO - [2022-05-27 17:52:04,323] - twitterbot - body: "RT @NotCarryingRam1: @RKRadhakrishn When will the so called honest journalists expose @annamalai_k and the likes
+
+#360டிகிரிகூமுட்டை"
+INFO - [2022-05-27 17:52:04,323] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:52:14,965] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:52:14,965] - twitterbot - tweet id: [1530226587286679552] tweeted at: [2022-05-27 16:37:03+00:00]
+INFO - [2022-05-27 17:52:14,965] - twitterbot - tweeted by: "[Geeta Madhavan]"
+INFO - [2022-05-27 17:52:14,965] - twitterbot - body: "3 things made my day- the collage of modi bending over to salute #TamilNadu- which I pinned to my profile, the twee… https://t.co/UWWlGbW3dK"
+INFO - [2022-05-27 17:52:14,966] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:52:25,591] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:52:25,591] - twitterbot - tweet id: [1530225964692647937] tweeted at: [2022-05-27 16:34:34+00:00]
+INFO - [2022-05-27 17:52:25,591] - twitterbot - tweeted by: "[Madhan]"
+INFO - [2022-05-27 17:52:25,592] - twitterbot - body: "@mayavarathaan Annamalai maths teacher 
+
+#360டிகிரிகூமுட்டை https://t.co/zvzbLozx43"
+INFO - [2022-05-27 17:52:25,592] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:52:36,211] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:52:36,211] - twitterbot - tweet id: [1530225550878314496] tweeted at: [2022-05-27 16:32:56+00:00]
+INFO - [2022-05-27 17:52:36,212] - twitterbot - tweeted by: "[Geeta Madhavan]"
+INFO - [2022-05-27 17:52:36,212] - twitterbot - body: "#Kumuttais is interesting but with #360டிகிரிகூமுட்டை vera , vera level. https://t.co/X5kRqta0c4"
+INFO - [2022-05-27 17:52:36,212] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:52:46,835] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:52:46,835] - twitterbot - tweet id: [1530224950811848705] tweeted at: [2022-05-27 16:30:33+00:00]
+INFO - [2022-05-27 17:52:46,835] - twitterbot - tweeted by: "[tnwatch]"
+INFO - [2022-05-27 17:52:46,836] - twitterbot - body: "Whos this guy! @BJP4TamilNadu #360டிகிரிகூமுட்டை https://t.co/EO9kFWHR3u"
+INFO - [2022-05-27 17:52:46,836] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:52:57,501] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:52:57,501] - twitterbot - tweet id: [1530223976345407488] tweeted at: [2022-05-27 16:26:40+00:00]
+INFO - [2022-05-27 17:52:57,502] - twitterbot - tweeted by: "[Angry Monkey 🐒]"
+INFO - [2022-05-27 17:52:57,502] - twitterbot - body: "@writter_vambu @annamalai_k என்னா entertainment!!!!
+
+#360டிகிரிகூமுட்டை https://t.co/OOtK0BcsO7"
+INFO - [2022-05-27 17:52:57,502] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:53:08,138] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:53:08,138] - twitterbot - tweet id: [1530223959022505984] tweeted at: [2022-05-27 16:26:36+00:00]
+INFO - [2022-05-27 17:53:08,138] - twitterbot - tweeted by: "[Ilango Rajan]"
+INFO - [2022-05-27 17:53:08,138] - twitterbot - body: "@BJP4TamilNadu @annamalai_k Have some sort of shame for this highly condemned behaviour @annamalai_k ! 😡 If you don… https://t.co/c6hJ8dy6A1"
+INFO - [2022-05-27 17:53:08,138] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:53:18,848] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:53:18,848] - twitterbot - tweet id: [1530223875786612736] tweeted at: [2022-05-27 16:26:16+00:00]
+INFO - [2022-05-27 17:53:18,848] - twitterbot - tweeted by: "[வானத் தட்டான்(தற்ச்சார்பு)]"
+INFO - [2022-05-27 17:53:18,848] - twitterbot - body: "RT @Joe_Anand: I didn’t know that #360டிகிரிகூமுட்டை was knighted by the Queen of 🇬🇧"
+INFO - [2022-05-27 17:53:18,849] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:53:29,530] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:53:29,530] - twitterbot - tweet id: [1530223426706673664] tweeted at: [2022-05-27 16:24:29+00:00]
+INFO - [2022-05-27 17:53:29,531] - twitterbot - tweeted by: "[கருப்பு-சிவப்பு]"
+INFO - [2022-05-27 17:53:29,531] - twitterbot - body: "RT @Surya_BornToWin: Why #360டிகிரிகூமுட்டை is in trending? 
+
+What is the history behind it?? Someone please Explain"
+INFO - [2022-05-27 17:53:29,531] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:53:40,009] - twitterbot - tweets about #AgniSiragugal
+
+INFO - [2022-05-27 17:53:40,687] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:53:40,687] - twitterbot - tweet id: [1530230606373584897] tweeted at: [2022-05-27 16:53:01+00:00]
+INFO - [2022-05-27 17:53:40,687] - twitterbot - tweeted by: "[M.பொன்ராஜ். *VIRAT* *SURIYA*]"
+INFO - [2022-05-27 17:53:40,687] - twitterbot - body: "RT @Suriya_offl: Dear all!! Here’s #AgniSiragugalTeaser 
+
+▶️ https://t.co/6XVqgkWEgZ
+
+Looks very promising! All the best team! @NaveenFilmm…"
+INFO - [2022-05-27 17:53:40,688] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:53:51,447] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-27 17:53:51,448] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-27 17:53:51,748] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:53:51,748] - twitterbot - tweet id: [1530230527504093187] tweeted at: [2022-05-27 16:52:42+00:00]
+INFO - [2022-05-27 17:53:51,748] - twitterbot - tweeted by: "[ᴀʙʜɪᴊɪᴛʜ sᴀᴊɪ]"
+INFO - [2022-05-27 17:53:51,749] - twitterbot - body: "RT @TSivaAmma: Thank u so much sir. Its a big honour to team #Agnisiragugal.."
+INFO - [2022-05-27 17:53:51,749] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:54:02,389] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:54:02,389] - twitterbot - tweet id: [1530230525264134144] tweeted at: [2022-05-27 16:52:42+00:00]
+INFO - [2022-05-27 17:54:02,389] - twitterbot - tweeted by: "[Karthikeyan M]"
+INFO - [2022-05-27 17:54:02,389] - twitterbot - body: "RT @beemji: This look very promising &amp; stylish action thriller #AgniSiragugal teaser 💥💥💥
+https://t.co/Z3P5nXEmar
+
+#AgniSiragugalTeaser 
+
+@v…"
+INFO - [2022-05-27 17:54:02,390] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:54:13,058] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:54:13,058] - twitterbot - tweet id: [1530230465470337032] tweeted at: [2022-05-27 16:52:27+00:00]
+INFO - [2022-05-27 17:54:13,059] - twitterbot - tweeted by: "[T Siva]"
+INFO - [2022-05-27 17:54:13,059] - twitterbot - body: "RT @galattadotcom: Intriguing &amp; high-octane teaser for #ArunVijay and #VijayAntony's #AgniSiragugal - Non-stop action!
+
+https://t.co/1iIdLe…"
+INFO - [2022-05-27 17:54:13,059] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:54:23,712] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:54:23,712] - twitterbot - tweet id: [1530230252726669312] tweeted at: [2022-05-27 16:51:37+00:00]
+INFO - [2022-05-27 17:54:23,712] - twitterbot - tweeted by: "[Deva]"
+INFO - [2022-05-27 17:54:23,712] - twitterbot - body: "RT @Sudha_Offcl: Much awaited Stylish Action Thriller #AgniSiragugal teaser is here
+
+#AgniSiragugalTeaser 👉  https://t.co/oAs4vwYKPK 
+
+@vij…"
+INFO - [2022-05-27 17:54:23,712] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:54:34,384] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-27 17:54:34,384] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-27 17:54:34,666] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:54:34,666] - twitterbot - tweet id: [1530229785758081024] tweeted at: [2022-05-27 16:49:45+00:00]
+INFO - [2022-05-27 17:54:34,666] - twitterbot - tweeted by: "[DAM Inc]"
+INFO - [2022-05-27 17:54:34,667] - twitterbot - body: "RT @vijayantony: Very glad and proud to reveal the teaser of #AgniSiragugal #Jwala 🔥
+You will become the most wanted director in india afte…"
+INFO - [2022-05-27 17:54:34,667] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:54:45,408] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:54:45,408] - twitterbot - tweet id: [1530229710701367296] tweeted at: [2022-05-27 16:49:27+00:00]
+INFO - [2022-05-27 17:54:45,408] - twitterbot - tweeted by: "[NishàváR🔰NishU ᴿᵉˢᵗᵒʳᵉ ᵗʰᵉ ˢⁿʸᵈᵉʳ ⱽᵉʳˢᵉ]"
+INFO - [2022-05-27 17:54:45,409] - twitterbot - body: "RT @pandiraj_dir: #AgniSiragugal teaser looks very intriguing💥💥
+
+My best wishes to @NaveenFilmmaker @arunvijayno1 @vijayantony @Amma_creati…"
+INFO - [2022-05-27 17:54:45,409] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:54:56,066] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-27 17:54:56,067] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-27 17:54:56,342] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:54:56,342] - twitterbot - tweet id: [1530229624721928193] tweeted at: [2022-05-27 16:49:07+00:00]
+INFO - [2022-05-27 17:54:56,343] - twitterbot - tweeted by: "[Suriya 😍Hari Raj]"
+INFO - [2022-05-27 17:54:56,343] - twitterbot - body: "RT @behindwoods: 2 hrs to go for #AgniSiragugal teaser launch by most versatile star  @Suriya_offl 
+
+#AgniSiragugalTeaser 
+
+@vijayantony @a…"
+INFO - [2022-05-27 17:54:56,343] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:55:07,020] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-27 17:55:07,020] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-27 17:55:07,292] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-27 17:55:07,292] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-27 17:55:07,569] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-27 17:55:07,570] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-27 17:55:07,872] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:55:07,872] - twitterbot - tweet id: [1530229033471856641] tweeted at: [2022-05-27 16:46:46+00:00]
+INFO - [2022-05-27 17:55:07,872] - twitterbot - tweeted by: "[Optimaz Prime 😎]"
+INFO - [2022-05-27 17:55:07,873] - twitterbot - body: "RT @rameshlaus: Wow! Hollywood level making.. Action sequences 🔥 
+
+Stylish Action Thriller #AgniSiragugal teaser is here 
+▶️ https://t.co/w…"
+INFO - [2022-05-27 17:55:07,873] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:55:18,236] - twitterbot - tweets about #RRvsRCB
+
+INFO - [2022-05-27 17:55:19,298] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:55:19,298] - twitterbot - tweet id: [1530231106640891904] tweeted at: [2022-05-27 16:55:00+00:00]
+INFO - [2022-05-27 17:55:19,299] - twitterbot - tweeted by: "[Akshay Batra]"
+INFO - [2022-05-27 17:55:19,299] - twitterbot - body: "#RRvsRCB
+#RCBvsRR 
+#PlayOffs 
+#IPL 
+Meanwhile #RCB and their fans: https://t.co/s1C8XFE643"
+INFO - [2022-05-27 17:55:19,299] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:55:29,942] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:55:29,942] - twitterbot - tweet id: [1530231105776803840] tweeted at: [2022-05-27 16:55:00+00:00]
+INFO - [2022-05-27 17:55:29,942] - twitterbot - tweeted by: "[Rishika Pandey]"
+INFO - [2022-05-27 17:55:29,942] - twitterbot - body: "@RomanaRaza As an RCBian even can't expalin my feeling...😭😭
+
+#RRvsRCB"
+INFO - [2022-05-27 17:55:29,942] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:55:40,555] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:55:40,555] - twitterbot - tweet id: [1530231096536801280] tweeted at: [2022-05-27 16:54:58+00:00]
+INFO - [2022-05-27 17:55:40,555] - twitterbot - tweeted by: "[R Δ H U L ॐ]"
+INFO - [2022-05-27 17:55:40,556] - twitterbot - body: "RT @brb_memes7: #RRvsRCB #RCBvsRR #RCBvRR 
+Yaar RCB phir se☹️ https://t.co/pDGxQGtH0J"
+INFO - [2022-05-27 17:55:40,556] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:55:51,217] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:55:51,217] - twitterbot - tweet id: [1530231092577378304] tweeted at: [2022-05-27 16:54:57+00:00]
+INFO - [2022-05-27 17:55:51,217] - twitterbot - tweeted by: "[Streetsarefilledwithregrets♦️♦️]"
+INFO - [2022-05-27 17:55:51,217] - twitterbot - body: "RT @Sriniva50758218: Boss of this season
+Jos Buttler 33(66)
+3centuries..Man of this season..Enjoyed alot..
+40+sixes..60+fours..
+We are goin…"
+INFO - [2022-05-27 17:55:51,217] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:56:01,837] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:56:01,838] - twitterbot - tweet id: [1530231087146082304] tweeted at: [2022-05-27 16:54:56+00:00]
+INFO - [2022-05-27 17:56:01,838] - twitterbot - tweeted by: "[Tushar Goverdhan]"
+INFO - [2022-05-27 17:56:01,838] - twitterbot - body: "#RRvsRCB rcb lose match"
+INFO - [2022-05-27 17:56:01,838] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:56:12,450] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:56:12,450] - twitterbot - tweet id: [1530231087070597126] tweeted at: [2022-05-27 16:54:56+00:00]
+INFO - [2022-05-27 17:56:12,450] - twitterbot - tweeted by: "[Krishna Khandelwal 😎]"
+INFO - [2022-05-27 17:56:12,451] - twitterbot - body: "RT @Pikachu__264: RCB are such chokers that even the players doesn't believe for their own comeback!!
+#RRvsRCB"
+INFO - [2022-05-27 17:56:12,451] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:56:23,060] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:56:23,060] - twitterbot - tweet id: [1530231080963321856] tweeted at: [2022-05-27 16:54:54+00:00]
+INFO - [2022-05-27 17:56:23,060] - twitterbot - tweeted by: "[abhishek⚡]"
+INFO - [2022-05-27 17:56:23,060] - twitterbot - body: "Royals definitely winning this 
+🔥
+#RRvsRCB"
+INFO - [2022-05-27 17:56:23,061] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:56:33,687] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:56:33,687] - twitterbot - tweet id: [1530231080951099394] tweeted at: [2022-05-27 16:54:54+00:00]
+INFO - [2022-05-27 17:56:33,687] - twitterbot - tweeted by: "[Tinkle Laughter]"
+INFO - [2022-05-27 17:56:33,688] - twitterbot - body: "RT @SijuMoothedath: #ViratKohli𓃵 after seeing #RR batting 😂
+
+#RRvsRCB #RCBvsRR #RCBvRR https://t.co/CkZFbRWAX5"
+INFO - [2022-05-27 17:56:33,688] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:56:44,313] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:56:44,313] - twitterbot - tweet id: [1530231079608537090] tweeted at: [2022-05-27 16:54:54+00:00]
+INFO - [2022-05-27 17:56:44,313] - twitterbot - tweeted by: "[आशीष सिंह]"
+INFO - [2022-05-27 17:56:44,313] - twitterbot - body: "Deservedly Rajasthan Royals are going to be in the finals. 
+Back To :
+"Virat is a great player, his form......... i… https://t.co/Ztwiw0Hfux"
+INFO - [2022-05-27 17:56:44,314] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:56:55,066] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:56:55,066] - twitterbot - tweet id: [1530231078270619648] tweeted at: [2022-05-27 16:54:54+00:00]
+INFO - [2022-05-27 17:56:55,066] - twitterbot - tweeted by: "[Arti Tanwar]"
+INFO - [2022-05-27 17:56:55,066] - twitterbot - body: "With rcb...❣️
+Bro support your team they need you ...💪 it's just a bad luck better luck next time..#RRvsRCB"
+INFO - [2022-05-27 17:56:55,066] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:57:05,684] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:57:05,684] - twitterbot - tweet id: [1530231075246551045] tweeted at: [2022-05-27 16:54:53+00:00]
+INFO - [2022-05-27 17:57:05,684] - twitterbot - tweeted by: "[The Big Bull]"
+INFO - [2022-05-27 17:57:05,685] - twitterbot - body: "RT @two2prasad: Chokers at their best! Doing what they're known for #RRvsRCB #IPL2022 @RCBTweets"
+INFO - [2022-05-27 17:57:05,685] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:57:16,324] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:57:16,325] - twitterbot - tweet id: [1530231072147271680] tweeted at: [2022-05-27 16:54:52+00:00]
+INFO - [2022-05-27 17:57:16,325] - twitterbot - tweeted by: "[வேட்டைக்காரன் 🗡️]"
+INFO - [2022-05-27 17:57:16,325] - twitterbot - body: "RT @V_I_P_E_R__: Choking Fans right now...😂🤡
+#RRvsRCB #EeSalaCupNamde #RCB #ViratKohli https://t.co/CTprAx6CMa"
+INFO - [2022-05-27 17:57:16,325] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:57:26,959] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:57:26,959] - twitterbot - tweet id: [1530231072017072129] tweeted at: [2022-05-27 16:54:52+00:00]
+INFO - [2022-05-27 17:57:26,959] - twitterbot - tweeted by: "[Rohit Darshan]"
+INFO - [2022-05-27 17:57:26,960] - twitterbot - body: "RT @saurav_2001: Virat Before and After TATA IPL 2022 !😌
+#EeSalaCupNamde #RRvsRCB 
+
+Retweet if you agree 👍 https://t.co/f2qNjKmrNe"
+INFO - [2022-05-27 17:57:26,960] - twitterbot - The tweet was favored!
+INFO - [2022-05-27 17:57:37,616] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-27 17:57:37,616] - twitterbot - tweet id: [1530231071127662592] tweeted at: [2022-05-27 16:54:52+00:00]
+INFO - [2022-05-27 17:57:37,617] - twitterbot - tweeted by: "[STR@SAM]"
+INFO - [2022-05-27 17:57:37,617] - twitterbot - body: "RT @LMKMovieManiac: This 158 chase by #RR must be an absolute nightmare to watch for all #RCB fans. Not to be, this year too! The agonizing…"
+INFO - [2022-05-27 17:57:37,617] - twitterbot - The tweet was favored!
+ERROR - [2022-05-27 17:57:48,233] - twitterbot - 404 Not Found
+144 - No status found with that ID.
+INFO - [2022-05-27 17:57:48,233] - twitterbot - 65 tweets favored!
+ERROR - [2022-05-27 17:57:48,233] - twitterbot - with_traceback() takes exactly one argument (0 given)

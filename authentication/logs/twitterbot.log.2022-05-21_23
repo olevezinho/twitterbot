@@ -1,0 +1,1223 @@
+INFO - [2022-05-21 22:43:30,500] - twitterbot - Welcome to twitterbot! Authenticating ...
+INFO - [2022-05-21 22:43:30,500] - twitterbot - Python/3.7.3 Requests/2.27.1 Tweepy/4.4.0
+INFO - [2022-05-21 22:43:30,501] - twitterbot - Fetching available locations.
+INFO - [2022-05-21 22:43:30,783] - twitterbot - Writing locations to a file.
+INFO - [2022-05-21 22:43:30,790] - twitterbot - Finding closest location.
+INFO - [2022-05-21 22:44:01,173] - twitterbot - Gathering trends closer to your location.
+INFO - [2022-05-21 22:44:01,717] - twitterbot - Writing trends to a file.
+INFO - [2022-05-21 22:44:01,718] - twitterbot - Reading trends from file.
+INFO - [2022-05-21 22:44:01,718] - twitterbot - tweets about #MIvsDC
+
+INFO - [2022-05-21 22:44:02,447] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:44:02,448] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:44:02,717] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:44:02,718] - twitterbot - tweet id: [1528129299831615488] tweeted at: [2022-05-21 21:43:11+00:00]
+INFO - [2022-05-21 22:44:02,718] - twitterbot - tweeted by: "[sᴀʜɪʙᴅᴇᴇᴘ sɪɴɢʜ]"
+INFO - [2022-05-21 22:44:02,718] - twitterbot - body: "Win you know , reason you don't !!
+
+#MumbaiIndians @mipaltan @ipl #MIvDC #MIvsDC #DCvsMI #IPL #DCvMI #DelhiCapitals… https://t.co/TxvbNKYKXC"
+INFO - [2022-05-21 22:44:02,718] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:44:13,356] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:44:13,356] - twitterbot - tweet id: [1528128981844692992] tweeted at: [2022-05-21 21:41:55+00:00]
+INFO - [2022-05-21 22:44:13,357] - twitterbot - tweeted by: "[RUTHLESS DHFM ™👌🌟🔔 #SVPOnMay12]"
+INFO - [2022-05-21 22:44:13,357] - twitterbot - body: "RT @pumacricket: Every #RCB fan right now🕺
+
+@imVkohli @RCBTweets 
+
+#Playoffs #DCvsMI #MIvsDC https://t.co/L2sEBANRdU"
+INFO - [2022-05-21 22:44:13,357] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:44:24,009] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:44:24,010] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:44:24,287] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:44:24,288] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:44:24,578] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:44:24,578] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:44:24,857] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:44:24,857] - twitterbot - tweet id: [1528128839666176000] tweeted at: [2022-05-21 21:41:21+00:00]
+INFO - [2022-05-21 22:44:24,857] - twitterbot - tweeted by: "[Niraj Kotuwal Chhetri..Northeast28]"
+INFO - [2022-05-21 22:44:24,858] - twitterbot - body: "RT @Kohlifier: RCB RCB RCB
+MI VS DC today
+
+Playoffs🥳🥳🥳❤️🖤
+#rcb #Playoffs #ViratKohli𓃵 #Kohli #KingKohli #ViratKohli #rcbvslsg #MIvsDC https…"
+INFO - [2022-05-21 22:44:24,858] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:44:35,509] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:44:35,509] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:44:35,809] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:44:35,809] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:44:36,088] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:44:36,088] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:44:36,362] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:44:36,362] - twitterbot - tweet id: [1528128575945289728] tweeted at: [2022-05-21 21:40:18+00:00]
+INFO - [2022-05-21 22:44:36,362] - twitterbot - tweeted by: "[Vikash Meena]"
+INFO - [2022-05-21 22:44:36,362] - twitterbot - body: "RT @cricket_country: #MIvsDC #RCB #IPL2022 '#RedTurnsBlue', RCB Change Profile Picture to Support Mumbai Against Delhi Capitals | CHECK POS…"
+INFO - [2022-05-21 22:44:36,363] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:44:47,031] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:44:47,032] - twitterbot - tweet id: [1528128541992296450] tweeted at: [2022-05-21 21:40:10+00:00]
+INFO - [2022-05-21 22:44:47,032] - twitterbot - tweeted by: "[Nirav Patel (કટ્ટર હિન્દૂ) 🔥🙅]"
+INFO - [2022-05-21 22:44:47,032] - twitterbot - body: "RT @Cute_Ladka21: Conversation between Rohit and Virat before tomorrow's match 😭🤣 #MIvsDC #CSKvRR #IPL2022 https://t.co/o3yINAJYFh"
+INFO - [2022-05-21 22:44:47,032] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:44:57,669] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:44:57,669] - twitterbot - tweet id: [1528128487516540929] tweeted at: [2022-05-21 21:39:57+00:00]
+INFO - [2022-05-21 22:44:57,669] - twitterbot - tweeted by: "[Niraj Kotuwal Chhetri..Northeast28]"
+INFO - [2022-05-21 22:44:57,669] - twitterbot - body: "RT @pareektweets: How popular is #RCB? This video is the answer.
+
+- Match is #MIvsDC 
+- It is at MI's home ground Wankhede
+- Crowd chants R…"
+INFO - [2022-05-21 22:44:57,669] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:45:08,333] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:45:08,333] - twitterbot - tweet id: [1528128214949933057] tweeted at: [2022-05-21 21:38:52+00:00]
+INFO - [2022-05-21 22:45:08,333] - twitterbot - tweeted by: "[W E I S]"
+INFO - [2022-05-21 22:45:08,333] - twitterbot - body: "RT @Expose_Karonga: Not only voters even MLA candidate comes from bangladesh for TMC 🤔 https://t.co/o8LxY6PaGy
+#MIvsDC"
+INFO - [2022-05-21 22:45:08,333] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:45:18,969] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:45:18,969] - twitterbot - tweet id: [1528128082418479104] tweeted at: [2022-05-21 21:38:20+00:00]
+INFO - [2022-05-21 22:45:18,969] - twitterbot - tweeted by: "[Manish sunder]"
+INFO - [2022-05-21 22:45:18,969] - twitterbot - body: "RT @jatinsapru: Roller coaster !!! #MIvsDC"
+INFO - [2022-05-21 22:45:18,969] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:45:29,297] - twitterbot - tweets about #DCvsMI
+
+INFO - [2022-05-21 22:45:30,014] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:45:30,014] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:45:30,316] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:45:30,316] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:45:30,584] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:45:30,585] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:45:30,862] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:45:30,862] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:45:31,138] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:45:31,138] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:45:31,414] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:45:31,414] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:45:31,691] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:45:31,691] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:45:31,971] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:45:31,971] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:45:32,242] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:45:32,242] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:45:32,522] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:45:32,522] - twitterbot - tweet id: [1528128051678445568] tweeted at: [2022-05-21 21:38:13+00:00]
+INFO - [2022-05-21 22:45:32,523] - twitterbot - tweeted by: "[Manish sunder]"
+INFO - [2022-05-21 22:45:32,523] - twitterbot - body: "Not a bad season at all for @mipaltan APART from points table, at the end @PunjabKingsIPL and  @KKRiders fans suppo… https://t.co/zb4hHtjsZQ"
+INFO - [2022-05-21 22:45:32,523] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:45:43,165] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:45:43,165] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:45:43,442] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:45:43,442] - twitterbot - tweet id: [1528127749717905408] tweeted at: [2022-05-21 21:37:01+00:00]
+INFO - [2022-05-21 22:45:43,443] - twitterbot - tweeted by: "[Sharun]"
+INFO - [2022-05-21 22:45:43,443] - twitterbot - body: "RT @JovinChacko: Not even a 50 this #IPL season with a highest score of just 44...
+Just 3 fifty from the last 3 seasons...
+Dropping sitters…"
+INFO - [2022-05-21 22:45:43,443] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:45:54,064] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:45:54,065] - twitterbot - tweet id: [1528127715605626881] tweeted at: [2022-05-21 21:36:53+00:00]
+INFO - [2022-05-21 22:45:54,065] - twitterbot - tweeted by: "[Manish sunder]"
+INFO - [2022-05-21 22:45:54,065] - twitterbot - body: "@timdavid8 is just INSANNNEEE 11 balls, 34 runs, 2 boundaries and 4 MAXIMUMSS SR 309 JUST AMAZINNGG THATS TIM MOTHE… https://t.co/zwNPXyO26V"
+INFO - [2022-05-21 22:45:54,065] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:46:04,679] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:46:04,679] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:46:04,979] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:46:04,979] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:46:04,979] - twitterbot - tweets about Tim David
+
+INFO - [2022-05-21 22:46:05,718] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:46:05,718] - twitterbot - tweet id: [1528129980541984768] tweeted at: [2022-05-21 21:45:53+00:00]
+INFO - [2022-05-21 22:46:05,718] - twitterbot - tweeted by: "[Gene Steinberg]"
+INFO - [2022-05-21 22:46:05,718] - twitterbot - body: "Coming May 22 to The Paracast (https://t.co/9kcbdWCghY): Gene and special cohost Tim Swartz present David Altman an… https://t.co/DHWMYGal3J"
+INFO - [2022-05-21 22:46:05,719] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:46:16,339] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:46:16,339] - twitterbot - tweet id: [1528129927395938306] tweeted at: [2022-05-21 21:45:40+00:00]
+INFO - [2022-05-21 22:46:16,340] - twitterbot - tweeted by: "[Priyanka Arora]"
+INFO - [2022-05-21 22:46:16,340] - twitterbot - body: "@bhogleharsha Pant blames close in fielders for not taking the DRS against Tim David but Sarfraz Pleaded to take th… https://t.co/u6r8zgBpoi"
+INFO - [2022-05-21 22:46:16,341] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:46:26,989] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:46:26,989] - twitterbot - tweet id: [1528129887675899904] tweeted at: [2022-05-21 21:45:31+00:00]
+INFO - [2022-05-21 22:46:26,989] - twitterbot - tweeted by: "[Priyanka Arora]"
+INFO - [2022-05-21 22:46:26,989] - twitterbot - body: "@DelhiCapitals Pant blames close in fielders for not taking the DRS against Tim David but Sarfraz Pleaded to take t… https://t.co/YKMcFpOe7T"
+INFO - [2022-05-21 22:46:26,989] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:46:37,657] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:46:37,658] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:46:37,934] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:46:37,934] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:46:38,215] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:46:38,216] - twitterbot - tweet id: [1528129706608173056] tweeted at: [2022-05-21 21:44:47+00:00]
+INFO - [2022-05-21 22:46:38,216] - twitterbot - tweeted by: "[Ediyakula Siva SankaraVaraprasad]"
+INFO - [2022-05-21 22:46:38,216] - twitterbot - body: "RT @CricCrazyJohns: Tim David said "It has been a great experience sharing dressing room with Rohit Sharma, have learned a lot"."
+INFO - [2022-05-21 22:46:38,216] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:46:48,844] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:46:48,844] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:46:49,147] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:46:49,147] - twitterbot - tweet id: [1528129577637543936] tweeted at: [2022-05-21 21:44:17+00:00]
+INFO - [2022-05-21 22:46:49,147] - twitterbot - tweeted by: "[Ediyakula Siva SankaraVaraprasad]"
+INFO - [2022-05-21 22:46:49,147] - twitterbot - body: "RT @RVCJ_FB: Tim David https://t.co/EKUPOwlQPl"
+INFO - [2022-05-21 22:46:49,147] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:46:59,806] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:46:59,806] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:47:00,089] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:47:00,089] - twitterbot - tweet id: [1528129426881650688] tweeted at: [2022-05-21 21:43:41+00:00]
+INFO - [2022-05-21 22:47:00,089] - twitterbot - tweeted by: "[Ediyakula Siva SankaraVaraprasad]"
+INFO - [2022-05-21 22:47:00,089] - twitterbot - body: "RT @AbdullahNeaz: @imVkohli @mipaltan @RCBTweets RCB fans will remember Tim David for long long time. https://t.co/9J8NWLurRb"
+INFO - [2022-05-21 22:47:00,089] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:47:10,779] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:47:10,780] - twitterbot - tweet id: [1528129333302206464] tweeted at: [2022-05-21 21:43:18+00:00]
+INFO - [2022-05-21 22:47:10,780] - twitterbot - tweeted by: "[King Kohli]"
+INFO - [2022-05-21 22:47:10,780] - twitterbot - body: "RT @ImTanujSingh: The Hero of RCB - Tim David. https://t.co/E1DIrevbrM"
+INFO - [2022-05-21 22:47:10,780] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:47:22,002] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:47:22,002] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:47:22,265] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:47:22,266] - twitterbot - tweet id: [1528129084223799296] tweeted at: [2022-05-21 21:42:19+00:00]
+INFO - [2022-05-21 22:47:22,266] - twitterbot - tweeted by: "[prajney p acharya]"
+INFO - [2022-05-21 22:47:22,266] - twitterbot - body: "@imVkohli @mipaltan @RCBTweets Last year Tim David playing with RCB and this year Tim David Played for RCB 😂"
+INFO - [2022-05-21 22:47:22,266] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:47:32,893] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:47:32,893] - twitterbot - tweet id: [1528129077995261952] tweeted at: [2022-05-21 21:42:18+00:00]
+INFO - [2022-05-21 22:47:32,893] - twitterbot - tweeted by: "[Ashutosh Sharma]"
+INFO - [2022-05-21 22:47:32,893] - twitterbot - body: "RT @WasimJaffer14: Last year in Qualifier Rishabh gave Tom Curran the final over instead of Rabada and that cost DC dearly. And tonight he…"
+INFO - [2022-05-21 22:47:32,893] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:47:43,532] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:47:43,533] - twitterbot - tweet id: [1528129005106257920] tweeted at: [2022-05-21 21:42:00+00:00]
+INFO - [2022-05-21 22:47:43,533] - twitterbot - tweeted by: "[thozha]"
+INFO - [2022-05-21 22:47:43,533] - twitterbot - body: "RT @AbdullahNeaz: @RCBTweets @mipaltan RCB fans will remember Tim David for long long time. https://t.co/9J8NWLurRb"
+INFO - [2022-05-21 22:47:43,533] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:47:53,969] - twitterbot - tweets about #IPL2022
+
+INFO - [2022-05-21 22:47:54,640] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:47:54,640] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:47:54,919] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:47:54,919] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:47:55,199] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:47:55,199] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:47:55,489] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:47:55,489] - twitterbot - tweet id: [1528130273581223937] tweeted at: [2022-05-21 21:47:03+00:00]
+INFO - [2022-05-21 22:47:55,489] - twitterbot - tweeted by: "[Vighnaraj Narvekar]"
+INFO - [2022-05-21 22:47:55,490] - twitterbot - body: "RT @MishiAmit: Still remember when DC was at 8th position and defeated Mumbai to knock them out of the play offs.. Today Mumbai Indians did…"
+INFO - [2022-05-21 22:47:55,490] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:48:06,166] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:06,166] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:06,439] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:06,439] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:06,725] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:06,725] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:07,049] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:07,049] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:07,321] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:48:07,321] - twitterbot - tweet id: [1528130071323561985] tweeted at: [2022-05-21 21:46:14+00:00]
+INFO - [2022-05-21 22:48:07,321] - twitterbot - tweeted by: "[Vighnaraj Narvekar]"
+INFO - [2022-05-21 22:48:07,321] - twitterbot - body: "RT @ParagRiyan: Tim David is actually inhuman🤯🤯What a knock...
+#MIvsDC #IPL2022"
+INFO - [2022-05-21 22:48:07,321] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:48:18,010] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:18,011] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:18,310] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:18,311] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:18,607] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:18,607] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:18,909] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:18,909] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:19,209] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:48:19,209] - twitterbot - tweet id: [1528130000524017664] tweeted at: [2022-05-21 21:45:58+00:00]
+INFO - [2022-05-21 22:48:19,209] - twitterbot - tweeted by: "[Kiwi Kolla]"
+INFO - [2022-05-21 22:48:19,209] - twitterbot - body: "I'm not sure what I'm more excited about. MI finishing in style? RCB getting into Semi's? Waniya still having a pos… https://t.co/b9IDGuolMc"
+INFO - [2022-05-21 22:48:19,209] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:48:29,826] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:29,827] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:29,827] - twitterbot - tweets about Pant
+
+INFO - [2022-05-21 22:48:30,440] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:48:30,440] - twitterbot - tweet id: [1528130541148463105] tweeted at: [2022-05-21 21:48:06+00:00]
+INFO - [2022-05-21 22:48:30,440] - twitterbot - tweeted by: "[Abhay Sood]"
+INFO - [2022-05-21 22:48:30,440] - twitterbot - body: "@Nik77721 @faraziscrazy @DelhiCapitals @mipaltan @RishabhPant17 @Jaspritbumrah93 @AnrichNortje02 DC needs a strong… https://t.co/L4WUog1PoA"
+INFO - [2022-05-21 22:48:30,440] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:48:41,059] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:48:41,059] - twitterbot - tweet id: [1528130517417480192] tweeted at: [2022-05-21 21:48:01+00:00]
+INFO - [2022-05-21 22:48:41,060] - twitterbot - tweeted by: "[Leanne O'Sullivan]"
+INFO - [2022-05-21 22:48:41,060] - twitterbot - body: "This win for Anthony Albanese is the most transformative election you can imagine... A rejection of smarty-pant pol… https://t.co/oA4bLNfesF"
+INFO - [2022-05-21 22:48:41,060] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:48:51,673] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:51,673] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:51,965] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:51,965] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:52,244] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:52,244] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:52,528] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:48:52,529] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:48:52,806] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:48:52,807] - twitterbot - tweet id: [1528130022745448449] tweeted at: [2022-05-21 21:46:03+00:00]
+INFO - [2022-05-21 22:48:52,807] - twitterbot - tweeted by: "[🇮🇳 A N K I T 🇮🇳]"
+INFO - [2022-05-21 22:48:52,807] - twitterbot - body: "RT @GabbbarSingh: Rishabh Pant will use the saved referrals and open a Fixed deposit after the match."
+INFO - [2022-05-21 22:48:52,807] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:49:03,451] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:49:03,451] - twitterbot - tweet id: [1528129996404928512] tweeted at: [2022-05-21 21:45:57+00:00]
+INFO - [2022-05-21 22:49:03,451] - twitterbot - tweeted by: "[Monica Santese]"
+INFO - [2022-05-21 22:49:03,452] - twitterbot - body: ""... an election that rejected smarty-pant political tactics and messaging and a call for our political leaders to… https://t.co/UM30e6HLbE"
+INFO - [2022-05-21 22:49:03,452] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:49:14,074] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:49:14,074] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:49:14,354] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:49:14,354] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:49:14,621] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:49:14,621] - twitterbot - tweet id: [1528129879098544129] tweeted at: [2022-05-21 21:45:29+00:00]
+INFO - [2022-05-21 22:49:14,621] - twitterbot - tweeted by: "[Bindi]"
+INFO - [2022-05-21 22:49:14,622] - twitterbot - body: ""an election that rejected smarty-pant political tactics and messaging and a call for our political leaders to take… https://t.co/g9AYRcU7yN"
+INFO - [2022-05-21 22:49:14,622] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:49:25,263] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:49:25,263] - twitterbot - tweet id: [1528129833737371648] tweeted at: [2022-05-21 21:45:18+00:00]
+INFO - [2022-05-21 22:49:25,263] - twitterbot - tweeted by: "[mademoiselle cyntwaro]"
+INFO - [2022-05-21 22:49:25,263] - twitterbot - body: "Wait the pant suits Teresa is wearing this season is 🔥  #queenofthesouth"
+INFO - [2022-05-21 22:49:25,264] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:49:35,917] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:49:35,917] - twitterbot - tweet id: [1528129812979752960] tweeted at: [2022-05-21 21:45:13+00:00]
+INFO - [2022-05-21 22:49:35,918] - twitterbot - tweeted by: "[a]"
+INFO - [2022-05-21 22:49:35,918] - twitterbot - body: "RT @snigdhasinghh: pant was made the captain after iyer got ruled out of ipl due to his injury in an odi match. conspiracy theories are fun…"
+INFO - [2022-05-21 22:49:35,918] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:49:46,571] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:49:46,572] - twitterbot - tweet id: [1528129794428239873] tweeted at: [2022-05-21 21:45:08+00:00]
+INFO - [2022-05-21 22:49:46,572] - twitterbot - tweeted by: "[a]"
+INFO - [2022-05-21 22:49:46,572] - twitterbot - body: "RT @snigdhasinghh: y'all acting like iyer was fit but dc sacked him and made pant the captain. it was only in 2022 that they chose pant ove…"
+INFO - [2022-05-21 22:49:46,572] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:49:57,209] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:49:57,209] - twitterbot - tweet id: [1528129790577983489] tweeted at: [2022-05-21 21:45:08+00:00]
+INFO - [2022-05-21 22:49:57,209] - twitterbot - tweeted by: "[Josey Neighbors]"
+INFO - [2022-05-21 22:49:57,209] - twitterbot - body: "@ch3rrypoptarts The pant make turned on"
+INFO - [2022-05-21 22:49:57,209] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:50:07,562] - twitterbot - tweets about #Playoffs
+
+INFO - [2022-05-21 22:50:08,241] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:08,242] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:08,540] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:50:08,540] - twitterbot - tweet id: [1528130775509372928] tweeted at: [2022-05-21 21:49:02+00:00]
+INFO - [2022-05-21 22:50:08,540] - twitterbot - tweeted by: "[Niraj Kotuwal Chhetri..Northeast28]"
+INFO - [2022-05-21 22:50:08,540] - twitterbot - body: "RT @imAmanDubey: Congratulations RCB RCB &amp; Thank you Mumbai Indians #MIvsDC #Playoffs #MumbaiIndians https://t.co/y2564ldI3V"
+INFO - [2022-05-21 22:50:08,540] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:50:19,178] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:19,179] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:19,459] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:19,459] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:19,750] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:19,750] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:20,023] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:20,023] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:20,331] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:20,331] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:20,609] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:20,609] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:20,885] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:20,885] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:21,178] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:21,178] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:21,455] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:50:21,455] - twitterbot - tweet id: [1528130400534827008] tweeted at: [2022-05-21 21:47:33+00:00]
+INFO - [2022-05-21 22:50:21,455] - twitterbot - tweeted by: "[PSPK]"
+INFO - [2022-05-21 22:50:21,456] - twitterbot - body: "RT @mannanhabibi: Virat Kohli right now #kohli #Playoffs https://t.co/ktQ4Po8rL6"
+INFO - [2022-05-21 22:50:21,456] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:50:32,136] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:50:32,136] - twitterbot - tweet id: [1528130335829274624] tweeted at: [2022-05-21 21:47:18+00:00]
+INFO - [2022-05-21 22:50:32,137] - twitterbot - tweeted by: "[SHEHNAAZ GILL FC]"
+INFO - [2022-05-21 22:50:32,137] - twitterbot - body: "RT @LensMediatamil: who is Next #Bollywood SuperStar?
+
+Like - #KartikAaryan 
+
+Retweet - #SidharthMalhotra
+
+#DhaakadMania #Playoffs https://…"
+INFO - [2022-05-21 22:50:32,137] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:50:42,769] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:42,770] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:43,048] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:43,048] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:43,322] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:50:43,323] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:50:43,323] - twitterbot - tweets about #MumbaiIndians
+
+INFO - [2022-05-21 22:50:43,987] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:50:43,987] - twitterbot - tweet id: [1528131138832674816] tweeted at: [2022-05-21 21:50:29+00:00]
+INFO - [2022-05-21 22:50:43,987] - twitterbot - tweeted by: "[Abhishek]"
+INFO - [2022-05-21 22:50:43,987] - twitterbot - body: "This match was the perfect one to be looked into by Anti Corruption Unit if there's one. Very fishy activities by… https://t.co/HiaTLwbVn1"
+INFO - [2022-05-21 22:50:43,987] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:50:54,592] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:50:54,592] - twitterbot - tweet id: [1528131064018784256] tweeted at: [2022-05-21 21:50:11+00:00]
+INFO - [2022-05-21 22:50:54,592] - twitterbot - tweeted by: "[siva ram bharath]"
+INFO - [2022-05-21 22:50:54,593] - twitterbot - body: "RT @mipaltan: 3⃣ Big wickets 🤩
+3⃣ Post-match awards 🏆
+1⃣ B💥💥M spell 💙
+
+#OneFamily #DilKholKe #MumbaiIndians #MIvDC @Jaspritbumrah93 https:/…"
+INFO - [2022-05-21 22:50:54,593] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:51:05,240] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:51:05,241] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:51:05,536] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:51:05,536] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:51:05,809] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:51:05,810] - twitterbot - tweet id: [1528130683368984576] tweeted at: [2022-05-21 21:48:40+00:00]
+INFO - [2022-05-21 22:51:05,810] - twitterbot - tweeted by: "[Radhikaarora]"
+INFO - [2022-05-21 22:51:05,810] - twitterbot - body: "RT @parthiv9: This season was an emotional journey for #MumbaiIndians. With so many chapters that teach valuable lesson, I hope for a stron…"
+INFO - [2022-05-21 22:51:05,810] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:51:16,428] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:51:16,428] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:51:16,715] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:51:16,715] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:51:16,998] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:51:16,999] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:51:17,287] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:51:17,287] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:51:17,555] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:51:17,556] - twitterbot - tweet id: [1528130157713555456] tweeted at: [2022-05-21 21:46:35+00:00]
+INFO - [2022-05-21 22:51:17,556] - twitterbot - tweeted by: "[🦁 MADHAV chowdaRRRy 🦁]"
+INFO - [2022-05-21 22:51:17,556] - twitterbot - body: "RT @mipaltan: Over to you guys! May the best team win! 💙👍
+
+#OneFamily #DilKholKe #MumbaiIndians #MIvDC @gujarat_titans @rajasthanroyals @Lu…"
+INFO - [2022-05-21 22:51:17,556] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:51:28,272] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:51:28,272] - twitterbot - tweet id: [1528129970983567360] tweeted at: [2022-05-21 21:45:51+00:00]
+INFO - [2022-05-21 22:51:28,272] - twitterbot - tweeted by: "[🦁 MADHAV chowdaRRRy 🦁]"
+INFO - [2022-05-21 22:51:28,272] - twitterbot - body: "RT @mipaltan: आमच्या पलटन सारखं कोणीच नाही 🥹💙
+
+Thank you for your relentless support throughout the season! 🙌
+
+#OneFamily #DilKholKe #Mumba…"
+INFO - [2022-05-21 22:51:28,272] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:51:38,906] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:51:38,906] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:51:39,186] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:51:39,186] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:51:39,470] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:51:39,470] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:51:39,755] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:51:39,755] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:51:39,756] - twitterbot - tweets about rcb rcb
+
+INFO - [2022-05-21 22:51:40,430] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:51:40,431] - twitterbot - tweet id: [1528131391631683585] tweeted at: [2022-05-21 21:51:29+00:00]
+INFO - [2022-05-21 22:51:40,431] - twitterbot - tweeted by: "[Chloe-Amanda Bailey]"
+INFO - [2022-05-21 22:51:40,431] - twitterbot - body: "@IbrahimPinjar13 Hello Ibrahim, haa of course I remember. Congrats on RCB in the playoffs!"
+INFO - [2022-05-21 22:51:40,431] - twitterbot - The tweet was favored!
+ERROR - [2022-05-21 22:51:51,027] - twitterbot - 404 Not Found
+144 - No status found with that ID.
+INFO - [2022-05-21 22:55:29,728] - twitterbot - Welcome to twitterbot! Authenticating ...
+INFO - [2022-05-21 22:55:29,729] - twitterbot - Python/3.7.3 Requests/2.27.1 Tweepy/4.4.0
+INFO - [2022-05-21 22:55:29,729] - twitterbot - Fetching available locations.
+INFO - [2022-05-21 22:55:30,002] - twitterbot - Writing locations to a file.
+INFO - [2022-05-21 22:55:30,008] - twitterbot - Finding closest location.
+INFO - [2022-05-21 22:56:00,350] - twitterbot - Gathering trends closer to your location.
+INFO - [2022-05-21 22:56:00,880] - twitterbot - Writing trends to a file.
+INFO - [2022-05-21 22:56:00,881] - twitterbot - Reading trends from file.
+INFO - [2022-05-21 22:56:00,881] - twitterbot - tweets about #MIvsDC
+
+INFO - [2022-05-21 22:56:01,633] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:56:01,634] - twitterbot - tweet id: [1528132338798174209] tweeted at: [2022-05-21 21:55:15+00:00]
+INFO - [2022-05-21 22:56:01,634] - twitterbot - tweeted by: "[CRICKET JUNKY]"
+INFO - [2022-05-21 22:56:01,634] - twitterbot - body: "Top scorer from Delhi capitals helps his team to reach the defensive total of 159
+
+#rovmanpowell #delhicapitals… https://t.co/AS6VTrCvUv"
+INFO - [2022-05-21 22:56:01,634] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:56:12,249] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:56:12,250] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:56:12,525] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:56:12,525] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:56:12,810] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:56:12,810] - twitterbot - tweet id: [1528132122757967873] tweeted at: [2022-05-21 21:54:24+00:00]
+INFO - [2022-05-21 22:56:12,811] - twitterbot - tweeted by: "[Name Cannot be blank]"
+INFO - [2022-05-21 22:56:12,811] - twitterbot - body: "Fellin sed for @RishabhPant17 
+#Pant #MIvsDC https://t.co/Oekn8VlzNZ"
+INFO - [2022-05-21 22:56:12,811] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:56:23,461] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:56:23,462] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:56:23,737] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:56:23,737] - twitterbot - tweet id: [1528131901415882752] tweeted at: [2022-05-21 21:53:31+00:00]
+INFO - [2022-05-21 22:56:23,737] - twitterbot - tweeted by: "[Smart_Swag]"
+INFO - [2022-05-21 22:56:23,737] - twitterbot - body: "RT @DelhiCapitals: 5⃣ to defend off the last over 🤐🤐
+
+#MIvsDC"
+INFO - [2022-05-21 22:56:23,737] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:57:54,380] - twitterbot - Welcome to twitterbot! Authenticating ...
+INFO - [2022-05-21 22:57:54,381] - twitterbot - Python/3.7.3 Requests/2.27.1 Tweepy/4.4.0
+INFO - [2022-05-21 22:57:54,381] - twitterbot - Fetching available locations.
+INFO - [2022-05-21 22:57:54,654] - twitterbot - Writing locations to a file.
+INFO - [2022-05-21 22:57:54,660] - twitterbot - Finding closest location.
+INFO - [2022-05-21 22:57:54,998] - twitterbot - Gathering trends closer to your location.
+INFO - [2022-05-21 22:57:55,518] - twitterbot - Writing trends to a file.
+INFO - [2022-05-21 22:57:55,519] - twitterbot - Reading trends from file.
+INFO - [2022-05-21 22:57:55,519] - twitterbot - tweets about #MIvsDC
+
+INFO - [2022-05-21 22:57:56,218] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:57:56,218] - twitterbot - tweet id: [1528132598920318977] tweeted at: [2022-05-21 21:56:17+00:00]
+INFO - [2022-05-21 22:57:56,219] - twitterbot - tweeted by: "[Am]"
+INFO - [2022-05-21 22:57:56,219] - twitterbot - body: "RT @himalayahere: RCB to MI &amp; #RishabhPant
+#MIvsDC #DCvsMI https://t.co/PaX9SqGt78"
+INFO - [2022-05-21 22:57:56,219] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:58:06,851] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:58:06,851] - twitterbot - tweet id: [1528132532494954497] tweeted at: [2022-05-21 21:56:01+00:00]
+INFO - [2022-05-21 22:58:06,852] - twitterbot - tweeted by: "[Ajinkya Repal | अजिंक्य रेपाळ]"
+INFO - [2022-05-21 22:58:06,852] - twitterbot - body: "RT @Umarbison: Feel hard about DC. The chants of RCB RCB were so high that they weren't able to hear edge sound🤣🤣. Now this some real fanba…"
+INFO - [2022-05-21 22:58:06,852] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:58:17,499] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:58:17,499] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:58:17,774] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:58:17,774] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:58:18,068] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:58:18,068] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:58:18,337] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:58:18,337] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:58:18,606] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:58:18,606] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:58:18,880] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:58:18,880] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:58:19,168] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:58:19,168] - twitterbot - tweet id: [1528131882285678594] tweeted at: [2022-05-21 21:53:26+00:00]
+INFO - [2022-05-21 22:58:19,168] - twitterbot - tweeted by: "[Smart_Swag]"
+INFO - [2022-05-21 22:58:19,168] - twitterbot - body: "RT @DelhiCapitals: The emotions this game makes you feel 🥺
+
+Still proud of the fight from the DC boys 💙
+
+#MIvsDC"
+INFO - [2022-05-21 22:58:19,168] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:58:29,846] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:58:29,847] - twitterbot - tweet id: [1528131871250518017] tweeted at: [2022-05-21 21:53:24+00:00]
+INFO - [2022-05-21 22:58:29,847] - twitterbot - tweeted by: "[Smart_Swag]"
+INFO - [2022-05-21 22:58:29,847] - twitterbot - body: "RT @DelhiCapitals: Our season ends with a 💔 at Wankhede.
+
+#YehHaiNayiDilli | #IPL2022
+#TATAIPL | #IPL | #DelhiCapitals | #MIvsDC https://t.…"
+INFO - [2022-05-21 22:58:29,847] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:58:40,477] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:58:40,478] - twitterbot - tweet id: [1528131774160769025] tweeted at: [2022-05-21 21:53:00+00:00]
+INFO - [2022-05-21 22:58:40,478] - twitterbot - tweeted by: "[Aryan 🇮🇳]"
+INFO - [2022-05-21 22:58:40,478] - twitterbot - body: "RT @EHuman0: Playoff me pahuchne ke baad  😂😂
+#MIvsDC 
+#RCB https://t.co/BF97CA0918"
+INFO - [2022-05-21 22:58:40,479] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:58:51,128] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:58:51,128] - twitterbot - tweet id: [1528131755915366400] tweeted at: [2022-05-21 21:52:56+00:00]
+INFO - [2022-05-21 22:58:51,128] - twitterbot - tweeted by: "[தங்கமகன் தனுஷ் 👑 | ʀᴄʙ ❤️]"
+INFO - [2022-05-21 22:58:51,129] - twitterbot - body: "RT @AbdeFansTrends: We Are Qualifed ❤️❤️
+
+#Rcb #MIvsDC https://t.co/KkCQIpY3Y9"
+INFO - [2022-05-21 22:58:51,129] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:59:01,754] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:01,755] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:02,020] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:02,020] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:02,291] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:02,292] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:02,293] - twitterbot - tweets about #DCvsMI
+
+INFO - [2022-05-21 22:59:02,957] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:02,958] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:03,250] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:59:03,250] - twitterbot - tweet id: [1528133180473024512] tweeted at: [2022-05-21 21:58:36+00:00]
+INFO - [2022-05-21 22:59:03,250] - twitterbot - tweeted by: "[Sunil Kaushal]"
+INFO - [2022-05-21 22:59:03,251] - twitterbot - body: "Crap 😔😔😣😢 did @mipaltan have to spoil @DelhiCapitals advancement. So close yet too far. Never mind hopefully 23 wil… https://t.co/s9UGj43j8K"
+INFO - [2022-05-21 22:59:03,251] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:59:13,891] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:13,892] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:14,178] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:14,179] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:14,458] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:14,458] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:14,748] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:14,749] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:15,024] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:15,024] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:15,295] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:15,295] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:15,585] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:15,586] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:15,851] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:59:15,852] - twitterbot - tweet id: [1528131418424913920] tweeted at: [2022-05-21 21:51:36+00:00]
+INFO - [2022-05-21 22:59:15,852] - twitterbot - tweeted by: "[Raj Rohit]"
+INFO - [2022-05-21 22:59:15,852] - twitterbot - body: "#DCvsMI 
+
+@DelhiCapitals @ParthJindal11 @RishabhPant17  how much money have you earned today?
+1: poor Batting 
+2: D… https://t.co/kDjfMcgDpi"
+INFO - [2022-05-21 22:59:15,852] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:59:26,478] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:26,478] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:26,757] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:26,758] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:27,029] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:27,029] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:27,304] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:27,304] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:27,577] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 22:59:27,578] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 22:59:27,578] - twitterbot - tweets about Tim David
+
+INFO - [2022-05-21 22:59:28,246] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:59:28,246] - twitterbot - tweet id: [1528133330901692416] tweeted at: [2022-05-21 21:59:12+00:00]
+INFO - [2022-05-21 22:59:28,246] - twitterbot - tweeted by: "[Yaseen Shaikh]"
+INFO - [2022-05-21 22:59:28,246] - twitterbot - body: "RT @CricketNDTV: Rishabh Pant decided not to review a caught behind appeal against Tim David and the Singaporean went on to score 34 runs i…"
+INFO - [2022-05-21 22:59:28,247] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:59:38,889] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:59:38,889] - twitterbot - tweet id: [1528133211582148608] tweeted at: [2022-05-21 21:58:43+00:00]
+INFO - [2022-05-21 22:59:38,890] - twitterbot - tweeted by: "[Rana Parveen]"
+INFO - [2022-05-21 22:59:38,890] - twitterbot - body: "Never had a better reason to ask Tim David to play for Australia. https://t.co/bqE7kMiN8V"
+INFO - [2022-05-21 22:59:38,890] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 22:59:49,583] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 22:59:49,583] - twitterbot - tweet id: [1528133196528992257] tweeted at: [2022-05-21 21:58:40+00:00]
+INFO - [2022-05-21 22:59:49,583] - twitterbot - tweeted by: "[Arslan(bobby)]"
+INFO - [2022-05-21 22:59:49,583] - twitterbot - body: "I still remember in first 1-2 matches how indian trolled him saying he can play only in psl third class league 😂
+No… https://t.co/QkUNwibhrh"
+INFO - [2022-05-21 22:59:49,583] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:00:00,205] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:00:00,205] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:00:00,478] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:00:00,478] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:00:00,751] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:00:00,752] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:00:01,021] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:00:01,021] - twitterbot - tweet id: [1528132494817648642] tweeted at: [2022-05-21 21:55:52+00:00]
+INFO - [2022-05-21 23:00:01,021] - twitterbot - tweeted by: "[Praveen]"
+INFO - [2022-05-21 23:00:01,022] - twitterbot - body: "RT @ESPNcricinfo: Tim David has arrived 🌟 
+
+#MIvDC | #IPL2022 
+
+▶️ https://t.co/2QmPm76hEh https://t.co/VcWjmNrAgq"
+INFO - [2022-05-21 23:00:01,022] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:00:11,628] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:00:11,628] - twitterbot - tweet id: [1528132381869481984] tweeted at: [2022-05-21 21:55:25+00:00]
+INFO - [2022-05-21 23:00:11,628] - twitterbot - tweeted by: "[cricket.com.au]"
+INFO - [2022-05-21 23:00:11,628] - twitterbot - body: "A spectacular innings from Tim David has sent Warner and Marsh crashing out of the #IPL20222 playoffs 
+
+https://t.co/laFFX4dY9s"
+INFO - [2022-05-21 23:00:11,628] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:00:22,284] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:00:22,285] - twitterbot - tweet id: [1528132317583007745] tweeted at: [2022-05-21 21:55:10+00:00]
+INFO - [2022-05-21 23:00:22,285] - twitterbot - tweeted by: "[sridharAadhf🪓]"
+INFO - [2022-05-21 23:00:22,285] - twitterbot - body: "RT @ashaa_45: Tim David ,Tilak Varma ,Dewald Brevis 💙
+We can surely say that Our Future is in safe hands 
+@mipaltan https://t.co/ubAtLTDkkF"
+INFO - [2022-05-21 23:00:22,285] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:00:32,898] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:00:32,899] - twitterbot - tweet id: [1528132042637967360] tweeted at: [2022-05-21 21:54:04+00:00]
+INFO - [2022-05-21 23:00:32,899] - twitterbot - tweeted by: "[Radhikaarora]"
+INFO - [2022-05-21 23:00:32,899] - twitterbot - body: "RT @TheRampShot: No way crowd started chanting RCB RCB and Tim David gave away his wicket. Even their name is cursed 😭😭"
+INFO - [2022-05-21 23:00:32,899] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:00:43,517] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:00:43,518] - twitterbot - tweet id: [1528131986774106112] tweeted at: [2022-05-21 21:53:51+00:00]
+INFO - [2022-05-21 23:00:43,518] - twitterbot - tweeted by: "[Radhikaarora]"
+INFO - [2022-05-21 23:00:43,518] - twitterbot - body: "RT @mufaddal_vohra: What a knock by Tim David - 34 (11). What a giant he's, a ridiculous innings. Take a bow, David. https://t.co/ApbWR7nscb"
+INFO - [2022-05-21 23:00:43,518] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:00:54,175] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:00:54,175] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:00:54,456] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:00:54,458] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:00:54,739] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:00:54,739] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:00:55,011] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:00:55,011] - twitterbot - tweet id: [1528131811162722304] tweeted at: [2022-05-21 21:53:09+00:00]
+INFO - [2022-05-21 23:00:55,011] - twitterbot - tweeted by: "[Praveen]"
+INFO - [2022-05-21 23:00:55,012] - twitterbot - body: "RT @CricCrazyJohns: Tim David is the hero for RCB."
+INFO - [2022-05-21 23:00:55,012] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:01:05,347] - twitterbot - tweets about #IPL2022
+
+INFO - [2022-05-21 23:01:06,021] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:06,021] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:06,303] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:06,304] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:06,574] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:01:06,575] - twitterbot - tweet id: [1528133708674256896] tweeted at: [2022-05-21 22:00:42+00:00]
+INFO - [2022-05-21 23:01:06,576] - twitterbot - tweeted by: "[A B H A I || Bowled Through The Gate ™]"
+INFO - [2022-05-21 23:01:06,577] - twitterbot - body: "Rohit Sharma in #IPL2022 for #MumbaiIndians:
+
+14 games
+14 innings
+268 runs @ 19.14
+SR - 120
+Best - 48
+
+This is his… https://t.co/WF7OmWZIbO"
+INFO - [2022-05-21 23:01:06,578] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:01:17,212] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:17,213] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:17,481] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:17,481] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:17,758] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:17,758] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:18,092] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:18,093] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:18,368] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:18,368] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:18,643] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:18,643] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:18,924] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:18,924] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:19,203] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:19,203] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:19,490] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:19,490] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:19,771] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:19,771] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:20,048] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:20,048] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:20,322] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:01:20,322] - twitterbot - tweet id: [1528133326074261505] tweeted at: [2022-05-21 21:59:10+00:00]
+INFO - [2022-05-21 23:01:20,322] - twitterbot - tweeted by: "[IPL ]"
+INFO - [2022-05-21 23:01:20,323] - twitterbot - body: "RT @Manishsunder: Onto supporting my second fav team this season @gujarat_titans #AavaDe #IPL #IPL2022 #TATAIPL2022"
+INFO - [2022-05-21 23:01:20,323] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:01:30,666] - twitterbot - tweets about Pant
+
+INFO - [2022-05-21 23:01:31,337] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:01:31,337] - twitterbot - tweet id: [1528133799099387906] tweeted at: [2022-05-21 22:01:03+00:00]
+INFO - [2022-05-21 23:01:31,338] - twitterbot - tweeted by: "[ᵃʷᵒᵒᵒᵒᵒᵒ]"
+INFO - [2022-05-21 23:01:31,338] - twitterbot - body: "*pant* *pant*"
+INFO - [2022-05-21 23:01:31,339] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:01:42,121] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:01:42,121] - twitterbot - tweet id: [1528133775661871104] tweeted at: [2022-05-21 22:00:58+00:00]
+INFO - [2022-05-21 23:01:42,121] - twitterbot - tweeted by: "[Glenn McBurney]"
+INFO - [2022-05-21 23:01:42,121] - twitterbot - body: "RT @adammshirley: ,@latingle the morning after #ausvotes
+
+"...an election that rejected smarty-pant political tactics and messaging and a c…"
+INFO - [2022-05-21 23:01:42,121] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:01:52,769] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:01:52,769] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:01:53,036] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:01:53,036] - twitterbot - tweet id: [1528133627430715392] tweeted at: [2022-05-21 22:00:22+00:00]
+INFO - [2022-05-21 23:01:53,036] - twitterbot - tweeted by: "[Shadu Shah]"
+INFO - [2022-05-21 23:01:53,036] - twitterbot - body: "which gender owns shalwar kameez? no one. pant shirt, no one really. no clothes were ever owned by any gender. your… https://t.co/0sQ6jjY0ro"
+INFO - [2022-05-21 23:01:53,037] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:02:03,666] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:02:03,666] - twitterbot - tweet id: [1528133587907878915] tweeted at: [2022-05-21 22:00:13+00:00]
+INFO - [2022-05-21 23:02:03,667] - twitterbot - tweeted by: "[Breed Cratton]"
+INFO - [2022-05-21 23:02:03,667] - twitterbot - body: "I like Pant, no doubt about that, but these are learnings which you learn only at a young age. He's probably the fu… https://t.co/ILWkPnpwS7"
+INFO - [2022-05-21 23:02:03,667] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:02:14,325] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:02:14,325] - twitterbot - tweet id: [1528133454835195908] tweeted at: [2022-05-21 21:59:41+00:00]
+INFO - [2022-05-21 23:02:14,325] - twitterbot - tweeted by: "[JessicaOsadolor]"
+INFO - [2022-05-21 23:02:14,325] - twitterbot - body: "@odogwupanther @zee_zhu_ @FeyiiSZN @TripleHay001 This pant fit give Kanye West inspiration for he fashion line o😁"
+INFO - [2022-05-21 23:02:14,326] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:02:24,949] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:02:24,950] - twitterbot - tweet id: [1528133446500900864] tweeted at: [2022-05-21 21:59:39+00:00]
+INFO - [2022-05-21 23:02:24,950] - twitterbot - tweeted by: "[Zeeshan]"
+INFO - [2022-05-21 23:02:24,950] - twitterbot - body: "@DelhiCapitals Respectfully, Please remove pant as captain, he need some more time to take this responsibility."
+INFO - [2022-05-21 23:02:24,951] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:02:35,558] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:02:35,559] - twitterbot - tweet id: [1528133352896679936] tweeted at: [2022-05-21 21:59:17+00:00]
+INFO - [2022-05-21 23:02:35,559] - twitterbot - tweeted by: "[Yaseen Shaikh]"
+INFO - [2022-05-21 23:02:35,559] - twitterbot - body: "RT @mipaltan: Boom vs Pant is one 🔥 battle! 🤩"
+INFO - [2022-05-21 23:02:35,559] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:02:46,173] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:02:46,173] - twitterbot - tweet id: [1528133339869089792] tweeted at: [2022-05-21 21:59:14+00:00]
+INFO - [2022-05-21 23:02:46,173] - twitterbot - tweeted by: "[Yaseen Shaikh]"
+INFO - [2022-05-21 23:02:46,173] - twitterbot - body: "RT @mipaltan: Tilak edges one behind to Pant, departs 😓"
+INFO - [2022-05-21 23:02:46,173] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:02:56,796] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:02:56,796] - twitterbot - tweet id: [1528133338577481730] tweeted at: [2022-05-21 21:59:13+00:00]
+INFO - [2022-05-21 23:02:56,796] - twitterbot - tweeted by: "[Chelle]"
+INFO - [2022-05-21 23:02:56,796] - twitterbot - body: "@AngryBlackLady I like the contrast of the blue. Can you find blue full-length? Maybe even long enough to just grac… https://t.co/1CRbzrWmfO"
+INFO - [2022-05-21 23:02:56,796] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:03:07,413] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:07,413] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:07,683] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:07,684] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:07,963] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:03:07,963] - twitterbot - tweet id: [1528133217160531968] tweeted at: [2022-05-21 21:58:44+00:00]
+INFO - [2022-05-21 23:03:07,964] - twitterbot - tweeted by: "[Ajinkya Repal | अजिंक्य रेपाळ]"
+INFO - [2022-05-21 23:03:07,964] - twitterbot - body: "RT @ShubhGu20673927: Ponting to Pant 🙂🙂 https://t.co/mw6WZapYW0"
+INFO - [2022-05-21 23:03:07,964] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:03:18,612] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:03:18,613] - twitterbot - tweet id: [1528133209825103872] tweeted at: [2022-05-21 21:58:43+00:00]
+INFO - [2022-05-21 23:03:18,613] - twitterbot - tweeted by: "[Aakash Sharma]"
+INFO - [2022-05-21 23:03:18,613] - twitterbot - body: "RT @ambanidaww: Never ever Pant should be given Indian captaincy in future.
+Zero game sense, 2 reviews in the bag, 15th over of the match,…"
+INFO - [2022-05-21 23:03:18,613] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:03:29,278] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:03:29,279] - twitterbot - tweet id: [1528133168359952385] tweeted at: [2022-05-21 21:58:33+00:00]
+INFO - [2022-05-21 23:03:29,279] - twitterbot - tweeted by: "[♏️ecedez Josh 👽😷]"
+INFO - [2022-05-21 23:03:29,279] - twitterbot - body: "See that pant 🔥 https://t.co/TqKYknDabV"
+INFO - [2022-05-21 23:03:29,279] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:03:39,626] - twitterbot - tweets about #Playoffs
+
+INFO - [2022-05-21 23:03:40,293] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:40,294] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:40,599] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:40,599] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:40,876] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:40,877] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:41,165] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:41,165] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:41,443] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:41,443] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:41,740] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:41,740] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:42,071] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:42,072] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:42,348] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:42,348] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:42,647] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:42,648] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:42,984] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:42,985] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:43,264] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:43,264] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:43,542] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:43,543] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:43,830] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:43,831] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:44,172] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:44,172] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:44,449] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:44,450] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:44,450] - twitterbot - tweets about #MumbaiIndians
+
+INFO - [2022-05-21 23:03:45,115] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:45,115] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:45,380] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:45,380] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:45,642] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:03:45,642] - twitterbot - tweet id: [1528133596921200640] tweeted at: [2022-05-21 22:00:15+00:00]
+INFO - [2022-05-21 23:03:45,642] - twitterbot - tweeted by: "[De@n S@!f!]"
+INFO - [2022-05-21 23:03:45,643] - twitterbot - body: "@imVkohli @mipaltan @RCBTweets Plz don’t waste hard work of #MumbaiIndians"
+INFO - [2022-05-21 23:03:45,643] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:03:56,274] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:56,274] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:56,549] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:03:56,549] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:03:56,814] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:03:56,814] - twitterbot - tweet id: [1528132909466411008] tweeted at: [2022-05-21 21:57:31+00:00]
+INFO - [2022-05-21 23:03:56,814] - twitterbot - tweeted by: "[Naveed Khan]"
+INFO - [2022-05-21 23:03:56,814] - twitterbot - body: "@mipaltan Finally Mumbai Indians did something useful in IPL 2022. Rohit Shrama is a useless captain. He should ste… https://t.co/FrYYBpkrwO"
+INFO - [2022-05-21 23:03:56,815] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:04:07,467] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:04:07,468] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:04:07,747] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:04:07,748] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:04:08,029] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:04:08,029] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:04:08,305] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:04:08,305] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:04:08,580] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:04:08,581] - twitterbot - tweet id: [1528131478810673152] tweeted at: [2022-05-21 21:51:50+00:00]
+INFO - [2022-05-21 23:04:08,581] - twitterbot - tweeted by: "[rgv follower ni🙊🙉🙈]"
+INFO - [2022-05-21 23:04:08,581] - twitterbot - body: "RT @mipaltan: Ending the season with a sweet 𝐖 💙
+
+#OneFamily #DilKholKe #MumbaiIndians #MIvDC https://t.co/uOJuv6WnUP"
+INFO - [2022-05-21 23:04:08,581] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:04:19,239] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:04:19,239] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:04:19,505] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:04:19,505] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:04:19,795] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:04:19,795] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:04:20,083] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:04:20,084] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:04:20,084] - twitterbot - tweets about rcb rcb
+
+INFO - [2022-05-21 23:04:20,788] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:04:20,788] - twitterbot - tweet id: [1528134540991950848] tweeted at: [2022-05-21 22:04:00+00:00]
+INFO - [2022-05-21 23:04:20,788] - twitterbot - tweeted by: "[தங்கமகன் தனுஷ் 👑 | ʀᴄʙ ❤️]"
+INFO - [2022-05-21 23:04:20,788] - twitterbot - body: "RT @SushantNMehta: We didn’t deserve to go to the playoffs #RCB handled the pressure &amp; got the job done"
+INFO - [2022-05-21 23:04:20,789] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:04:31,392] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:04:31,392] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:04:31,660] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:04:31,660] - twitterbot - tweet id: [1528134504602169344] tweeted at: [2022-05-21 22:03:51+00:00]
+INFO - [2022-05-21 23:04:31,660] - twitterbot - tweeted by: "[Sachin Kumar Mishra]"
+INFO - [2022-05-21 23:04:31,660] - twitterbot - body: "RT @mufaddal_vohra: A massive thank you to Mumbai Indians.
+
+On behalf of all RCB fans!"
+INFO - [2022-05-21 23:04:31,661] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:04:42,265] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:04:42,266] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:04:42,539] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:04:42,540] - twitterbot - tweet id: [1528134472369000448] tweeted at: [2022-05-21 22:03:44+00:00]
+INFO - [2022-05-21 23:04:42,540] - twitterbot - tweeted by: "[Vasu Dev🇮🇳]"
+INFO - [2022-05-21 23:04:42,540] - twitterbot - body: "RT @ImTanujSingh: Irfan Pathan predicts that IPL 2022 Final will be played between RCB vs RR."
+INFO - [2022-05-21 23:04:42,540] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:04:53,148] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:04:53,148] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:04:53,423] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:04:53,424] - twitterbot - tweet id: [1528134400814092289] tweeted at: [2022-05-21 22:03:27+00:00]
+INFO - [2022-05-21 23:04:53,424] - twitterbot - tweeted by: "[Shreyar]"
+INFO - [2022-05-21 23:04:53,424] - twitterbot - body: "Naagpada ka raider 😱😱
+VK❤Munnu 
+
+RCB Whole team watching this ...Crazeeeeeeedded
+HUPPPPP
+
+VK MAXWELL SIRAJ… https://t.co/l5mnUaYFHe"
+INFO - [2022-05-21 23:04:53,424] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:05:04,052] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:05:04,052] - twitterbot - tweet id: [1528134389623685120] tweeted at: [2022-05-21 22:03:24+00:00]
+INFO - [2022-05-21 23:05:04,052] - twitterbot - tweeted by: "[தங்கமகன் தனுஷ் 👑 | ʀᴄʙ ❤️]"
+INFO - [2022-05-21 23:05:04,053] - twitterbot - body: "RT @VIPERoffl: RT this if you too Believe in #RCB 🙌🏻 https://t.co/9NvShQR8Hd"
+INFO - [2022-05-21 23:05:04,053] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:05:14,678] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:05:14,678] - twitterbot - tweet id: [1528134372980797440] tweeted at: [2022-05-21 22:03:20+00:00]
+INFO - [2022-05-21 23:05:14,678] - twitterbot - tweeted by: "[निखिल मणि (NM)]"
+INFO - [2022-05-21 23:05:14,678] - twitterbot - body: "RT @Atheist_Krishna: RCB fans right now ........! https://t.co/EAq5KYO34n"
+INFO - [2022-05-21 23:05:14,679] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:05:25,344] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:05:25,344] - twitterbot - tweet id: [1528134333764370432] tweeted at: [2022-05-21 22:03:11+00:00]
+INFO - [2022-05-21 23:05:25,345] - twitterbot - tweeted by: "[Santosh hakke]"
+INFO - [2022-05-21 23:05:25,345] - twitterbot - body: "@imVkohli @mipaltan @RCBTweets Plzzz win this trophy KING VIRAT KOHLI sir(chiku baya) 🙏🙏🙏❤️ RCB forever ❤️"
+INFO - [2022-05-21 23:05:25,345] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:05:35,986] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:05:35,987] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:05:36,279] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:05:36,280] - twitterbot - tweet id: [1528134296417882112] tweeted at: [2022-05-21 22:03:02+00:00]
+INFO - [2022-05-21 23:05:36,280] - twitterbot - tweeted by: "[TIASHA]"
+INFO - [2022-05-21 23:05:36,280] - twitterbot - body: "RT @Ajith_tweets: The loyalty of RCB fans is unreal. Match between MI and DC at the Wankhede, and the crowd goes #AaarCeeeBeee #AaarCeeeBee…"
+INFO - [2022-05-21 23:05:36,280] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:05:46,934] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:05:46,935] - twitterbot - tweet id: [1528134286066429952] tweeted at: [2022-05-21 22:02:59+00:00]
+INFO - [2022-05-21 23:05:46,935] - twitterbot - tweeted by: "[தங்கமகன் தனுஷ் 👑 | ʀᴄʙ ❤️]"
+INFO - [2022-05-21 23:05:46,935] - twitterbot - body: "RT @CricCrazyJohns: If MI wins today: RCB into play-offs.
+If DC wins today: DC into play-offs."
+INFO - [2022-05-21 23:05:46,935] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:05:57,556] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:05:57,557] - twitterbot - tweet id: [1528134281880428545] tweeted at: [2022-05-21 22:02:58+00:00]
+INFO - [2022-05-21 23:05:57,557] - twitterbot - tweeted by: "[Nitin]"
+INFO - [2022-05-21 23:05:57,557] - twitterbot - body: "RT @cricketaakash: Bina match khele Jeetne Wali team ko RCB kehte hain. Through to the final 4 ✌️"
+INFO - [2022-05-21 23:05:57,558] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:06:08,164] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:06:08,164] - twitterbot - tweet id: [1528134254848262144] tweeted at: [2022-05-21 22:02:52+00:00]
+INFO - [2022-05-21 23:06:08,165] - twitterbot - tweeted by: "[Kalyani Sharma]"
+INFO - [2022-05-21 23:06:08,165] - twitterbot - body: "#MIvDC such a sad inning did RCB manifestation actually work"
+INFO - [2022-05-21 23:06:08,165] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:06:18,530] - twitterbot - tweets about Daily Quordle 118
+
+INFO - [2022-05-21 23:06:19,201] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:06:19,201] - twitterbot - tweet id: [1528135047479533569] tweeted at: [2022-05-21 22:06:01+00:00]
+INFO - [2022-05-21 23:06:19,201] - twitterbot - tweeted by: "[lefika.]"
+INFO - [2022-05-21 23:06:19,201] - twitterbot - body: "Daily Quordle 118
+3️⃣4️⃣
+5️⃣7️⃣
+https://t.co/X10duwZZCz"
+INFO - [2022-05-21 23:06:19,201] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:06:29,820] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:06:29,821] - twitterbot - tweet id: [1528134965980196864] tweeted at: [2022-05-21 22:05:41+00:00]
+INFO - [2022-05-21 23:06:29,821] - twitterbot - tweeted by: "[きつねのめい]"
+INFO - [2022-05-21 23:06:29,821] - twitterbot - body: "Daily Quordle 118
+3️⃣7️⃣
+4️⃣6️⃣
+https://t.co/TPk61ulkkFいけた https://t.co/oVida0E8yw"
+INFO - [2022-05-21 23:06:29,821] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:06:40,455] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:06:40,455] - twitterbot - tweet id: [1528134910996791301] tweeted at: [2022-05-21 22:05:28+00:00]
+INFO - [2022-05-21 23:06:40,455] - twitterbot - tweeted by: "[Chris Marston]"
+INFO - [2022-05-21 23:06:40,455] - twitterbot - body: "Daily Quordle 118
+5️⃣6️⃣
+4️⃣7️⃣
+https://t.co/iGdP4b9uq3 https://t.co/f4lmUGClfW"
+INFO - [2022-05-21 23:06:40,455] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:06:51,047] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:06:51,048] - twitterbot - tweet id: [1528134869229965312] tweeted at: [2022-05-21 22:05:18+00:00]
+INFO - [2022-05-21 23:06:51,048] - twitterbot - tweeted by: "[Barkha Samnani]"
+INFO - [2022-05-21 23:06:51,048] - twitterbot - body: "Daily Quordle 118
+4️⃣7️⃣
+3️⃣6️⃣
+https://t.co/cRrV2rSA53 https://t.co/tD6VtqTZfA"
+INFO - [2022-05-21 23:06:51,048] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:07:01,653] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:07:01,653] - twitterbot - tweet id: [1528134857011888129] tweeted at: [2022-05-21 22:05:15+00:00]
+INFO - [2022-05-21 23:07:01,654] - twitterbot - tweeted by: "[Yass]"
+INFO - [2022-05-21 23:07:01,654] - twitterbot - body: "Daily Quordle 118
+5️⃣6️⃣
+7️⃣8️⃣
+https://t.co/9PYrfNRzQm"
+INFO - [2022-05-21 23:07:01,654] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:07:12,260] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:07:12,261] - twitterbot - tweet id: [1528134579907067904] tweeted at: [2022-05-21 22:04:09+00:00]
+INFO - [2022-05-21 23:07:12,261] - twitterbot - tweeted by: "[Prof Jo Barraket (she/her) 💉💉💉💉]"
+INFO - [2022-05-21 23:07:12,261] - twitterbot - body: "Daily Quordle 118
+3️⃣5️⃣
+6️⃣7️⃣
+https://t.co/vbxHXuH2WV"
+INFO - [2022-05-21 23:07:12,261] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:07:22,861] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:07:22,861] - twitterbot - tweet id: [1528134281251389440] tweeted at: [2022-05-21 22:02:58+00:00]
+INFO - [2022-05-21 23:07:22,861] - twitterbot - tweeted by: "[Odio sociale e ghigliottine]"
+INFO - [2022-05-21 23:07:22,861] - twitterbot - body: "Daily Quordle 118
+4️⃣3️⃣
+5️⃣6️⃣
+https://t.co/3XQmfrjqcr
+⬜🟨⬜🟩🟩 🟨⬜🟨🟩⬜
+🟩⬜⬜⬜⬜ ⬜⬜⬜🟨⬜
+⬜⬜⬜🟩⬜ 🟩🟩🟩🟩🟩
+🟩🟩🟩🟩🟩 ⬛⬛⬛⬛⬛
+
+⬜⬜⬜⬜⬜ ⬜⬜⬜🟨… https://t.co/klV9atutlX"
+INFO - [2022-05-21 23:07:22,862] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:07:33,506] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:07:33,506] - twitterbot - tweet id: [1528134122459353090] tweeted at: [2022-05-21 22:02:20+00:00]
+INFO - [2022-05-21 23:07:33,506] - twitterbot - tweeted by: "[DreamyLemonade🌿]"
+INFO - [2022-05-21 23:07:33,506] - twitterbot - body: "Daily Quordle 118
+Great success.
+4️⃣5️⃣
+6️⃣7️⃣
+https://t.co/R2Md75zx6z https://t.co/IbdE7ISzfW"
+INFO - [2022-05-21 23:07:33,507] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:07:44,109] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:07:44,110] - twitterbot - tweet id: [1528134002321657856] tweeted at: [2022-05-21 22:01:52+00:00]
+INFO - [2022-05-21 23:07:44,110] - twitterbot - tweeted by: "[Jo Cameron]"
+INFO - [2022-05-21 23:07:44,110] - twitterbot - body: "Daily Quordle 118
+3️⃣8️⃣
+5️⃣7️⃣
+https://t.co/MpdmvWp429 https://t.co/f5PeENKpFY"
+INFO - [2022-05-21 23:07:44,110] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:07:54,758] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:07:54,758] - twitterbot - tweet id: [1528132585494151168] tweeted at: [2022-05-21 21:56:14+00:00]
+INFO - [2022-05-21 23:07:54,758] - twitterbot - tweeted by: "[Irene Tuazon]"
+INFO - [2022-05-21 23:07:54,758] - twitterbot - body: "Yay! 🎊
+
+Daily Quordle 118
+4️⃣3️⃣
+5️⃣6️⃣
+https://t.co/UQwhBhP3lW https://t.co/lU7NrXJlZT"
+INFO - [2022-05-21 23:07:54,759] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:08:05,367] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:08:05,367] - twitterbot - tweet id: [1528130960230858752] tweeted at: [2022-05-21 21:49:46+00:00]
+INFO - [2022-05-21 23:08:05,368] - twitterbot - tweeted by: "[MaggieTheTherapist]"
+INFO - [2022-05-21 23:08:05,368] - twitterbot - body: "💃🏾 Daily Quordle 118
+3️⃣5️⃣
+6️⃣9️⃣
+https://t.co/onZiPG7Gmm https://t.co/MfmvzeBaoM"
+INFO - [2022-05-21 23:08:05,368] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:08:15,986] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:08:15,987] - twitterbot - tweet id: [1528130503437598720] tweeted at: [2022-05-21 21:47:57+00:00]
+INFO - [2022-05-21 23:08:15,987] - twitterbot - tweeted by: "[Ali Faisal]"
+INFO - [2022-05-21 23:08:15,987] - twitterbot - body: "Daily Quordle 118
+2️⃣7️⃣
+4️⃣5️⃣
+https://t.co/aa3ooXuZYi https://t.co/JYijGA181C"
+INFO - [2022-05-21 23:08:15,987] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:08:26,590] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:08:26,590] - twitterbot - tweet id: [1528130211048370176] tweeted at: [2022-05-21 21:46:48+00:00]
+INFO - [2022-05-21 23:08:26,590] - twitterbot - tweeted by: "[jogjapokeid]"
+INFO - [2022-05-21 23:08:26,590] - twitterbot - body: "ini masalah pas-pasan, ada kalanya pas ada kalanya pula meleset..... met pagi man-teman.
+
+Daily Quordle 118
+4️⃣3️⃣… https://t.co/zSpoPAbnYt"
+INFO - [2022-05-21 23:08:26,591] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:08:37,218] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:08:37,219] - twitterbot - tweet id: [1528129991703248896] tweeted at: [2022-05-21 21:45:55+00:00]
+INFO - [2022-05-21 23:08:37,219] - twitterbot - tweeted by: "[pulcinella fucker 71/127 ⁷]"
+INFO - [2022-05-21 23:08:37,219] - twitterbot - body: "for  top  right  i  misspelled  the  word  but  apparently  that's  a  word  too
+
+Daily Quordle 118
+4️⃣8️⃣
+5️⃣6️⃣… https://t.co/76l0Ouls48"
+INFO - [2022-05-21 23:08:37,219] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:08:47,845] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:08:47,845] - twitterbot - tweet id: [1528129525988864000] tweeted at: [2022-05-21 21:44:04+00:00]
+INFO - [2022-05-21 23:08:47,845] - twitterbot - tweeted by: "[FookyFunkyBottomFeedingSandCat]"
+INFO - [2022-05-21 23:08:47,845] - twitterbot - body: "Daily Quordle 118
+7️⃣5️⃣
+8️⃣4️⃣
+https://t.co/oqDuVL68Dz https://t.co/YE7Xu8rHcL"
+INFO - [2022-05-21 23:08:47,845] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:08:58,176] - twitterbot - tweets about Mbappe
+
+INFO - [2022-05-21 23:08:58,845] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:08:58,845] - twitterbot - tweet id: [1528135747219378177] tweeted at: [2022-05-21 22:08:48+00:00]
+INFO - [2022-05-21 23:08:58,845] - twitterbot - tweeted by: "[Madridista.dk]"
+INFO - [2022-05-21 23:08:58,845] - twitterbot - body: "Well, this is a stretch. Benzema often posts pictures of Tupac. He and Mbappé still follows each other on IG. https://t.co/NBvZcqpzSc"
+INFO - [2022-05-21 23:08:58,846] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:09:09,455] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:09:09,455] - twitterbot - tweet id: [1528135747022245888] tweeted at: [2022-05-21 22:08:48+00:00]
+INFO - [2022-05-21 23:09:09,455] - twitterbot - tweeted by: "[Tipster's Digest]"
+INFO - [2022-05-21 23:09:09,455] - twitterbot - body: "Mbappé’s renewal and subsequently the firings of Pochettino and Leonardo will only lead to disaster and failure (ev… https://t.co/Nthz7BXdde"
+INFO - [2022-05-21 23:09:09,455] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:09:20,073] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:09:20,073] - twitterbot - tweet id: [1528135746074382342] tweeted at: [2022-05-21 22:08:47+00:00]
+INFO - [2022-05-21 23:09:20,073] - twitterbot - tweeted by: "[ariella hannah]"
+INFO - [2022-05-21 23:09:20,073] - twitterbot - body: "RT @brokenlasko: mbappe taught me today to chase the bag not my passion"
+INFO - [2022-05-21 23:09:20,073] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:09:30,713] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:09:30,713] - twitterbot - tweet id: [1528135745965379585] tweeted at: [2022-05-21 22:08:47+00:00]
+INFO - [2022-05-21 23:09:30,714] - twitterbot - tweeted by: "[Adam Munir]"
+INFO - [2022-05-21 23:09:30,714] - twitterbot - body: "RT @TrollFootball: Mbappe be like https://t.co/didUKZr6h3"
+INFO - [2022-05-21 23:09:30,714] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:09:41,349] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:09:41,349] - twitterbot - tweet id: [1528135745751351296] tweeted at: [2022-05-21 22:08:47+00:00]
+INFO - [2022-05-21 23:09:41,349] - twitterbot - tweeted by: "[M]"
+INFO - [2022-05-21 23:09:41,349] - twitterbot - body: "RT @MikeLUHG2: The English and academy dross has ran Manchester United for the last 3 seasons but apparently Mbappe running PSG is a proble…"
+INFO - [2022-05-21 23:09:41,349] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:09:51,973] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:09:51,973] - twitterbot - tweet id: [1528135745663381511] tweeted at: [2022-05-21 22:08:47+00:00]
+INFO - [2022-05-21 23:09:51,973] - twitterbot - tweeted by: "[Michey miles]"
+INFO - [2022-05-21 23:09:51,974] - twitterbot - body: "RT @Opresii: Mbappe will probably end his career as the richest footballer… Messi and Ronaldo were not earning this crazy figures at 23."
+INFO - [2022-05-21 23:09:51,974] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:10:02,597] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:10:02,597] - twitterbot - tweet id: [1528135744606597120] tweeted at: [2022-05-21 22:08:47+00:00]
+INFO - [2022-05-21 23:10:02,598] - twitterbot - tweeted by: "[Worldboss]"
+INFO - [2022-05-21 23:10:02,598] - twitterbot - body: "RT @unrulyking00: Hattrick for mbappe hahaha Real Madrid wish they could perform magic to change mbappe’s mind but he’s safe with Leo Messi…"
+INFO - [2022-05-21 23:10:02,598] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:10:13,208] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:10:13,209] - twitterbot - tweet id: [1528135744102998016] tweeted at: [2022-05-21 22:08:47+00:00]
+INFO - [2022-05-21 23:10:13,209] - twitterbot - tweeted by: "[✨ Call me Diana ✨]"
+INFO - [2022-05-21 23:10:13,209] - twitterbot - body: "@gambo_mansa @KMbappe @UNFP @PSG_inside Don't turn the arrows on other people. You're literally sitting there and j… https://t.co/yoCgkZA9Q9"
+INFO - [2022-05-21 23:10:13,210] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:10:23,858] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:10:23,858] - twitterbot - tweet id: [1528135743587201024] tweeted at: [2022-05-21 22:08:47+00:00]
+INFO - [2022-05-21 23:10:23,858] - twitterbot - tweeted by: "[Zay🇵🇸]"
+INFO - [2022-05-21 23:10:23,858] - twitterbot - body: "Mbappé to Benzema when the international team meet up and Karim brings up this saga: https://t.co/SPknXP7EoC"
+INFO - [2022-05-21 23:10:23,858] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:10:34,557] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:10:34,557] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:10:34,825] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:10:34,826] - twitterbot - tweet id: [1528135741787754496] tweeted at: [2022-05-21 22:08:46+00:00]
+INFO - [2022-05-21 23:10:34,826] - twitterbot - tweeted by: "[BaobabWura😍❤]"
+INFO - [2022-05-21 23:10:34,826] - twitterbot - body: "Big Benz acting like a cry baby because Mbappe said he won't come🤣🤣🤣"
+INFO - [2022-05-21 23:10:34,826] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:10:45,422] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:10:45,423] - twitterbot - tweet id: [1528135740512690180] tweeted at: [2022-05-21 22:08:46+00:00]
+INFO - [2022-05-21 23:10:45,423] - twitterbot - tweeted by: "[Kanefromthelane]"
+INFO - [2022-05-21 23:10:45,423] - twitterbot - body: "@MadridXtra Mbappe will never have the streets like CR7"
+INFO - [2022-05-21 23:10:45,423] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:10:56,081] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:10:56,081] - twitterbot - tweet id: [1528135739938054144] tweeted at: [2022-05-21 22:08:46+00:00]
+INFO - [2022-05-21 23:10:56,081] - twitterbot - tweeted by: "[Jaromir Mucowski]"
+INFO - [2022-05-21 23:10:56,081] - twitterbot - body: "RT @TrollFootball: How PSG convinced Mbappe to stay at the club https://t.co/MGjzzFHVXK"
+INFO - [2022-05-21 23:10:56,082] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:11:06,700] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:11:06,700] - twitterbot - tweet id: [1528135739355037704] tweeted at: [2022-05-21 22:08:46+00:00]
+INFO - [2022-05-21 23:11:06,701] - twitterbot - tweeted by: "[Phil 🏀🏈⚽️(Mavs in 7)]"
+INFO - [2022-05-21 23:11:06,701] - twitterbot - body: "RT @UTDCJ_: 5 stages of grief during mbappe saga ft @totalcristiano https://t.co/vJqXZP2g8B"
+INFO - [2022-05-21 23:11:06,701] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:11:17,318] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:11:17,318] - twitterbot - tweet id: [1528135737073455104] tweeted at: [2022-05-21 22:08:45+00:00]
+INFO - [2022-05-21 23:11:17,318] - twitterbot - tweeted by: "[AAMUSTED BA]"
+INFO - [2022-05-21 23:11:17,318] - twitterbot - body: "RT @totalcristiano: In 2017, Kylian Mbappe decided to wait a few more years for Real Madrid. In 2021, Real Madrid we’re ready to pay a reco…"
+INFO - [2022-05-21 23:11:17,318] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:11:27,646] - twitterbot - tweets about Rohit
+
+INFO - [2022-05-21 23:11:28,296] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:11:28,297] - twitterbot - tweet id: [1528136066200371202] tweeted at: [2022-05-21 22:10:04+00:00]
+INFO - [2022-05-21 23:11:28,297] - twitterbot - tweeted by: "[Zackie]"
+INFO - [2022-05-21 23:11:28,297] - twitterbot - body: "@ceo_rohit Sorry i didn't see this but added"
+INFO - [2022-05-21 23:11:28,297] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:11:39,002] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:11:39,003] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:11:39,283] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:11:39,283] - twitterbot - tweet id: [1528135875950874624] tweeted at: [2022-05-21 22:09:18+00:00]
+INFO - [2022-05-21 23:11:39,284] - twitterbot - tweeted by: "[Aditya🇮🇳🚩]"
+INFO - [2022-05-21 23:11:39,284] - twitterbot - body: "RT @TukTuk_Academy: Rohit Sharma you did fantabulous job in almost every matches of the season, and today it was more amazing than you real…"
+INFO - [2022-05-21 23:11:39,284] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:11:49,971] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:11:49,971] - twitterbot - tweet id: [1528135609478283264] tweeted at: [2022-05-21 22:08:15+00:00]
+INFO - [2022-05-21 23:11:49,971] - twitterbot - tweeted by: "[Anuj Rayate]"
+INFO - [2022-05-21 23:11:49,971] - twitterbot - body: "RT @keshavtweets: Rohit Sharma calls RCB to congratulate them and says 'Bhai ek chhota sa kaam tha'
+
+Meanwhile entire RCB to Rohit Sharma 😎…"
+INFO - [2022-05-21 23:11:49,971] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:12:00,609] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:12:00,609] - twitterbot - tweet id: [1528135599890132993] tweeted at: [2022-05-21 22:08:13+00:00]
+INFO - [2022-05-21 23:12:00,609] - twitterbot - tweeted by: "[Rohit ☽]"
+INFO - [2022-05-21 23:12:00,610] - twitterbot - body: "@aobngtn HUHHH?!! maaaan you hate me confirmed"
+INFO - [2022-05-21 23:12:00,610] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:12:11,250] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:12:11,251] - twitterbot - tweet id: [1528135470319710208] tweeted at: [2022-05-21 22:07:42+00:00]
+INFO - [2022-05-21 23:12:11,251] - twitterbot - tweeted by: "[Anadi]"
+INFO - [2022-05-21 23:12:11,251] - twitterbot - body: "RT @rohit_pillewan: Rohit Sharma x Industry Baby 🔥
+
+#RohitSharma𓃵 | #RohitSharma | #Hitman https://t.co/00P9UBDM9m"
+INFO - [2022-05-21 23:12:11,251] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:12:21,940] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:12:21,940] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:12:22,225] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:12:22,225] - twitterbot - tweet id: [1528135194074415106] tweeted at: [2022-05-21 22:06:36+00:00]
+INFO - [2022-05-21 23:12:22,225] - twitterbot - tweeted by: "[Darkseïd]"
+INFO - [2022-05-21 23:12:22,225] - twitterbot - body: "RT @TotalKohli: Last time rohit scored 500 runs in a season, Manmohan Singh was still the PM of India
+
+Last time rohit scored 400 runs in a…"
+INFO - [2022-05-21 23:12:22,225] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:12:32,874] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:12:32,875] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:12:33,135] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:12:33,136] - twitterbot - tweet id: [1528135166148894725] tweeted at: [2022-05-21 22:06:29+00:00]
+INFO - [2022-05-21 23:12:33,136] - twitterbot - tweeted by: "[Haris Sheikh]"
+INFO - [2022-05-21 23:12:33,136] - twitterbot - body: "First IPL Season for our Future Batting Coach Mr. Rohit Sharma without a single fifty.
+
+#IPL2022 
+Meanwhile RCB Qualified for play-offs"
+INFO - [2022-05-21 23:12:33,136] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:12:43,724] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:12:43,724] - twitterbot - tweet id: [1528135094652870661] tweeted at: [2022-05-21 22:06:12+00:00]
+INFO - [2022-05-21 23:12:43,724] - twitterbot - tweeted by: "[ari]"
+INFO - [2022-05-21 23:12:43,724] - twitterbot - body: "@ceo_rohit OH YEAH LMFAOOOOO i posted just a while before this tweet too so u missed it like twice😭😭"
+INFO - [2022-05-21 23:12:43,725] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:12:54,605] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:12:54,605] - twitterbot - tweet id: [1528134954118692864] tweeted at: [2022-05-21 22:05:39+00:00]
+INFO - [2022-05-21 23:12:54,605] - twitterbot - tweeted by: "[Newton]"
+INFO - [2022-05-21 23:12:54,606] - twitterbot - body: "RT @prashant7692: ODI Centuries
+Ponting:30
+Rohit Sharma:29 (not even a single century in 2 years)
+
+Overall Centuries
+Ponting:71
+Virat Kohli…"
+INFO - [2022-05-21 23:12:54,606] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:13:05,441] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:13:05,441] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:13:05,715] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-21 23:13:05,715] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-21 23:13:05,999] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:13:05,999] - twitterbot - tweet id: [1528134739906813952] tweeted at: [2022-05-21 22:04:48+00:00]
+INFO - [2022-05-21 23:13:05,999] - twitterbot - tweeted by: "[Anadi]"
+INFO - [2022-05-21 23:13:05,999] - twitterbot - body: "RT @RO_BUMRAH_FAN45: Almost 90% of Sachin sir fans are the fan of Rohit Sharma also...💙🔥
+
+These two shots are the reason behind it.
+
+#Sachi…"
+INFO - [2022-05-21 23:13:05,999] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:13:16,377] - twitterbot - tweets about Madrid
+
+INFO - [2022-05-21 23:13:17,059] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:13:17,060] - twitterbot - tweet id: [1528136831954468867] tweeted at: [2022-05-21 22:13:06+00:00]
+INFO - [2022-05-21 23:13:17,060] - twitterbot - tweeted by: "[Marko]"
+INFO - [2022-05-21 23:13:17,060] - twitterbot - body: "RT @totalBarca: Madrid fans chanted Mbappe’s name for 9 months only for him to turn them down 😂😂"
+INFO - [2022-05-21 23:13:17,060] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:13:27,659] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:13:27,659] - twitterbot - tweet id: [1528136827323838464] tweeted at: [2022-05-21 22:13:05+00:00]
+INFO - [2022-05-21 23:13:27,660] - twitterbot - tweeted by: "[Saswat]"
+INFO - [2022-05-21 23:13:27,660] - twitterbot - body: "@ChinmayRMA He will leave PSG in 2 years for sure.....Madrid toh lega nhi... probably he will go to any PL team"
+INFO - [2022-05-21 23:13:27,660] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:13:38,312] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:13:38,313] - twitterbot - tweet id: [1528136826380091393] tweeted at: [2022-05-21 22:13:05+00:00]
+INFO - [2022-05-21 23:13:38,313] - twitterbot - tweeted by: "[🫶🏻]"
+INFO - [2022-05-21 23:13:38,313] - twitterbot - body: "RT @LosoLFC: Madrid players basically doing “you’re ugly anyway” posts are killing me"
+INFO - [2022-05-21 23:13:38,313] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:13:48,947] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:13:48,947] - twitterbot - tweet id: [1528136820466262020] tweeted at: [2022-05-21 22:13:04+00:00]
+INFO - [2022-05-21 23:13:48,947] - twitterbot - tweeted by: "[aya_mbhele]"
+INFO - [2022-05-21 23:13:48,947] - twitterbot - body: "RT @breathMessi21: La Liga made Messi leave Barca and wanted both Haaland and Mabppe to play for Madrid, these tears are truly awesome."
+INFO - [2022-05-21 23:13:48,948] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:13:59,572] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:13:59,572] - twitterbot - tweet id: [1528136819237392384] tweeted at: [2022-05-21 22:13:03+00:00]
+INFO - [2022-05-21 23:13:59,573] - twitterbot - tweeted by: "[pascal rizzo]"
+INFO - [2022-05-21 23:13:59,573] - twitterbot - body: "RT @lapulgafreak: Kylian Mbappe chose Messi over his dream club Real Madrid, this will go down in the history books. https://t.co/VwGpw5oNge"
+INFO - [2022-05-21 23:13:59,573] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:14:10,206] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:14:10,206] - twitterbot - tweet id: [1528136818910449664] tweeted at: [2022-05-21 22:13:03+00:00]
+INFO - [2022-05-21 23:14:10,206] - twitterbot - tweeted by: "[Shivin Mathur]"
+INFO - [2022-05-21 23:14:10,206] - twitterbot - body: "RT @BeardedGenius: The beauty of twitter. A Real Madrid fan from Peru reacts to the official Spanish language Ligue 1 account - mocking Rea…"
+INFO - [2022-05-21 23:14:10,206] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:14:20,957] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:14:20,957] - twitterbot - tweet id: [1528136818473975809] tweeted at: [2022-05-21 22:13:03+00:00]
+INFO - [2022-05-21 23:14:20,957] - twitterbot - tweeted by: "[Chapo14]"
+INFO - [2022-05-21 23:14:20,958] - twitterbot - body: "RT @TheRMadridTV: "Real Madrid shirt is white, can be stained with mud, sweat &amp; even with blood but never with shame." __ Santiago Bernabeu…"
+INFO - [2022-05-21 23:14:20,958] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:14:31,596] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:14:31,596] - twitterbot - tweet id: [1528136818373312513] tweeted at: [2022-05-21 22:13:03+00:00]
+INFO - [2022-05-21 23:14:31,596] - twitterbot - tweeted by: "[P. González Calleja]"
+INFO - [2022-05-21 23:14:31,597] - twitterbot - body: "RT @theMadridZone: 📲 Interesting posts by the Real Madrid players on social media, today. https://t.co/1JZ8QDvwuu"
+INFO - [2022-05-21 23:14:31,597] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:14:42,240] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:14:42,241] - twitterbot - tweet id: [1528136817765191685] tweeted at: [2022-05-21 22:13:03+00:00]
+INFO - [2022-05-21 23:14:42,241] - twitterbot - tweeted by: "[Comrade Molawa]"
+INFO - [2022-05-21 23:14:42,241] - twitterbot - body: "RT @FCBClev10: With Mbappe officially rejecting Madrid now, and publicly embarassing them, I cant see Madrid going for Mbappe ever again. I…"
+INFO - [2022-05-21 23:14:42,241] - twitterbot - The tweet was favored!
+INFO - [2022-05-21 23:14:52,928] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-21 23:14:52,928] - twitterbot - tweet id: [1528136815454068738] tweeted at: [2022-05-21 22:13:02+00:00]
+INFO - [2022-05-21 23:14:52,928] - twitterbot - tweeted by: "[Olamidotun 🔴💡]"
+INFO - [2022-05-21 23:14:52,928] - twitterbot - body: "There's no fucking FFP rules they'd finesse the whole shit to fit their agenda
+
+La Liga is dirty with the shit Madr… https://t.co/NAoszTUgYm"
+INFO - [2022-05-21 23:14:52,928] - twitterbot - The tweet was favored!
+ERROR - [2022-05-21 23:15:03,521] - twitterbot - 404 Not Found
+144 - No status found with that ID.

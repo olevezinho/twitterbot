@@ -7,7 +7,7 @@ import logging.config
 from urllib.parse import unquote
 
 from services.authentication import twitter_auth, tweepy_auth, validate_authentication
-from services.services import getHomeTimeline, getUserTimeline, queryTwitter_1, queryTwitter_2
+from services.services import getHomeTimeline, getUserTimeline, queryTwitter_1, queryTwitter_2, showUserDetails
 
 load_dotenv()
 logging.config.fileConfig('logging.conf')
@@ -32,12 +32,10 @@ users = [
 
 #getUserTimeline(twitter_api, users)
 
-#queryTwitter_2(twitter_api)
+queryTwitter_2(twitter_api)
 
 # Authenticate on twitter
 api = tweepy_auth(API_KEY=API_KEY, API_SECRET=API_SECRET, ACCESS_TOKEN=ACCESS_TOKEN, ACCESS_SECRET=ACCESS_SECRET)
 validate_authentication(api)
 
-for user in users:
-    for follower in api.get_followers(user_id=user):
-        print(follower.screen_name)
+showUserDetails(api)

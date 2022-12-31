@@ -1,0 +1,6 @@
+INFO - [2022-05-22 23:16:37,810] - twitterbot - Welcome to twitterbot! Authenticating ...
+INFO - [2022-05-22 23:16:37,812] - twitterbot - Python/3.7.3 Requests/2.27.1 Tweepy/4.4.0
+INFO - [2022-05-22 23:16:37,812] - twitterbot - Fetching available locations.
+INFO - [2022-05-22 23:16:38,119] - twitterbot - Writing locations to a file.
+INFO - [2022-05-22 23:16:38,125] - twitterbot - Finding closest location.
+INFO - [2022-05-22 23:17:08,473] - twitterbot - Gathering trends closer to your location.

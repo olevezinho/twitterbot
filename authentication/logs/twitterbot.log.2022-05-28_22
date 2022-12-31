@@ -1,0 +1,514 @@
+INFO - [2022-05-28 22:09:09,486] - twitterbot - Welcome to twitterbot! Authenticating ...
+INFO - [2022-05-28 22:09:09,487] - twitterbot - Python/3.7.3 Requests/2.27.1 Tweepy/4.4.0
+INFO - [2022-05-28 22:09:09,487] - twitterbot - Fetching available locations.
+INFO - [2022-05-28 22:09:09,805] - twitterbot - Writing locations to a file.
+INFO - [2022-05-28 22:09:10,435] - twitterbot - Writing locations to a file.
+INFO - [2022-05-28 22:09:10,449] - twitterbot - Finding closest location.
+INFO - [2022-05-28 22:09:10,732] - twitterbot - Gathering trends closer to your location.
+INFO - [2022-05-28 22:09:11,273] - twitterbot - Writing trends to a file.
+INFO - [2022-05-28 22:09:11,273] - twitterbot - Reading trends from file.
+INFO - [2022-05-28 22:09:11,273] - twitterbot - tweets about #PothanurThabalNilayam
+
+INFO - [2022-05-28 22:09:11,984] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:09:11,984] - twitterbot - tweet id: [1530649796767141889] tweeted at: [2022-05-28 20:38:44+00:00]
+INFO - [2022-05-28 22:09:11,984] - twitterbot - tweeted by: "[Thalapathy]"
+INFO - [2022-05-28 22:09:11,985] - twitterbot - body: "RT @imi_hamad: #PothanurThabalNilayam 🔥
+
+Waiting for Part 2 💥
+
+#Beast #Thalapathy67
+#Thalapathy66 @actorvijay
+#ThalapathyVijay #Thalapathy6…"
+INFO - [2022-05-28 22:09:11,985] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:09:22,633] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:09:22,634] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:09:22,913] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:09:22,913] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:09:23,200] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:09:23,200] - twitterbot - tweet id: [1530646339805388801] tweeted at: [2022-05-28 20:25:00+00:00]
+INFO - [2022-05-28 22:09:23,200] - twitterbot - tweeted by: "[Vijay Trends]"
+INFO - [2022-05-28 22:09:23,200] - twitterbot - body: "RT @iammoviebuff007: Free @ahatamil quarterly subscription pack.. Limited offer
+
+Sponsored by team #PothanurThabalNilayam
+producer @Passion…"
+INFO - [2022-05-28 22:09:23,200] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:09:34,048] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:09:34,048] - twitterbot - tweet id: [1530637492264787969] tweeted at: [2022-05-28 19:49:50+00:00]
+INFO - [2022-05-28 22:09:34,048] - twitterbot - tweeted by: "[business | politics | data science consultant]"
+INFO - [2022-05-28 22:09:34,048] - twitterbot - body: "Showtime #PothanurThabalNilayam saved #Entertainment #time after #acharyamovie .. good to watch #AHA"
+INFO - [2022-05-28 22:09:34,049] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:09:45,264] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:09:45,264] - twitterbot - tweet id: [1530636926344015872] tweeted at: [2022-05-28 19:47:35+00:00]
+INFO - [2022-05-28 22:09:45,264] - twitterbot - tweeted by: "[Vijay Trends]"
+INFO - [2022-05-28 22:09:45,264] - twitterbot - body: "RT @ahatamil: Yebba ithuvum Money heist dhaan pa.. Post office la heist-u!
+
+Here’s the Official Trailer of #PothanurThabalNilayam | Premier…"
+INFO - [2022-05-28 22:09:45,264] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:09:56,004] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:09:56,004] - twitterbot - tweet id: [1530636744164380672] tweeted at: [2022-05-28 19:46:52+00:00]
+INFO - [2022-05-28 22:09:56,004] - twitterbot - tweeted by: "[Vijay Trends]"
+INFO - [2022-05-28 22:09:56,004] - twitterbot - body: "RT @PassionStudios_: Free @ahatamil quarterly subscription pack.. Limited offer
+
+Sponsored by team #PothanurThabalNilayam
+producer @Passion…"
+INFO - [2022-05-28 22:09:56,004] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:10:06,682] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:10:06,683] - twitterbot - tweet id: [1530635309750587392] tweeted at: [2022-05-28 19:41:10+00:00]
+INFO - [2022-05-28 22:10:06,683] - twitterbot - tweeted by: "[TamilDelight]"
+INFO - [2022-05-28 22:10:06,683] - twitterbot - body: "RT @akashbalor: #TwitterReview2022 
+225. #PothanurThabalNilayam - @ahatamil 
+
+3/5 - Decent Heist drama with the up downs throughout the mov…"
+INFO - [2022-05-28 22:10:06,684] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:10:17,332] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:10:17,333] - twitterbot - tweet id: [1530633230252052480] tweeted at: [2022-05-28 19:32:54+00:00]
+INFO - [2022-05-28 22:10:17,333] - twitterbot - tweeted by: "[திருமேனிநாதன்]"
+INFO - [2022-05-28 22:10:17,333] - twitterbot - body: "Thank you @PassionStudios_
+@Karthikravivarm bro 
+And @saloon_kada bro for giving the Coupon code @ahavideoIN… https://t.co/CKYf8e3ijs"
+INFO - [2022-05-28 22:10:17,333] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:10:27,941] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:10:27,941] - twitterbot - tweet id: [1530627188906610688] tweeted at: [2022-05-28 19:08:54+00:00]
+INFO - [2022-05-28 22:10:27,941] - twitterbot - tweeted by: "[Hassan]"
+INFO - [2022-05-28 22:10:27,941] - twitterbot - body: "#PothanurThabalNilayam  1st half Decent👍 and 2nd half Ultiii😍 @praveen2follow 🤝 sema bro👏 waiting for Part 2😎"
+INFO - [2022-05-28 22:10:27,942] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:10:38,543] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:10:38,543] - twitterbot - tweet id: [1530626981439885312] tweeted at: [2022-05-28 19:08:04+00:00]
+INFO - [2022-05-28 22:10:38,543] - twitterbot - tweeted by: "[GP not muthu]"
+INFO - [2022-05-28 22:10:38,543] - twitterbot - body: "#PothanurThabalNilayam is a great watch on aha❤️
+A suspense thriller set in 90s backdrop.
+
+Love the lead in end for… https://t.co/0lPxhxoBXp"
+INFO - [2022-05-28 22:10:38,544] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:10:49,254] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:10:49,254] - twitterbot - tweet id: [1530626386196451328] tweeted at: [2022-05-28 19:05:42+00:00]
+INFO - [2022-05-28 22:10:49,254] - twitterbot - tweeted by: "[Vijay Trends]"
+INFO - [2022-05-28 22:10:49,254] - twitterbot - body: "@praveen2follow Bro Rating Done 👍❤️🔥 In @IMDb 😎💥
+
+#PothanurThabalNilayam @PassionStudios_ @ahatamil https://t.co/D6gIsaLekO"
+INFO - [2022-05-28 22:10:49,254] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:10:59,889] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:10:59,890] - twitterbot - tweet id: [1530625013795000320] tweeted at: [2022-05-28 19:00:15+00:00]
+INFO - [2022-05-28 22:10:59,890] - twitterbot - tweeted by: "[Chandru]"
+INFO - [2022-05-28 22:10:59,890] - twitterbot - body: "RT @saloon_kada: Step 1 : Download Aha App  &amp; Login
+Step 2 : Touch This Link 👇🏼
+Link - https://t.co/6TeARZai2R
+Step 3 : Use The same Login…"
+INFO - [2022-05-28 22:10:59,890] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:11:10,522] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:11:10,522] - twitterbot - tweet id: [1530624789110353920] tweeted at: [2022-05-28 18:59:22+00:00]
+INFO - [2022-05-28 22:11:10,523] - twitterbot - tweeted by: "[Cinema Review]"
+INFO - [2022-05-28 22:11:10,523] - twitterbot - body: "Thanks to #PothanurThabalNilayam team @praveen2follow @PassionStudios_ and @Karthikravivarm @saloon_kada for AHA su… https://t.co/TrVZ0PNa5B"
+INFO - [2022-05-28 22:11:10,523] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:11:21,179] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:11:21,180] - twitterbot - tweet id: [1530623904233861121] tweeted at: [2022-05-28 18:55:51+00:00]
+INFO - [2022-05-28 22:11:21,180] - twitterbot - tweeted by: "[Sarath Kumar]"
+INFO - [2022-05-28 22:11:21,180] - twitterbot - body: "#Aha #ahatamil Redeem code is working, 😎👍Successfully logged into the Application Thanks to @Karthikravivarm… https://t.co/sYSML0i76p"
+INFO - [2022-05-28 22:11:21,180] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:11:31,534] - twitterbot - tweets about #VikramFromJune3
+
+INFO - [2022-05-28 22:11:32,298] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:11:32,298] - twitterbot - tweet id: [1530656756124176384] tweeted at: [2022-05-28 21:06:23+00:00]
+INFO - [2022-05-28 22:11:32,298] - twitterbot - tweeted by: "[Movies View X]"
+INFO - [2022-05-28 22:11:32,298] - twitterbot - body: "RT @JeyaAnand_cine: #VikramFromJune3 #VikramInAction #VikramFDFS Booking open soon @JeyaAnand_cine  Enjoy watching #vikram with the best vi…"
+INFO - [2022-05-28 22:11:32,298] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:11:42,940] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:11:42,940] - twitterbot - tweet id: [1530656685966123009] tweeted at: [2022-05-28 21:06:06+00:00]
+INFO - [2022-05-28 22:11:42,940] - twitterbot - tweeted by: "[Theeban]"
+INFO - [2022-05-28 22:11:42,940] - twitterbot - body: "RT @ashwin_kkumar: Love to Ashwin by @ikamalhaasan (signed 2022) ❤️ #Vikram #VikramFromJune3 #KamalHaasan @colourcrafts2 https://t.co/XONpD…"
+INFO - [2022-05-28 22:11:42,941] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:11:53,578] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:11:53,578] - twitterbot - tweet id: [1530656655754506240] tweeted at: [2022-05-28 21:05:59+00:00]
+INFO - [2022-05-28 22:11:53,578] - twitterbot - tweeted by: "[Tiruvarur Movies]"
+INFO - [2022-05-28 22:11:53,578] - twitterbot - body: "The ghost is coming to Natesh cinemas on June 3rd!! 💥💥  🥁🥁🥁
+@Natesh_Cinemas
+
+Bookings Open now for the much awaited… https://t.co/DBQyQgWb3v"
+INFO - [2022-05-28 22:11:53,579] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:12:04,217] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:12:04,217] - twitterbot - tweet id: [1530656611936923648] tweeted at: [2022-05-28 21:05:49+00:00]
+INFO - [2022-05-28 22:12:04,218] - twitterbot - tweeted by: "[kovalan]"
+INFO - [2022-05-28 22:12:04,218] - twitterbot - body: "RT @Rick_tweetz: HYPEE IS REAL 🥵🔥💥
+
+@kasi_theatre DAY-1✅
+
+ CODE-RED ❤️
+
+#Vikram #KamalHaasan #VikramHitlist #VikramInAction #VikramFromJune…"
+INFO - [2022-05-28 22:12:04,218] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:12:14,881] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:12:14,882] - twitterbot - tweet id: [1530655962175922176] tweeted at: [2022-05-28 21:03:14+00:00]
+INFO - [2022-05-28 22:12:14,882] - twitterbot - tweeted by: "[ayan VIckY]"
+INFO - [2022-05-28 22:12:14,882] - twitterbot - body: "RT @ahimsafilms: If @ikamalhaasan, @VijaySethuOffl &amp; #FahadhFaasil weren't enough.. we also get @Suriya_offl in the world of #Vikram. Can't…"
+INFO - [2022-05-28 22:12:14,882] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:12:25,545] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:12:25,545] - twitterbot - tweet id: [1530655844617965568] tweeted at: [2022-05-28 21:02:46+00:00]
+INFO - [2022-05-28 22:12:25,545] - twitterbot - tweeted by: "[ayan VIckY]"
+INFO - [2022-05-28 22:12:25,545] - twitterbot - body: "RT @isaacsingam: I think @RKFI will announce #Vikram Box office collection report officially without any hesitations. If this happens it wi…"
+INFO - [2022-05-28 22:12:25,545] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:12:36,166] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:12:36,166] - twitterbot - tweet id: [1530655842378596352] tweeted at: [2022-05-28 21:02:45+00:00]
+INFO - [2022-05-28 22:12:36,166] - twitterbot - tweeted by: "[LuCiFeR 👽👿😈]"
+INFO - [2022-05-28 22:12:36,166] - twitterbot - body: "RT @thamee_thammu: #vikram movie tickets
+
+Raj theatre 3.45 am (FDFS) 10 tickets
+Krishnaveni cinemas 10.50 am 4 tickets
+Kamala 11.40 am 3 +…"
+INFO - [2022-05-28 22:12:36,167] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:12:46,809] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:12:46,809] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:12:47,090] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:12:47,090] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:12:47,405] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:12:47,405] - twitterbot - tweet id: [1530655572109819910] tweeted at: [2022-05-28 21:01:41+00:00]
+INFO - [2022-05-28 22:12:47,405] - twitterbot - tweeted by: "[PREM KUMAR]"
+INFO - [2022-05-28 22:12:47,406] - twitterbot - body: "RT @MURUGANCINEMAS1: #vikram #VikramFromJune3 booking open now @MURUGANCINEMAS1 
+R G B L A S E R
+D O L B Y A T M O S
+Book your tickets soon…"
+INFO - [2022-05-28 22:12:47,406] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:12:58,045] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:12:58,045] - twitterbot - tweet id: [1530655472591568896] tweeted at: [2022-05-28 21:01:17+00:00]
+INFO - [2022-05-28 22:12:58,045] - twitterbot - tweeted by: "[PREM KUMAR]"
+INFO - [2022-05-28 22:12:58,045] - twitterbot - body: "RT @rakkicinemas: Check the Timings for #Vikram Here. #VikramFromJune3
+4:00AM &amp; 7:35AM for 3rd June will Only be available in Counters of a…"
+INFO - [2022-05-28 22:12:58,045] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:13:08,678] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:13:08,678] - twitterbot - tweet id: [1530655321345040384] tweeted at: [2022-05-28 21:00:41+00:00]
+INFO - [2022-05-28 22:13:08,678] - twitterbot - tweeted by: "[PREM KUMAR]"
+INFO - [2022-05-28 22:13:08,678] - twitterbot - body: "RT @TnjMovies: #Vikram Confirmed in Thanjavur Ranee Paradise..
+
+#VikramFromJune3 https://t.co/0yQp3is5aL"
+INFO - [2022-05-28 22:13:08,678] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:13:19,310] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:13:19,310] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:13:19,679] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:13:19,680] - twitterbot - tweet id: [1530654936039833600] tweeted at: [2022-05-28 20:59:09+00:00]
+INFO - [2022-05-28 22:13:19,680] - twitterbot - tweeted by: "[Dinesh]"
+INFO - [2022-05-28 22:13:19,680] - twitterbot - body: "RT @MayajaalECR: Naayagan Meendum Varraar.. 🥁🥁🔥
+
+Bookings open for #Ulaganayagan
+in #Vikram
+
+Book your tickets:
+➡️ https://t.co/8rbqLqdTrV…"
+INFO - [2022-05-28 22:13:19,681] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:13:30,378] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:13:30,379] - twitterbot - tweet id: [1530654872311197696] tweeted at: [2022-05-28 20:58:54+00:00]
+INFO - [2022-05-28 22:13:30,379] - twitterbot - tweeted by: "[Akshay 𓃵]"
+INFO - [2022-05-28 22:13:30,379] - twitterbot - body: "RT @CineTimee: #KamalHaasan With #Mohanlal In #BiggBoss Malayalam For The Promotions Of #Vikram !
+#VikramFromJune3 ! #VikramInAction ! #Vik…"
+INFO - [2022-05-28 22:13:30,379] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:13:40,787] - twitterbot - tweets about #VikramHitlist
+
+INFO - [2022-05-28 22:13:41,498] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:13:41,498] - twitterbot - tweet id: [1530657886723985408] tweeted at: [2022-05-28 21:10:53+00:00]
+INFO - [2022-05-28 22:13:41,498] - twitterbot - tweeted by: "[JOSH JJ]"
+INFO - [2022-05-28 22:13:41,498] - twitterbot - body: "RT @rameshlaus: #Vikram to release in 900 screens in TN.. 
+
+#VikramHitlist Hindi to release in 1,500 screens.. 
+
+#Vikram/ #VikramHitlist is…"
+INFO - [2022-05-28 22:13:41,499] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:13:52,179] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:13:52,179] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:13:52,480] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:13:52,480] - twitterbot - tweet id: [1530657025767534593] tweeted at: [2022-05-28 21:07:27+00:00]
+INFO - [2022-05-28 22:13:52,481] - twitterbot - tweeted by: "[Cutie Rottie🔦👍🔦👍🔦]"
+INFO - [2022-05-28 22:13:52,481] - twitterbot - body: "RT @sunnydeon85: He could have very easily avoided this promotion or crowd but he didn't, that's Aandavar #KamalHaasan𓃵  , "give the credit…"
+INFO - [2022-05-28 22:13:52,481] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:14:03,150] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:14:03,151] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:14:03,448] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:14:03,449] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:14:03,734] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:14:03,734] - twitterbot - tweet id: [1530656172872978432] tweeted at: [2022-05-28 21:04:04+00:00]
+INFO - [2022-05-28 22:14:03,735] - twitterbot - tweeted by: "[kovalan]"
+INFO - [2022-05-28 22:14:03,735] - twitterbot - body: "RT @igj1991: "Director Claims to be my fan, After this film I'm his Fan" 
+~ @ikamalhaasan 😳👑at today #Vikram Promotional Event @ Mumbai
+
+Bi…"
+INFO - [2022-05-28 22:14:03,735] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:14:14,375] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:14:14,375] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:14:14,659] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:14:14,659] - twitterbot - tweet id: [1530656144170971138] tweeted at: [2022-05-28 21:03:57+00:00]
+INFO - [2022-05-28 22:14:14,660] - twitterbot - tweeted by: "[PREM KUMAR]"
+INFO - [2022-05-28 22:14:14,660] - twitterbot - body: "RT @Winsun_PRO: Your hearts are on #VikramHitlist now.😎
+Join the Grand Telugu Pre Release Eventon31stMay,5PMOnwards 🔥
+
+ 📍Shilpakala Vedika,…"
+INFO - [2022-05-28 22:14:14,660] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:14:25,326] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:14:25,326] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:14:25,608] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:14:25,608] - twitterbot - tweet id: [1530655617685282816] tweeted at: [2022-05-28 21:01:52+00:00]
+INFO - [2022-05-28 22:14:25,608] - twitterbot - tweeted by: "[krish]"
+INFO - [2022-05-28 22:14:25,608] - twitterbot - body: "RT @KamalismForever: #Vikram - Behind the screens! 
+. 
+. 
+. 
+#VikramHitlist #KamalHaasan #VijaySethupathi #FahadhFaasil #LokeshKanagaraj #A…"
+INFO - [2022-05-28 22:14:25,608] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:14:36,253] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:14:36,253] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:14:36,528] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:14:36,528] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:14:36,809] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:14:36,809] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:14:37,094] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:14:37,094] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:14:37,377] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:14:37,378] - twitterbot - tweet id: [1530654679687761920] tweeted at: [2022-05-28 20:58:08+00:00]
+INFO - [2022-05-28 22:14:37,378] - twitterbot - tweeted by: "[Speed Breaker South]"
+INFO - [2022-05-28 22:14:37,378] - twitterbot - body: "#Vikram Runtime
+1 st half - 1hr22min44sec
+2 na half- 1 hr27min 57 sec
+
+2hour 50 mins 1sec 
+#VikramHitlist… https://t.co/RROLIV727c"
+INFO - [2022-05-28 22:14:37,378] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:14:47,737] - twitterbot - tweets about #UCLfinal
+
+INFO - [2022-05-28 22:14:48,477] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:14:48,477] - twitterbot - tweet id: [1530658793666891776] tweeted at: [2022-05-28 21:14:29+00:00]
+INFO - [2022-05-28 22:14:48,477] - twitterbot - tweeted by: "[James Kim]"
+INFO - [2022-05-28 22:14:48,477] - twitterbot - body: "RT @realmadriden: ⚽ 59' | 0-1 | GOOOOOAAAAALLLLLLLL GOOOOOAAAAAL GOOOOOOOOOOAAAAAAAAAALL by @vinijr!!!!!!!!!!!!!! 
+#UCLfinal | #APorLa14 |…"
+INFO - [2022-05-28 22:14:48,477] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:14:59,131] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:14:59,132] - twitterbot - tweet id: [1530658793352224775] tweeted at: [2022-05-28 21:14:29+00:00]
+INFO - [2022-05-28 22:14:59,132] - twitterbot - tweeted by: "[Romain Borghelotto]"
+INFO - [2022-05-28 22:14:59,132] - twitterbot - body: "RT @FabrizioRomano: It’s not just tonight. Courtois’ saves this whole season have been simply incredible. ⭐️🇧🇪 #UCLFinal
+
+One of the most u…"
+INFO - [2022-05-28 22:14:59,132] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:15:09,753] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:15:09,753] - twitterbot - tweet id: [1530658793192931329] tweeted at: [2022-05-28 21:14:29+00:00]
+INFO - [2022-05-28 22:15:09,753] - twitterbot - tweeted by: "[Canada💋baby⭐]"
+INFO - [2022-05-28 22:15:09,753] - twitterbot - body: "RT @QSTM2: #UCLfinal #LIVRMA LIVE 
+
+Liverpool vs Real Madrid LIVE STREAM
+
+If Stream Stops 🔔
+Watch On Links: 👇🏿
+
+1- English: https://t.co/Ry…"
+INFO - [2022-05-28 22:15:09,753] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:15:20,415] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:15:20,415] - twitterbot - tweet id: [1530658792945369088] tweeted at: [2022-05-28 21:14:29+00:00]
+INFO - [2022-05-28 22:15:20,416] - twitterbot - tweeted by: "[STAN]"
+INFO - [2022-05-28 22:15:20,416] - twitterbot - body: "RT @LFC: 77' - Henderson is replaced by Keita. Thiago makes way for Firmino.
+
+[0-1]
+
+#UCLfinal"
+INFO - [2022-05-28 22:15:20,416] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:15:31,046] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:15:31,046] - twitterbot - tweet id: [1530658792878358528] tweeted at: [2022-05-28 21:14:29+00:00]
+INFO - [2022-05-28 22:15:31,046] - twitterbot - tweeted by: "[El Telar escolar]"
+INFO - [2022-05-28 22:15:31,046] - twitterbot - body: "Live Stream ❣️
+
+LIV vs RMA
+
+watch link : https://t.co/smavqNT0Jp
+
+#UCLFinal
+#ChampionsLeagueFinal
+
+Champions League… https://t.co/ulWmNsN8OJ"
+INFO - [2022-05-28 22:15:31,046] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:15:41,671] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:15:41,671] - twitterbot - tweet id: [1530658792844697601] tweeted at: [2022-05-28 21:14:29+00:00]
+INFO - [2022-05-28 22:15:41,671] - twitterbot - tweeted by: "[jepta]"
+INFO - [2022-05-28 22:15:41,671] - twitterbot - body: "RT @Euphoria_Sticks: Watching the #UCLfinal on the big screen is fun until you have to travel half way through town back home after it's 10…"
+INFO - [2022-05-28 22:15:41,671] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:15:52,341] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:15:52,341] - twitterbot - tweet id: [1530658792806965252] tweeted at: [2022-05-28 21:14:29+00:00]
+INFO - [2022-05-28 22:15:52,341] - twitterbot - tweeted by: "[mariane]"
+INFO - [2022-05-28 22:15:52,342] - twitterbot - body: "RT @realmadrid: ⚽ 59' | 0-1 | ¡GOOOOOOOOOOOOOOOOOOOOOOOOOOL de @vinijr!
+#APorLa14 | #UCLfinal | #FIFA22 https://t.co/eF7907Iq89"
+INFO - [2022-05-28 22:15:52,342] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:16:03,079] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:16:03,079] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:16:03,369] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:16:03,369] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:16:03,649] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:16:03,649] - twitterbot - tweet id: [1530658791695745024] tweeted at: [2022-05-28 21:14:28+00:00]
+INFO - [2022-05-28 22:16:03,649] - twitterbot - tweeted by: "[Sports Online]"
+INFO - [2022-05-28 22:16:03,649] - twitterbot - body: "[🎥Live🔴]
+
+🏆 #ChampionsLeagueFinal
+
+#LIVRMA | #UCLfinal
+
+🔴 Liverpool vs Real Madrid Live Stream
+
+🎥LIVE LINK👉… https://t.co/ZAXQwJY6WT"
+INFO - [2022-05-28 22:16:03,649] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:16:14,268] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:16:14,268] - twitterbot - tweet id: [1530658791594856448] tweeted at: [2022-05-28 21:14:28+00:00]
+INFO - [2022-05-28 22:16:14,268] - twitterbot - tweeted by: "[Bangoura Cheick Ahmed]"
+INFO - [2022-05-28 22:16:14,268] - twitterbot - body: "RT @ChampionsLeague: A moment Vini Jr. will never forget 🎯
+
+#UCLfinal https://t.co/KOE3R5ggju"
+INFO - [2022-05-28 22:16:14,268] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:16:24,889] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:16:24,889] - twitterbot - tweet id: [1530658791078895617] tweeted at: [2022-05-28 21:14:28+00:00]
+INFO - [2022-05-28 22:16:24,889] - twitterbot - tweeted by: "[NBC Sports Soccer]"
+INFO - [2022-05-28 22:16:24,889] - twitterbot - body: "🚨 LIVE: Liverpool 0-1 Real Madrid with 15 minutes to go!
+
+@JPW_NBCSports at the Stade de France: "#LFC are throwing… https://t.co/maVnRyc9OB"
+INFO - [2022-05-28 22:16:24,889] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:16:35,533] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:16:35,533] - twitterbot - tweet id: [1530658791032864769] tweeted at: [2022-05-28 21:14:28+00:00]
+INFO - [2022-05-28 22:16:35,533] - twitterbot - tweeted by: "[Gülbeşeker İpekböceğim]"
+INFO - [2022-05-28 22:16:35,534] - twitterbot - body: "🔴 LIVERPOOL vs REAL MADRID - FINAL CHAMPIONS LEAGUE EN VIVO
+
+LIVE LINK 👉 https://t.co/an7Z4TDqHR
+
+#APorLa14… https://t.co/ypePCt8R4p"
+INFO - [2022-05-28 22:16:35,534] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:16:46,205] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:16:46,205] - twitterbot - tweet id: [1530658790957260801] tweeted at: [2022-05-28 21:14:28+00:00]
+INFO - [2022-05-28 22:16:46,206] - twitterbot - tweeted by: "[Nicholas nderitu]"
+INFO - [2022-05-28 22:16:46,206] - twitterbot - body: "RT @ogoma_samuel: Who fat your support in the #UCLfinal?
+
+Like for Liverpool
+Retweet for Manchester City 
+
+#UCLfinal https://t.co/qOUvHPpx43"
+INFO - [2022-05-28 22:16:46,206] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:16:56,868] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:16:56,869] - twitterbot - tweet id: [1530658790630215686] tweeted at: [2022-05-28 21:14:28+00:00]
+INFO - [2022-05-28 22:16:56,869] - twitterbot - tweeted by: "[A.J. Francis aka FRAN¢]"
+INFO - [2022-05-28 22:16:56,869] - twitterbot - body: "RT @ThatKJGuy: Courtois today. #UCLfinal https://t.co/MdR5nKMorv"
+INFO - [2022-05-28 22:16:56,869] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:17:07,222] - twitterbot - tweets about Liverpool
+
+INFO - [2022-05-28 22:17:07,953] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:17:07,953] - twitterbot - tweet id: [1530659378961031173] tweeted at: [2022-05-28 21:16:48+00:00]
+INFO - [2022-05-28 22:17:07,953] - twitterbot - tweeted by: "[غادة بنت ابوهــاَ]"
+INFO - [2022-05-28 22:17:07,953] - twitterbot - body: "RT @jus10gostoso: LIVE Champions League final: Liverpool, Real Madrid .
+Liverpool vs Real Madrid Live UEFA Champions League FINAL Liverpool…"
+INFO - [2022-05-28 22:17:07,953] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:17:18,606] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:17:18,607] - twitterbot - tweet id: [1530659378856083457] tweeted at: [2022-05-28 21:16:48+00:00]
+INFO - [2022-05-28 22:17:18,607] - twitterbot - tweeted by: "[Avatar Kòsóṣì]"
+INFO - [2022-05-28 22:17:18,607] - twitterbot - body: "RT @Bolxhwtf: Na Liverpool Dey play Na Madrid Dey score"
+INFO - [2022-05-28 22:17:18,607] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:17:29,236] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:17:29,236] - twitterbot - tweet id: [1530659378835095561] tweeted at: [2022-05-28 21:16:48+00:00]
+INFO - [2022-05-28 22:17:29,237] - twitterbot - tweeted by: "[La feinte de frappe de Luis Figo.]"
+INFO - [2022-05-28 22:17:29,237] - twitterbot - body: "RT @Ultra_Suristic: Casemiro passed it back from this position to a Liverpool player. https://t.co/zFosfY22Tk"
+INFO - [2022-05-28 22:17:29,237] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:17:39,897] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:17:39,897] - twitterbot - tweet id: [1530659378810048512] tweeted at: [2022-05-28 21:16:48+00:00]
+INFO - [2022-05-28 22:17:39,898] - twitterbot - tweeted by: "[Luke Tossoun]"
+INFO - [2022-05-28 22:17:39,898] - twitterbot - body: "RT @tompeck: Well if liverpool want to win three cups this season they’ll actually have to score a goal in a cup final, which they’ve not m…"
+INFO - [2022-05-28 22:17:39,898] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:17:50,537] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:17:50,538] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:17:50,837] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:17:50,837] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:17:51,110] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:17:51,110] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:17:51,381] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:17:51,382] - twitterbot - tweet id: [1530659378176528384] tweeted at: [2022-05-28 21:16:48+00:00]
+INFO - [2022-05-28 22:17:51,382] - twitterbot - tweeted by: "[DOUMA 💚❤💙💛]"
+INFO - [2022-05-28 22:17:51,382] - twitterbot - body: "wth is wrong with liverpool's strikers 😶"
+INFO - [2022-05-28 22:17:51,382] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:18:01,995] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:18:01,995] - twitterbot - tweet id: [1530659377954312193] tweeted at: [2022-05-28 21:16:48+00:00]
+INFO - [2022-05-28 22:18:01,996] - twitterbot - tweeted by: "[Jona]"
+INFO - [2022-05-28 22:18:01,996] - twitterbot - body: "RT @NiceGuyKenny: Liverpool are gonna have to do what they haven’t in the previous 315 minutes of final football they’ve played so far this…"
+INFO - [2022-05-28 22:18:01,996] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:18:12,595] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:18:12,595] - twitterbot - tweet id: [1530659377505521666] tweeted at: [2022-05-28 21:16:48+00:00]
+INFO - [2022-05-28 22:18:12,595] - twitterbot - tweeted by: "[WILLIAM]"
+INFO - [2022-05-28 22:18:12,595] - twitterbot - body: "@choppsyboy84 Liverpool to score.Extra time and penalties.Liverpool win."
+INFO - [2022-05-28 22:18:12,596] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:18:23,266] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:18:23,267] - twitterbot - tweet id: [1530659377346134019] tweeted at: [2022-05-28 21:16:48+00:00]
+INFO - [2022-05-28 22:18:23,267] - twitterbot - tweeted by: "[Noah]"
+INFO - [2022-05-28 22:18:23,267] - twitterbot - body: "RT @LFC: Liverpool FC statement on #UCLfinal entry issues:"
+INFO - [2022-05-28 22:18:23,267] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:18:33,953] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:18:33,954] - twitterbot - tweet id: [1530659377191211008] tweeted at: [2022-05-28 21:16:48+00:00]
+INFO - [2022-05-28 22:18:33,954] - twitterbot - tweeted by: "[Sports Online]"
+INFO - [2022-05-28 22:18:33,954] - twitterbot - body: "[🎥Live🔴]
+
+🏆 #ChampionsLeagueFinal
+
+#LIVRMA | #UCLfinal
+
+🔴 Liverpool vs Real Madrid Live Stream
+
+🎥LIVE LINK👉… https://t.co/sy76N6jSGC"
+INFO - [2022-05-28 22:18:33,954] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:18:44,565] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:18:44,565] - twitterbot - tweet id: [1530659377148874753] tweeted at: [2022-05-28 21:16:48+00:00]
+INFO - [2022-05-28 22:18:44,565] - twitterbot - tweeted by: "[roxi ♥]"
+INFO - [2022-05-28 22:18:44,566] - twitterbot - body: "RT @club_bookies: Who Will Win?
+
+Like For Liverpool ❤️
+Retweet For Real Madrid 🔄
+
+#LiverpoolVsRealMadrid #ChampionsLeagueFinal 
+#UCLfinal #…"
+INFO - [2022-05-28 22:18:44,566] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:18:54,927] - twitterbot - tweets about Courtois
+
+INFO - [2022-05-28 22:18:55,714] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:18:55,714] - twitterbot - tweet id: [1530659830335152128] tweeted at: [2022-05-28 21:18:36+00:00]
+INFO - [2022-05-28 22:18:55,714] - twitterbot - tweeted by: "[BloodSexLies&Alibis]"
+INFO - [2022-05-28 22:18:55,714] - twitterbot - body: "RT @SecBert: Still 10 minutes to go, but Courtois man of the match for sure. This man is on fire.  #LiverpoolVsRealMadrid"
+INFO - [2022-05-28 22:18:55,714] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:19:06,342] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-28 22:19:06,342] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-28 22:19:06,608] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:19:06,608] - twitterbot - tweet id: [1530659830255468552] tweeted at: [2022-05-28 21:18:36+00:00]
+INFO - [2022-05-28 22:19:06,608] - twitterbot - tweeted by: "[Keane]"
+INFO - [2022-05-28 22:19:06,609] - twitterbot - body: "courtois been immense today"
+INFO - [2022-05-28 22:19:06,609] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:19:17,216] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:19:17,217] - twitterbot - tweet id: [1530659830188462082] tweeted at: [2022-05-28 21:18:36+00:00]
+INFO - [2022-05-28 22:19:17,217] - twitterbot - tweeted by: "[Éanna]"
+INFO - [2022-05-28 22:19:17,217] - twitterbot - body: "That Courtois lad would make a fine full back"
+INFO - [2022-05-28 22:19:17,218] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:19:27,846] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:19:27,846] - twitterbot - tweet id: [1530659830158880768] tweeted at: [2022-05-28 21:18:36+00:00]
+INFO - [2022-05-28 22:19:27,846] - twitterbot - tweeted by: "[Alma]"
+INFO - [2022-05-28 22:19:27,846] - twitterbot - body: "Courtois has been amazing tonight"
+INFO - [2022-05-28 22:19:27,847] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:19:38,479] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:19:38,479] - twitterbot - tweet id: [1530659830150701056] tweeted at: [2022-05-28 21:18:36+00:00]
+INFO - [2022-05-28 22:19:38,479] - twitterbot - tweeted by: "[V]"
+INFO - [2022-05-28 22:19:38,479] - twitterbot - body: "I hate courtois but he’s goatee"
+INFO - [2022-05-28 22:19:38,479] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:19:49,104] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:19:49,105] - twitterbot - tweet id: [1530659829987016708] tweeted at: [2022-05-28 21:18:36+00:00]
+INFO - [2022-05-28 22:19:49,105] - twitterbot - tweeted by: "[Danny Gauthier 🇨🇦🇨🇦]"
+INFO - [2022-05-28 22:19:49,105] - twitterbot - body: "RT @LFC: 80' - Salah's curling effort is touched on towards goal by the run of Jota. Courtois is forced to adjust his body quickly to save.…"
+INFO - [2022-05-28 22:19:49,105] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:19:59,742] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:19:59,743] - twitterbot - tweet id: [1530659829852815361] tweeted at: [2022-05-28 21:18:36+00:00]
+INFO - [2022-05-28 22:19:59,743] - twitterbot - tweeted by: "[Hot Girl Midsommar]"
+INFO - [2022-05-28 22:19:59,743] - twitterbot - body: "Courtois you will pay for this"
+INFO - [2022-05-28 22:19:59,743] - twitterbot - The tweet was favored!
+INFO - [2022-05-28 22:20:10,337] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-28 22:20:10,337] - twitterbot - tweet id: [1530659829789954048] tweeted at: [2022-05-28 21:18:36+00:00]
+INFO - [2022-05-28 22:20:10,337] - twitterbot - tweeted by: "[Jamie Chase]"
+INFO - [2022-05-28 22:20:10,337] - twitterbot - body: "RT @Squawka: Alisson in the #UCL this season:
+
+◎ 14 goals conceded
+◉ 14 saves made
+
+Thibaut Courtois in the #UCL this season:
+
+◎ 14 goals c…"
+INFO - [2022-05-28 22:20:10,337] - twitterbot - The tweet was favored!
+ERROR - [2022-05-28 22:20:20,980] - twitterbot - 404 Not Found
+144 - No status found with that ID.
+INFO - [2022-05-28 22:20:20,980] - twitterbot - 62 tweets favored!
+ERROR - [2022-05-28 22:20:20,980] - twitterbot - with_traceback() takes exactly one argument (0 given)

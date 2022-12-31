@@ -1,0 +1,1822 @@
+INFO - [2022-05-22 12:40:27,379] - twitterbot - Welcome to twitterbot! Authenticating ...
+INFO - [2022-05-22 12:40:27,380] - twitterbot - Python/3.7.3 Requests/2.27.1 Tweepy/4.4.0
+INFO - [2022-05-22 12:40:27,380] - twitterbot - Fetching available locations.
+INFO - [2022-05-22 12:40:27,673] - twitterbot - Writing locations to a file.
+INFO - [2022-05-22 12:40:27,690] - twitterbot - Finding closest location.
+INFO - [2022-05-22 12:40:28,026] - twitterbot - Gathering trends closer to your location.
+INFO - [2022-05-22 12:40:28,563] - twitterbot - Writing trends to a file.
+INFO - [2022-05-22 12:40:28,563] - twitterbot - Reading trends from file.
+INFO - [2022-05-22 12:40:28,564] - twitterbot - tweets about #JJJTrailer
+
+INFO - [2022-05-22 12:40:29,222] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:40:29,223] - twitterbot - tweet id: [1528339955038437376] tweeted at: [2022-05-22 11:40:15+00:00]
+INFO - [2022-05-22 12:40:29,223] - twitterbot - tweeted by: "[Yashodhan Karwa]"
+INFO - [2022-05-22 12:40:29,223] - twitterbot - body: "RT @Varun_dvn: Hello Ji Hello!
+Come and catch a glimpse of the most entertaining family reunion of the year with the
+#JJJTrailer out now -…"
+INFO - [2022-05-22 12:40:29,223] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:40:39,836] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:40:39,837] - twitterbot - tweet id: [1528339925405274112] tweeted at: [2022-05-22 11:40:08+00:00]
+INFO - [2022-05-22 12:40:39,837] - twitterbot - tweeted by: "[sujata patil]"
+INFO - [2022-05-22 12:40:39,837] - twitterbot - body: "RT @NishitShawHere: D-DAY FOR JJJ TRAILER 🔥🔥
+
+#JugJuggJeeyo starring #AnilKapoor, #NeetuKapoor, #VarunDhawan, #KiaraAdvani, @iamMostlySane…"
+INFO - [2022-05-22 12:40:39,837] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:40:50,448] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:40:50,449] - twitterbot - tweet id: [1528339911828721664] tweeted at: [2022-05-22 11:40:04+00:00]
+INFO - [2022-05-22 12:40:50,449] - twitterbot - tweeted by: "[Vᴶᵘᵍᴶᵘᵍᵍᴶᵉᵉʸᵒ✨️]"
+INFO - [2022-05-22 12:40:50,449] - twitterbot - body: "RT @SumitkadeI: #JJJTrailer is BRILLIANT- Best trailer i have seen this year for a Hindi film.. Comedy works big time here along with excel…"
+INFO - [2022-05-22 12:40:50,449] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:41:01,069] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:41:01,070] - twitterbot - tweet id: [1528339903628554242] tweeted at: [2022-05-22 11:40:02+00:00]
+INFO - [2022-05-22 12:41:01,070] - twitterbot - tweeted by: "[Varun Lover 😍]"
+INFO - [2022-05-22 12:41:01,070] - twitterbot - body: "RT @Tutejajoginder: Howlarious! This is gonna be such an all around family entertainer. Mazaa aa gaya! Kahaani mein twist isko bolte hain!…"
+INFO - [2022-05-22 12:41:01,070] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:41:11,729] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:41:11,729] - twitterbot - tweet id: [1528339858099429379] tweeted at: [2022-05-22 11:39:52+00:00]
+INFO - [2022-05-22 12:41:11,729] - twitterbot - tweeted by: "[Dharma Productions]"
+INFO - [2022-05-22 12:41:11,729] - twitterbot - body: "RT @write2sumeet: If the #JJJTrailer is so funny, I can't imagine how fun will the movie be. Now I can't wait.
+https://t.co/njlhwjVX3n"
+INFO - [2022-05-22 12:41:11,729] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:41:22,420] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 12:41:22,420] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 12:41:22,712] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:41:22,712] - twitterbot - tweet id: [1528339829217341441] tweeted at: [2022-05-22 11:39:45+00:00]
+INFO - [2022-05-22 12:41:22,713] - twitterbot - tweeted by: "[MERUGU RAJU]"
+INFO - [2022-05-22 12:41:22,713] - twitterbot - body: "#CBIDattaPutrudu @ysjagan about petrol rates in Andhra
+
+#AndhraPradesh #janasena #Telangana #Pawanakalyan #pappu… https://t.co/kUmwJqkFCZ"
+INFO - [2022-05-22 12:41:22,714] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:41:33,372] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:41:33,372] - twitterbot - tweet id: [1528339825341845505] tweeted at: [2022-05-22 11:39:44+00:00]
+INFO - [2022-05-22 12:41:33,372] - twitterbot - tweeted by: "[Egatvinefil]"
+INFO - [2022-05-22 12:41:33,372] - twitterbot - body: "RT @advcnii: just look at her 🥹🥹 @advani_kiara #JJJTrailer https://t.co/92mrm3Kp8W"
+INFO - [2022-05-22 12:41:33,373] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:41:44,035] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:41:44,035] - twitterbot - tweet id: [1528339811278282753] tweeted at: [2022-05-22 11:39:40+00:00]
+INFO - [2022-05-22 12:41:44,036] - twitterbot - tweeted by: "[sujata patil]"
+INFO - [2022-05-22 12:41:44,036] - twitterbot - body: "RT @DharmaMovies: The #JJJTrailer Launch event is about to begin, and the energy here is splendacious!⚡️⏱
+
+#JugJuggJeeyo coming to cinemas…"
+INFO - [2022-05-22 12:41:44,036] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:41:54,680] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:41:54,680] - twitterbot - tweet id: [1528339741480919041] tweeted at: [2022-05-22 11:39:24+00:00]
+INFO - [2022-05-22 12:41:54,680] - twitterbot - tweeted by: "[sonaᴶᵘᵍᴶᵘᵍᵍᴶᵉᵉʸᵒ]"
+INFO - [2022-05-22 12:41:54,681] - twitterbot - body: "RT @varun_ki_madhu: What a trailer it is, full of emotions, comedy, romance, colourful songs omgggg it was all what we need !! More than ex…"
+INFO - [2022-05-22 12:41:54,681] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:42:05,305] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:42:05,305] - twitterbot - tweet id: [1528339732291534849] tweeted at: [2022-05-22 11:39:22+00:00]
+INFO - [2022-05-22 12:42:05,305] - twitterbot - tweeted by: "[Varun ~ JJJ 💫]"
+INFO - [2022-05-22 12:42:05,305] - twitterbot - body: "RT @top5hindioff: #JugJuggJeeyo Trailer out NOW!https://t.co/C8YawZmRmN
+
+starring #AnilKapoor, #NeetuKapoor, #VarunDhawan and #KiaraAdvani.…"
+INFO - [2022-05-22 12:42:05,306] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:42:16,019] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:42:16,019] - twitterbot - tweet id: [1528339670848790528] tweeted at: [2022-05-22 11:39:07+00:00]
+INFO - [2022-05-22 12:42:16,020] - twitterbot - tweeted by: "[kiara 💫]"
+INFO - [2022-05-22 12:42:16,020] - twitterbot - body: "RT @advani_kiara: Experience the biggest family reunion sprinkled with love, laughter, tears &amp; many surprises! #JJJTrailer out now  🥰- http…"
+INFO - [2022-05-22 12:42:16,020] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:42:26,697] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:42:26,698] - twitterbot - tweet id: [1528339633142128640] tweeted at: [2022-05-22 11:38:58+00:00]
+INFO - [2022-05-22 12:42:26,698] - twitterbot - tweeted by: "[Divya💞Prajakta]"
+INFO - [2022-05-22 12:42:26,698] - twitterbot - body: "RT @VishalRC007: Best part of #JJJTrailer 😂👌 #JugJuggJeeyoTrailer https://t.co/Wn8gRpbmWR"
+INFO - [2022-05-22 12:42:26,699] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:42:37,322] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:42:37,322] - twitterbot - tweet id: [1528339611704995842] tweeted at: [2022-05-22 11:38:53+00:00]
+INFO - [2022-05-22 12:42:37,322] - twitterbot - tweeted by: "[Varun Lover 😍]"
+INFO - [2022-05-22 12:42:37,323] - twitterbot - body: "RT @TSeries: A family is built on love, laughter, tears, forgiveness and togetherness!💕
+Experience all of it at the same time with this spe…"
+INFO - [2022-05-22 12:42:37,323] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:42:47,945] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:42:47,945] - twitterbot - tweet id: [1528339601068523521] tweeted at: [2022-05-22 11:38:50+00:00]
+INFO - [2022-05-22 12:42:47,945] - twitterbot - tweeted by: "[shikha]"
+INFO - [2022-05-22 12:42:47,945] - twitterbot - body: "the #JJJTrailer looks decent and refreshing, looking forward to this one😍🥳"
+INFO - [2022-05-22 12:42:47,945] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:42:58,268] - twitterbot - tweets about #JugJuggJeeyoTrailer
+
+INFO - [2022-05-22 12:42:59,101] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:42:59,101] - twitterbot - tweet id: [1528340545973911552] tweeted at: [2022-05-22 11:42:36+00:00]
+INFO - [2022-05-22 12:42:59,101] - twitterbot - tweeted by: "[Time Travel 💫]"
+INFO - [2022-05-22 12:42:59,101] - twitterbot - body: "RT @janhvisthetic: they'll try tearing us down again, but we're stronger this time
+
+#JugJuggJeeyo | #JugJuggJeeyoTrailer | #JJJTrailer"
+INFO - [2022-05-22 12:42:59,101] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:43:09,712] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:43:09,712] - twitterbot - tweet id: [1528340541502816256] tweeted at: [2022-05-22 11:42:34+00:00]
+INFO - [2022-05-22 12:43:09,713] - twitterbot - tweeted by: "[anushka. ᴶᵘᵍᴶᵘᵍᵍᴶᵉᵉʸᵒ]"
+INFO - [2022-05-22 12:43:09,713] - twitterbot - body: "@suhani1020 HE’S BACK AND WE’RE HERE FOR IT! ❤️‍🔥
+#VarunDhawan #JJJTrailer #JugJuggJeeyoTrailer #JugJuggJeeyo"
+INFO - [2022-05-22 12:43:09,713] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:43:20,310] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:43:20,311] - twitterbot - tweet id: [1528340537736142848] tweeted at: [2022-05-22 11:42:34+00:00]
+INFO - [2022-05-22 12:43:20,311] - twitterbot - tweeted by: "[Zoya Wajid]"
+INFO - [2022-05-22 12:43:20,311] - twitterbot - body: "@AbrarUlHaqPK
+Why have they ruined your classic song 😭😭😭😭
+Nach punjaban 
+#JugJuggJeeyoTrailer
+#JugJugJeeyo… https://t.co/1fgUmTx5eu"
+INFO - [2022-05-22 12:43:20,311] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:43:30,929] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:43:30,929] - twitterbot - tweet id: [1528340534984871937] tweeted at: [2022-05-22 11:42:33+00:00]
+INFO - [2022-05-22 12:43:30,929] - twitterbot - tweeted by: "[Time Travel 💫]"
+INFO - [2022-05-22 12:43:30,930] - twitterbot - body: "RT @anushkaaaax: Varun Kukoo Dhawan - You are the MOMENT ❤️
+
+- if growing with every film makes you a great actor then this boy here, he’s…"
+INFO - [2022-05-22 12:43:30,930] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:43:41,561] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:43:41,561] - twitterbot - tweet id: [1528340532065292289] tweeted at: [2022-05-22 11:42:32+00:00]
+INFO - [2022-05-22 12:43:41,561] - twitterbot - tweeted by: "[𝓡𝓪𝓶 🏌️]"
+INFO - [2022-05-22 12:43:41,562] - twitterbot - body: "RT @jyothi_jha: So excited to watch #NeetuKapoor back on the big screen after such a long gap. Also, #JugJuggJeeyoTrailer is already giving…"
+INFO - [2022-05-22 12:43:41,562] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:43:52,180] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:43:52,181] - twitterbot - tweet id: [1528340517146152961] tweeted at: [2022-05-22 11:42:29+00:00]
+INFO - [2022-05-22 12:43:52,181] - twitterbot - tweeted by: "[Varun Lover 😍]"
+INFO - [2022-05-22 12:43:52,181] - twitterbot - body: "RT @MoviesAnalyst: Out Now !!! #JJJTrailer 
+Click here to watch full trailer 👇
+Looking Entertaining 🔥
+#VarunDhawan #KiaraAdvani #anilkapoor…"
+INFO - [2022-05-22 12:43:52,181] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:44:02,815] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:44:02,816] - twitterbot - tweet id: [1528340496527269890] tweeted at: [2022-05-22 11:42:24+00:00]
+INFO - [2022-05-22 12:44:02,816] - twitterbot - tweeted by: "[Jennyᴶᵘᵍᴶᵘᵍᵍᴶᵉᵉʸᵒ 🥺♥️✨]"
+INFO - [2022-05-22 12:44:02,816] - twitterbot - body: "RT @janhvisthetic: "success hits different when no one believed in you." 
+
+@Varun_dvn i am so so sooo proud of you ♥️
+
+#JJJTrailer | #JugJu…"
+INFO - [2022-05-22 12:44:02,816] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:44:13,447] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:44:13,447] - twitterbot - tweet id: [1528340492161028096] tweeted at: [2022-05-22 11:42:23+00:00]
+INFO - [2022-05-22 12:44:13,448] - twitterbot - tweeted by: "[madhu/JJJ on 24th June]"
+INFO - [2022-05-22 12:44:13,448] - twitterbot - body: "RT @Varian_familydz: with all the appreciation, positive reviews flooding my tl, im realising how much i missed VDee as a performer ❤️
+Boll…"
+INFO - [2022-05-22 12:44:13,448] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:44:24,079] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 12:44:24,079] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 12:44:24,356] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:44:24,356] - twitterbot - tweet id: [1528340476335636480] tweeted at: [2022-05-22 11:42:19+00:00]
+INFO - [2022-05-22 12:44:24,356] - twitterbot - tweeted by: "[ADITHYA- Endrum Lalettan-Thalapathy fan]"
+INFO - [2022-05-22 12:44:24,356] - twitterbot - body: "RT @CNNnews18: After much anticipation, the trailer of Karan Johar’s family drama Jugjugg Jeeyo has been released. 
+
+#JugJuggJeeyoTrailer…"
+INFO - [2022-05-22 12:44:24,357] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:44:34,996] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:44:34,997] - twitterbot - tweet id: [1528340475052142593] tweeted at: [2022-05-22 11:42:19+00:00]
+INFO - [2022-05-22 12:44:34,997] - twitterbot - tweeted by: "[sonaᴶᵘᵍᴶᵘᵍᵍᴶᵉᵉʸᵒ]"
+INFO - [2022-05-22 12:44:34,997] - twitterbot - body: "for some people 's kind information
+
+NACH PUNJABAN ISSA VIBEEEEEEEE🥳🥳🥳
+
+https://t.co/cflDm2WrNZ
+#JugJuggJeeyoTrailer #JugJugJeeyo"
+INFO - [2022-05-22 12:44:34,998] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:44:45,630] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:44:45,630] - twitterbot - tweet id: [1528340469184593920] tweeted at: [2022-05-22 11:42:17+00:00]
+INFO - [2022-05-22 12:44:45,631] - twitterbot - tweeted by: "[sujata patil]"
+INFO - [2022-05-22 12:44:45,631] - twitterbot - body: "RT @toheedx_: I am all ready for the biggest celebration of the year❤️ #JugJuggJeeyoTrailer @Varun_dvn @advani_kiara @AnilKapoor  #NeetuKap…"
+INFO - [2022-05-22 12:44:45,631] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:44:56,334] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:44:56,335] - twitterbot - tweet id: [1528340462045925376] tweeted at: [2022-05-22 11:42:16+00:00]
+INFO - [2022-05-22 12:44:56,335] - twitterbot - tweeted by: "[Pankaj Saini]"
+INFO - [2022-05-22 12:44:56,335] - twitterbot - body: "RT @HrithikCenter: Are BC Lagataar @Varun_dvn Trend 
+1st Rank - #JJJTrailer 
+
+2nd Rank - #JugJuggJeeyoTrailer 
+
+4th Rank - #VarunDhawan htt…"
+INFO - [2022-05-22 12:44:56,335] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:45:06,978] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:45:06,978] - twitterbot - tweet id: [1528340451665002497] tweeted at: [2022-05-22 11:42:13+00:00]
+INFO - [2022-05-22 12:45:06,979] - twitterbot - tweeted by: "[Sonali Gupta]"
+INFO - [2022-05-22 12:45:06,979] - twitterbot - body: "RT @TheNewIndian_in: Dharma Productions releases the trailer of their new movie JUG JUGG JEEYO. The movie stars @Varun_dvn, @AnilKapoor, @a…"
+INFO - [2022-05-22 12:45:06,979] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:45:17,605] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:45:17,605] - twitterbot - tweet id: [1528340439459192832] tweeted at: [2022-05-22 11:42:10+00:00]
+INFO - [2022-05-22 12:45:17,605] - twitterbot - tweeted by: "[sujata patil]"
+INFO - [2022-05-22 12:45:17,606] - twitterbot - body: "RT @Bellokingkhan: Loving the #JugJuggJeeyoTrailer looks like we are finally getting a proper Bollywood rom-com with full of comedy, emotio…"
+INFO - [2022-05-22 12:45:17,606] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:45:27,977] - twitterbot - tweets about ALWAYS THERE FOR RASHAMI
+
+INFO - [2022-05-22 12:45:28,638] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:45:28,638] - twitterbot - tweet id: [1528341221013303297] tweeted at: [2022-05-22 11:45:16+00:00]
+INFO - [2022-05-22 12:45:28,638] - twitterbot - tweeted by: "[Anshul Jha]"
+INFO - [2022-05-22 12:45:28,639] - twitterbot - body: "RT @_shivam_18: Proud of myself for stanning @TheRashamiDesai ...
+
+ALWAYS THERE FOR RASHAMI"
+INFO - [2022-05-22 12:45:28,639] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:45:39,338] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:45:39,339] - twitterbot - tweet id: [1528341220669652992] tweeted at: [2022-05-22 11:45:16+00:00]
+INFO - [2022-05-22 12:45:39,339] - twitterbot - tweeted by: "[Seju ~Forever UmRashian]"
+INFO - [2022-05-22 12:45:39,339] - twitterbot - body: "RT @Priyajain_13: This girl deserves all the love and happiness
+
+She is being dealing with sm negativity from long time
+
+ALWAYS THERE FOR R…"
+INFO - [2022-05-22 12:45:39,339] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:45:49,971] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:45:49,971] - twitterbot - tweet id: [1528341220618948608] tweeted at: [2022-05-22 11:45:16+00:00]
+INFO - [2022-05-22 12:45:49,971] - twitterbot - tweeted by: "[Ummi Shu]"
+INFO - [2022-05-22 12:45:49,971] - twitterbot - body: ""If you want to achieve greatness stop asking for permission!!
+
+WE ADORE UMARRIAZ
+
+ALWAYS THERE FOR RASHAMI… https://t.co/F2wdZTK304"
+INFO - [2022-05-22 12:45:49,972] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:46:00,560] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:46:00,560] - twitterbot - tweet id: [1528341218811428864] tweeted at: [2022-05-22 11:45:16+00:00]
+INFO - [2022-05-22 12:46:00,560] - twitterbot - tweeted by: "[Pallavi pathak]"
+INFO - [2022-05-22 12:46:00,560] - twitterbot - body: "RT @KRISH03_: “No one is perfect - that’s why pencils have erasers.”
+
+ALWAYS THERE FOR RASHAMI"
+INFO - [2022-05-22 12:46:00,561] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:46:11,197] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:46:11,197] - twitterbot - tweet id: [1528341214856200192] tweeted at: [2022-05-22 11:45:15+00:00]
+INFO - [2022-05-22 12:46:11,197] - twitterbot - tweeted by: "[Anushka Kshirsagar]"
+INFO - [2022-05-22 12:46:11,197] - twitterbot - body: "RT @UrFan09728118: I am d frost on d grass
+And U
+R d morning sun Melting me
+#RashamiDesai 
+
+ALWAYS THERE FOR RASHAMI https://t.co/JxAadn8nSw"
+INFO - [2022-05-22 12:46:11,198] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:46:21,863] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:46:21,864] - twitterbot - tweet id: [1528341214117785600] tweeted at: [2022-05-22 11:45:15+00:00]
+INFO - [2022-05-22 12:46:21,864] - twitterbot - tweeted by: "[eternal_Sunshine]"
+INFO - [2022-05-22 12:46:21,864] - twitterbot - body: "RT @Lisha75917783: Yes we are trending 
+
+ALWAYS THERE FOR RASHAMI https://t.co/HfSSPhWC4J"
+INFO - [2022-05-22 12:46:21,864] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:46:32,492] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:46:32,493] - twitterbot - tweet id: [1528341210620133376] tweeted at: [2022-05-22 11:45:14+00:00]
+INFO - [2022-05-22 12:46:32,493] - twitterbot - tweeted by: "[PRIYA ||Rashami Desai||]"
+INFO - [2022-05-22 12:46:32,493] - twitterbot - body: "RT @Romaisakhan32: She suffered Alot in her life still stand like a solid women with   beautiful smile u are inspiration for all of us @The…"
+INFO - [2022-05-22 12:46:32,493] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:46:43,108] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:46:43,108] - twitterbot - tweet id: [1528341209391013888] tweeted at: [2022-05-22 11:45:14+00:00]
+INFO - [2022-05-22 12:46:43,108] - twitterbot - tweeted by: "[Pallavi pathak]"
+INFO - [2022-05-22 12:46:43,108] - twitterbot - body: "RT @PujaLohar8: Soul full of Sunshine #RashamiDesai 
+
+ALWAYS THERE FOR RASHAMI"
+INFO - [2022-05-22 12:46:43,109] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:46:53,721] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:46:53,722] - twitterbot - tweet id: [1528341209240190976] tweeted at: [2022-05-22 11:45:14+00:00]
+INFO - [2022-05-22 12:46:53,722] - twitterbot - tweeted by: "[Seju ~Forever UmRashian]"
+INFO - [2022-05-22 12:46:53,723] - twitterbot - body: "RT @umrrraaasshhhhh: #UmRash solid woman ❤
+
+#RashamiDesai #UmRash 
+ALWAYS THERE FOR RASHAMI https://t.co/bvx2COs3aY"
+INFO - [2022-05-22 12:46:53,723] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:47:04,327] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:47:04,328] - twitterbot - tweet id: [1528341202416062467] tweeted at: [2022-05-22 11:45:12+00:00]
+INFO - [2022-05-22 12:47:04,328] - twitterbot - tweeted by: "[PRIYA ||Rashami Desai||]"
+INFO - [2022-05-22 12:47:04,328] - twitterbot - body: "RT @Tinchim140045: ||TREND BOOSTER ||
+
+Write 1-20 in words in the comments section along with the tag lines 
+
+This will bring speed to this…"
+INFO - [2022-05-22 12:47:04,328] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:47:14,930] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:47:14,930] - twitterbot - tweet id: [1528341201249718273] tweeted at: [2022-05-22 11:45:12+00:00]
+INFO - [2022-05-22 12:47:14,931] - twitterbot - tweeted by: "[Silent Eyes💫]"
+INFO - [2022-05-22 12:47:14,931] - twitterbot - body: "RT @ayshahabib11: I'll always be there for you because simply I'll always want to. The one who always taught that loving is giving , that l…"
+INFO - [2022-05-22 12:47:14,931] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:47:25,551] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:47:25,551] - twitterbot - tweet id: [1528341196333993984] tweeted at: [2022-05-22 11:45:11+00:00]
+INFO - [2022-05-22 12:47:25,552] - twitterbot - tweeted by: "[ARIN]"
+INFO - [2022-05-22 12:47:25,552] - twitterbot - body: "RT @mohanty_poo: Trending no.6 
+ALWAYS THERE FOR RASHAMI
+
+#RashamiDesai #Rashamians https://t.co/YnRme9mpa1"
+INFO - [2022-05-22 12:47:25,552] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:47:36,207] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:47:36,207] - twitterbot - tweet id: [1528341193263722496] tweeted at: [2022-05-22 11:45:10+00:00]
+INFO - [2022-05-22 12:47:36,207] - twitterbot - tweeted by: "[eternal_Sunshine]"
+INFO - [2022-05-22 12:47:36,208] - twitterbot - body: "RT @Dreamernbeliver: Trending at no. 8
+
+ALWAYS THERE FOR RASHAMI"
+INFO - [2022-05-22 12:47:36,208] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:47:46,817] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:47:46,817] - twitterbot - tweet id: [1528341192567623680] tweeted at: [2022-05-22 11:45:10+00:00]
+INFO - [2022-05-22 12:47:46,817] - twitterbot - tweeted by: "[Anushka Kshirsagar]"
+INFO - [2022-05-22 12:47:46,817] - twitterbot - body: "RT @WatsonDY13: And a Strong Independent Women 
+Will Never Like Simpathy.
+Rashami is Strong
+We are With Her As She is Now a Part Of Our Fam…"
+INFO - [2022-05-22 12:47:46,818] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:47:57,460] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:47:57,461] - twitterbot - tweet id: [1528341192517337088] tweeted at: [2022-05-22 11:45:10+00:00]
+INFO - [2022-05-22 12:47:57,461] - twitterbot - tweeted by: "[life💫]"
+INFO - [2022-05-22 12:47:57,461] - twitterbot - body: "#RashamiDesai #Rashamians
+ALWAYS THERE FOR RASHAMI https://t.co/MYe7yWShYT"
+INFO - [2022-05-22 12:47:57,461] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:48:07,784] - twitterbot - tweets about #RejectRSSTextBooks
+
+INFO - [2022-05-22 12:48:08,437] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:48:08,437] - twitterbot - tweet id: [1528341858958512128] tweeted at: [2022-05-22 11:47:49+00:00]
+INFO - [2022-05-22 12:48:08,438] - twitterbot - tweeted by: "[Guri Banwait]"
+INFO - [2022-05-22 12:48:08,438] - twitterbot - body: "Reject everything that promotes religious hate &amp; caste based discrimination.
+
+Reject fascism &amp; radicalisation.… https://t.co/rxPggm0Da7"
+INFO - [2022-05-22 12:48:08,438] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:48:19,051] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:48:19,051] - twitterbot - tweet id: [1528341858048528385] tweeted at: [2022-05-22 11:47:48+00:00]
+INFO - [2022-05-22 12:48:19,051] - twitterbot - tweeted by: "[Guruprasad D N]"
+INFO - [2022-05-22 12:48:19,051] - twitterbot - body: "Talibanistion has entered mainstream education. 
+#WeNeedBhagatSighNotHedgewar
+#RejectBrahminTextBooks 
+#RejectRSSTextBooks"
+INFO - [2022-05-22 12:48:19,052] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:48:29,648] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:48:29,648] - twitterbot - tweet id: [1528341832597487618] tweeted at: [2022-05-22 11:47:42+00:00]
+INFO - [2022-05-22 12:48:29,649] - twitterbot - tweeted by: "[Shashank S R]"
+INFO - [2022-05-22 12:48:29,649] - twitterbot - body: "Bhagat Singh, Hedgewar, Lankesh — how Kannada school texts have become ‘ideology battleground’
+
+#RejectRSSTextBooks… https://t.co/fz6qM8GCiN"
+INFO - [2022-05-22 12:48:29,649] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:48:40,303] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:48:40,303] - twitterbot - tweet id: [1528341787160768512] tweeted at: [2022-05-22 11:47:31+00:00]
+INFO - [2022-05-22 12:48:40,304] - twitterbot - tweeted by: "[Kaipu]"
+INFO - [2022-05-22 12:48:40,304] - twitterbot - body: "RT @Fpwrites54: Mr. CMO of Karnaraka @BSBommai!
+
+We #RejectRSSTextBooks &amp; #RejectBrahminTextBooks 
+
+Rss is still loyal to thier British bos…"
+INFO - [2022-05-22 12:48:40,304] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:48:50,920] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:48:50,921] - twitterbot - tweet id: [1528341652619702273] tweeted at: [2022-05-22 11:46:59+00:00]
+INFO - [2022-05-22 12:48:50,921] - twitterbot - tweeted by: "[Syed Mudassir]"
+INFO - [2022-05-22 12:48:50,921] - twitterbot - body: "Mr. CMO of Karnaraka @BSBommai!
+
+We #RejectRSSTextBooks &amp; #RejectBrahminTextBooks 
+
+Rss is still loyal to thier Bri… https://t.co/qpAQFqBv2T"
+INFO - [2022-05-22 12:48:50,921] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:49:01,558] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:49:01,559] - twitterbot - tweet id: [1528341622982733824] tweeted at: [2022-05-22 11:46:52+00:00]
+INFO - [2022-05-22 12:49:01,559] - twitterbot - tweeted by: "[Mahant]"
+INFO - [2022-05-22 12:49:01,559] - twitterbot - body: "RT @Raza_AKhan: Reject everything that promotes religious hate &amp; caste based discrimination.
+
+Reject fascism &amp; radicalisation.
+#RejectBrahm…"
+INFO - [2022-05-22 12:49:01,559] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:49:12,199] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:49:12,199] - twitterbot - tweet id: [1528341559518695424] tweeted at: [2022-05-22 11:46:37+00:00]
+INFO - [2022-05-22 12:49:12,200] - twitterbot - tweeted by: "[Umesh.Hosamani]"
+INFO - [2022-05-22 12:49:12,200] - twitterbot - body: "We don't need rss or heng_pung_lee's lessons.  
+
+#RejectBrahminTextBooks 
+#RejectRSSTextBooks… https://t.co/ct8zEs1bcm"
+INFO - [2022-05-22 12:49:12,200] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:49:22,837] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:49:22,838] - twitterbot - tweet id: [1528341419840053248] tweeted at: [2022-05-22 11:46:04+00:00]
+INFO - [2022-05-22 12:49:22,838] - twitterbot - tweeted by: "[ವೆಂಕಟರಾಮು ವ /V VENKATARAMU]"
+INFO - [2022-05-22 12:49:22,838] - twitterbot - body: "RT @RanjitKumar_Adv: RSS has again proved  it is against equality. Chapters abt Narayan guruji, Basavanna removed in Karnataka school text…"
+INFO - [2022-05-22 12:49:22,838] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:49:33,453] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:49:33,453] - twitterbot - tweet id: [1528341359458799616] tweeted at: [2022-05-22 11:45:49+00:00]
+INFO - [2022-05-22 12:49:33,453] - twitterbot - tweeted by: "[Prajwalana | ಪ್ರಜ್ವಲನ]"
+INFO - [2022-05-22 12:49:33,454] - twitterbot - body: "RT @guruve_dn: We are just few inches away from Text books including Chapter on India's first terrorist Godse. Be aware..
+#HedgewarInKannad…"
+INFO - [2022-05-22 12:49:33,454] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:49:44,064] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 12:49:44,065] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 12:49:44,364] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:49:44,364] - twitterbot - tweet id: [1528341252605116416] tweeted at: [2022-05-22 11:45:24+00:00]
+INFO - [2022-05-22 12:49:44,364] - twitterbot - tweeted by: "[Dinesh Kumar Dinoo]"
+INFO - [2022-05-22 12:49:44,364] - twitterbot - body: "RT @AbdulAS29735939: Mr. CMO of Karnaraka @BSBommai!
+
+We #RejectRSSTextBooks &amp; #RejectBrahminTextBooks 
+
+Rss is still loyal to thier Britis…"
+INFO - [2022-05-22 12:49:44,364] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:49:54,982] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:49:54,983] - twitterbot - tweet id: [1528341216781553664] tweeted at: [2022-05-22 11:45:15+00:00]
+INFO - [2022-05-22 12:49:54,983] - twitterbot - tweeted by: "[Adv. Rukhsana Hashim]"
+INFO - [2022-05-22 12:49:54,983] - twitterbot - body: "RT @shahidsheik03: We want our future generations to know about real heroes stories who fought for freedom movement not the fake boot licke…"
+INFO - [2022-05-22 12:49:54,983] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:50:05,606] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:50:05,606] - twitterbot - tweet id: [1528341193150676994] tweeted at: [2022-05-22 11:45:10+00:00]
+INFO - [2022-05-22 12:50:05,607] - twitterbot - tweeted by: "[ٰ]"
+INFO - [2022-05-22 12:50:05,607] - twitterbot - body: "RT @AmrithShenoyP: Whatever was being taught in Shakhas &amp; whatsapp university all these years ,now Govt of Ktka is introducing in School Te…"
+INFO - [2022-05-22 12:50:05,607] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:50:16,220] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 12:50:16,220] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 12:50:16,506] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 12:50:16,506] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 12:50:16,506] - twitterbot - tweets about #VarunDhawan
+
+INFO - [2022-05-22 12:50:17,190] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:50:17,191] - twitterbot - tweet id: [1528342227499552769] tweeted at: [2022-05-22 11:49:16+00:00]
+INFO - [2022-05-22 12:50:17,191] - twitterbot - tweeted by: "[cinema puff]"
+INFO - [2022-05-22 12:50:17,191] - twitterbot - body: "And they're here! ❤️
+
+#KiaraAdvani, #VarunDhawan, #NeetuKapoor and #AnilKapoor make a star-studded entry for the tr… https://t.co/FmG48FtLWd"
+INFO - [2022-05-22 12:50:17,191] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:50:27,794] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:50:27,795] - twitterbot - tweet id: [1528342156246601728] tweeted at: [2022-05-22 11:48:59+00:00]
+INFO - [2022-05-22 12:50:27,795] - twitterbot - tweeted by: "[TSRK Gulsan ]"
+INFO - [2022-05-22 12:50:27,795] - twitterbot - body: "RT @RedChilliesEnt: Tag the one that can make you blush till you turn red! 🥰 
+
+#ShahRukhKhan #DeepikaPadukone #Kajol  #AnushkaSharma #Varun…"
+INFO - [2022-05-22 12:50:27,795] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:50:38,420] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:50:38,420] - twitterbot - tweet id: [1528342090035478529] tweeted at: [2022-05-22 11:48:44+00:00]
+INFO - [2022-05-22 12:50:38,420] - twitterbot - tweeted by: "[Cinemania India]"
+INFO - [2022-05-22 12:50:38,421] - twitterbot - body: "#JugJugJeeyo is #KiaraAdvani’s second film with director #RajMehta after Good Newzz (2019), and second onscreen app… https://t.co/VsP6nrJn9X"
+INFO - [2022-05-22 12:50:38,421] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:50:49,012] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:50:49,013] - twitterbot - tweet id: [1528342050143207424] tweeted at: [2022-05-22 11:48:34+00:00]
+INFO - [2022-05-22 12:50:49,013] - twitterbot - tweeted by: "[Pavandhfm]"
+INFO - [2022-05-22 12:50:49,013] - twitterbot - body: "RT @rohitjswl01: #JugJuggJeeyoTrailer is absolutely fantastic…. Mounted on large scale this family entertainer with catchy songs will open…"
+INFO - [2022-05-22 12:50:49,013] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:50:59,659] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:50:59,659] - twitterbot - tweet id: [1528342030362873856] tweeted at: [2022-05-22 11:48:29+00:00]
+INFO - [2022-05-22 12:50:59,659] - twitterbot - tweeted by: "[G.G.GDV]"
+INFO - [2022-05-22 12:50:59,660] - twitterbot - body: "RT @HimeshMankad: Comedy + Romance + Music + Emotion! This one has HIT written all over it. #VarunDhawan returns to the big screen after 2…"
+INFO - [2022-05-22 12:50:59,660] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:51:10,356] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:51:10,356] - twitterbot - tweet id: [1528342021965893634] tweeted at: [2022-05-22 11:48:27+00:00]
+INFO - [2022-05-22 12:51:10,357] - twitterbot - tweeted by: "[Faiyaz Ansari]"
+INFO - [2022-05-22 12:51:10,357] - twitterbot - body: "RT @KaleenBhaiya01: Any 2 can be a part of #KabhiEidKabhiDiwali 
+
+Casting is going on #VarunDhawan #SidharthMalhotra #KartikAaryan https://…"
+INFO - [2022-05-22 12:51:10,357] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:51:20,973] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:51:20,973] - twitterbot - tweet id: [1528341912033587200] tweeted at: [2022-05-22 11:48:01+00:00]
+INFO - [2022-05-22 12:51:20,973] - twitterbot - tweeted by: "[🄿🅁🄰🄽🄺🅂🅃🄰🅁]"
+INFO - [2022-05-22 12:51:20,973] - twitterbot - body: "RT @TrueKhabri: Loved the trailer... Comedy, Drama Emotions...Full package..
+
+Super hit hai 🔥
+
+#VarunDhawan #KiaraAdvani
+#JugJuggJeeyoTrail…"
+INFO - [2022-05-22 12:51:20,973] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:51:31,630] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 12:51:31,631] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 12:51:31,914] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:51:31,914] - twitterbot - tweet id: [1528341874175406080] tweeted at: [2022-05-22 11:47:52+00:00]
+INFO - [2022-05-22 12:51:31,915] - twitterbot - tweeted by: "[Sahil (Hbd kutti 🤨🖐️)]"
+INFO - [2022-05-22 12:51:31,915] - twitterbot - body: "RT @BorntobeAshwani: #JugJuggJeeyoTrailer  is Very Intresting.
+⭐⭐⭐⭐
+
+Filled with comic moments, romance, dance, STARs &amp; deals with the very…"
+INFO - [2022-05-22 12:51:31,915] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:51:42,563] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:51:42,563] - twitterbot - tweet id: [1528341737458270208] tweeted at: [2022-05-22 11:47:20+00:00]
+INFO - [2022-05-22 12:51:42,563] - twitterbot - tweeted by: "[madhu/JJJ on 24th June]"
+INFO - [2022-05-22 12:51:42,563] - twitterbot - body: "RT @kartikzismat: the way kiara has chemistry with all her co-stars 😍❤ vd and her are love ❤
+can't wait for this one ❤
+
+#KiaraAdvani #Varun…"
+INFO - [2022-05-22 12:51:42,563] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:51:53,187] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:51:53,187] - twitterbot - tweet id: [1528341693921390592] tweeted at: [2022-05-22 11:47:09+00:00]
+INFO - [2022-05-22 12:51:53,187] - twitterbot - tweeted by: "[Time Travel 💫]"
+INFO - [2022-05-22 12:51:53,187] - twitterbot - body: "RT @variticomfort: this wedding is so dreamy 😭❤
+#VarunDhawan | #KiaraAdvani | #JugJugJeeyo https://t.co/lIFhRqc4cs"
+INFO - [2022-05-22 12:51:53,188] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:52:03,809] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 12:52:03,809] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 12:52:04,077] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:52:04,077] - twitterbot - tweet id: [1528341596994908161] tweeted at: [2022-05-22 11:46:46+00:00]
+INFO - [2022-05-22 12:52:04,077] - twitterbot - tweeted by: "[Free Press Journal]"
+INFO - [2022-05-22 12:52:04,077] - twitterbot - body: ".@Varun_dvn  lifts @advani_kiara in his arms during Jug Jugg Jeeyo trailer launch
+
+#JugJuggJeeyo #VarunDhawan… https://t.co/DHq5OR4bJp"
+INFO - [2022-05-22 12:52:04,077] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:52:14,681] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:52:14,682] - twitterbot - tweet id: [1528341411166572547] tweeted at: [2022-05-22 11:46:02+00:00]
+INFO - [2022-05-22 12:52:14,682] - twitterbot - tweeted by: "[madhu/JJJ on 24th June]"
+INFO - [2022-05-22 12:52:14,682] - twitterbot - body: "RT @kartikzismat: The chemistry😍❤ can't wait ❤ #KiaraAdvani #VarunDhawan #JugJuggJeeyo #JugJuggJeeyoTrailer @advani_kiara @Varun_dvn ❤ http…"
+INFO - [2022-05-22 12:52:14,683] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:52:25,326] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:52:25,326] - twitterbot - tweet id: [1528341379453456385] tweeted at: [2022-05-22 11:45:54+00:00]
+INFO - [2022-05-22 12:52:25,326] - twitterbot - tweeted by: "[Time Travel 💫]"
+INFO - [2022-05-22 12:52:25,327] - twitterbot - body: "RT @gungunaaye: ❥︎many moods of kukoo ꨄ︎
+@Varun_dvn my star boy i cant wait to watch you on bigscreen loveyouuꨄ︎ #JugJuggJeeyoTrailer 
+
+[ #…"
+INFO - [2022-05-22 12:52:25,327] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:52:35,685] - twitterbot - tweets about FAHMAAN HITS 200K
+
+INFO - [2022-05-22 12:52:36,372] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:52:36,373] - twitterbot - tweet id: [1528343012694061057] tweeted at: [2022-05-22 11:52:24+00:00]
+INFO - [2022-05-22 12:52:36,373] - twitterbot - tweeted by: "[Neem]"
+INFO - [2022-05-22 12:52:36,373] - twitterbot - body: "RT @simi_life: This weeks episodes have been breathtaking
+
+FAHMAAN HITS 200K"
+INFO - [2022-05-22 12:52:36,373] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:52:47,062] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:52:47,062] - twitterbot - tweet id: [1528343011267997697] tweeted at: [2022-05-22 11:52:23+00:00]
+INFO - [2022-05-22 12:52:47,062] - twitterbot - tweeted by: "[Jaya]"
+INFO - [2022-05-22 12:52:47,063] - twitterbot - body: "RT @aryliestic: Just open tt n saw still trending 
+
+FAHMAAN HITS 200K"
+INFO - [2022-05-22 12:52:47,063] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:52:57,696] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:52:57,696] - twitterbot - tweet id: [1528343010668228609] tweeted at: [2022-05-22 11:52:23+00:00]
+INFO - [2022-05-22 12:52:57,697] - twitterbot - tweeted by: "[meghaan_my_life]"
+INFO - [2022-05-22 12:52:57,697] - twitterbot - body: "RT @simi_life: 200K people!!
+
+FAHMAAN HITS 200K"
+INFO - [2022-05-22 12:52:57,697] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:53:08,340] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:53:08,340] - twitterbot - tweet id: [1528343006482292736] tweeted at: [2022-05-22 11:52:22+00:00]
+INFO - [2022-05-22 12:53:08,340] - twitterbot - tweeted by: "[Aru ki Secretary]"
+INFO - [2022-05-22 12:53:08,340] - twitterbot - body: "RT @taniitsmylife: Such a genuine guy 
+
+FAHMAAN HITS 200K"
+INFO - [2022-05-22 12:53:08,341] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:53:18,951] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:53:18,951] - twitterbot - tweet id: [1528343005475680256] tweeted at: [2022-05-22 11:52:22+00:00]
+INFO - [2022-05-22 12:53:18,951] - twitterbot - tweeted by: "[Aru ki Secretary]"
+INFO - [2022-05-22 12:53:18,952] - twitterbot - body: "RT @sketchpen23: you make us shower you with appreciation after every damn episode!
+
+FAHMAAN HITS 200k"
+INFO - [2022-05-22 12:53:18,952] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:53:29,600] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:53:29,600] - twitterbot - tweet id: [1528343001969217536] tweeted at: [2022-05-22 11:52:21+00:00]
+INFO - [2022-05-22 12:53:29,600] - twitterbot - tweeted by: "[Neem]"
+INFO - [2022-05-22 12:53:29,601] - twitterbot - body: "RT @shilpitripathi1: ARYAN SINGH RATHORE
+
+The boss
+Or
+The Husband?
+
+Qoute with your answers! ( Qoute for trend booster) 
+
+FAHMAAN HITS 200K"
+INFO - [2022-05-22 12:53:29,601] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:53:40,220] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:53:40,220] - twitterbot - tweet id: [1528342999410745345] tweeted at: [2022-05-22 11:52:20+00:00]
+INFO - [2022-05-22 12:53:40,220] - twitterbot - tweeted by: "[Simi]"
+INFO - [2022-05-22 12:53:40,220] - twitterbot - body: "RT @trish28c: King Khan of ITV trending with 54k tweets 
+
+FAHMAAN HITS 200K https://t.co/Y594jGfWZM"
+INFO - [2022-05-22 12:53:40,220] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:53:50,848] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:53:50,849] - twitterbot - tweet id: [1528342989851873280] tweeted at: [2022-05-22 11:52:18+00:00]
+INFO - [2022-05-22 12:53:50,849] - twitterbot - tweeted by: "[Neem]"
+INFO - [2022-05-22 12:53:50,849] - twitterbot - body: "RT @Bhavana25651388: Rcbian forever 
+
+FAHMAAN HITS 200K"
+INFO - [2022-05-22 12:53:50,849] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:54:01,470] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:54:01,470] - twitterbot - tweet id: [1528342981228388352] tweeted at: [2022-05-22 11:52:16+00:00]
+INFO - [2022-05-22 12:54:01,470] - twitterbot - tweeted by: "[Tani it's my life]"
+INFO - [2022-05-22 12:54:01,471] - twitterbot - body: "RT @akalkandho: Fahmaan khan is such a humble man
+It's a rare trait which most seems don't have
+You are rare breed in this industry fahmaan…"
+INFO - [2022-05-22 12:54:01,471] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:54:12,097] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:54:12,098] - twitterbot - tweet id: [1528342962362458112] tweeted at: [2022-05-22 11:52:12+00:00]
+INFO - [2022-05-22 12:54:12,098] - twitterbot - tweeted by: "[meghaan_my_life]"
+INFO - [2022-05-22 12:54:12,098] - twitterbot - body: "RT @FahmaankhanQ: I’m so desperate to use emoji 
+
+#FAHMAAN HITS 200K"
+INFO - [2022-05-22 12:54:12,098] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:54:22,740] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:54:22,740] - twitterbot - tweet id: [1528342961200586752] tweeted at: [2022-05-22 11:52:11+00:00]
+INFO - [2022-05-22 12:54:22,741] - twitterbot - tweeted by: "[twinklinglights]"
+INFO - [2022-05-22 12:54:22,741] - twitterbot - body: "We r the audiance for this 
+
+FAHMAAN HITS 200K https://t.co/H5TtnyAybY"
+INFO - [2022-05-22 12:54:22,741] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:54:33,359] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:54:33,359] - twitterbot - tweet id: [1528342945266475009] tweeted at: [2022-05-22 11:52:08+00:00]
+INFO - [2022-05-22 12:54:33,360] - twitterbot - tweeted by: "[Neem]"
+INFO - [2022-05-22 12:54:33,360] - twitterbot - body: "RT @Weluvu_PattuDee: We deserve a live session with u and sumbul.. 
+FAHMAAN HITS 200K"
+INFO - [2022-05-22 12:54:33,360] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:54:43,985] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:54:43,985] - twitterbot - tweet id: [1528342941432881157] tweeted at: [2022-05-22 11:52:07+00:00]
+INFO - [2022-05-22 12:54:43,985] - twitterbot - tweeted by: "[meha.mehuh?]"
+INFO - [2022-05-22 12:54:43,985] - twitterbot - body: "How dare you 😭😭 
+
+FAHMAAN HITS 200k https://t.co/PV79nuYVEZ"
+INFO - [2022-05-22 12:54:43,985] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:54:54,608] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:54:54,609] - twitterbot - tweet id: [1528342939591512064] tweeted at: [2022-05-22 11:52:06+00:00]
+INFO - [2022-05-22 12:54:54,609] - twitterbot - tweeted by: "[meghaan_my_life]"
+INFO - [2022-05-22 12:54:54,609] - twitterbot - body: "RT @admirer_fahmaan: His eyebrows cut ......
+FAHMAAN HITS 200K"
+INFO - [2022-05-22 12:54:54,609] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:55:05,229] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:55:05,229] - twitterbot - tweet id: [1528342934877196288] tweeted at: [2022-05-22 11:52:05+00:00]
+INFO - [2022-05-22 12:55:05,229] - twitterbot - tweeted by: "[Tani it's my life]"
+INFO - [2022-05-22 12:55:05,229] - twitterbot - body: "RT @ipshishika: Remembering the time when we thought he is here for just couple of months...how destiny plays!! He is here to set the whole…"
+INFO - [2022-05-22 12:55:05,229] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:55:15,557] - twitterbot - tweets about #RejectBrahminTextBooks
+
+INFO - [2022-05-22 12:55:16,235] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:55:16,236] - twitterbot - tweet id: [1528343688338087938] tweeted at: [2022-05-22 11:55:05+00:00]
+INFO - [2022-05-22 12:55:16,236] - twitterbot - tweeted by: "[Ajaz Ahamed]"
+INFO - [2022-05-22 12:55:16,236] - twitterbot - body: "RT @nafeesjnu: So the present text book of Karnataka education board is of the Brahmins by the Brahmins and for the Brahmins???
+#RejectBrah…"
+INFO - [2022-05-22 12:55:16,236] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:55:26,853] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:55:26,854] - twitterbot - tweet id: [1528343679672684551] tweeted at: [2022-05-22 11:55:03+00:00]
+INFO - [2022-05-22 12:55:26,854] - twitterbot - tweeted by: "[Ajaz Ahamed]"
+INFO - [2022-05-22 12:55:26,854] - twitterbot - body: "RT @SAHILKILLEDAR5: Rss*s tool committee implemented there sangh chalaks ideology... Have you every speak about this
+Ooo  @ ಕನ್ನಡಿಗರೇ.
+#Rej…"
+INFO - [2022-05-22 12:55:26,854] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:55:37,473] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:55:37,474] - twitterbot - tweet id: [1528343669820248064] tweeted at: [2022-05-22 11:55:00+00:00]
+INFO - [2022-05-22 12:55:37,474] - twitterbot - tweeted by: "[Ajaz Ahamed]"
+INFO - [2022-05-22 12:55:37,474] - twitterbot - body: "RT @ggkhnr: Propaganda which was part of WhatsApp university is now makingspace in the curriculum of school students of Karnataka..
+
+#Rejec…"
+INFO - [2022-05-22 12:55:37,475] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:55:48,104] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:55:48,105] - twitterbot - tweet id: [1528343669572796417] tweeted at: [2022-05-22 11:55:00+00:00]
+INFO - [2022-05-22 12:55:48,105] - twitterbot - tweeted by: "[Ajit Kumar]"
+INFO - [2022-05-22 12:55:48,105] - twitterbot - body: "RT @wisdom_sanatan: #RejectBrahminTextBooks 
+I reject jihadi textbooks which we are taught in school to glorify Mughals who were none less…"
+INFO - [2022-05-22 12:55:48,105] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:55:58,734] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:55:58,734] - twitterbot - tweet id: [1528343659833597952] tweeted at: [2022-05-22 11:54:58+00:00]
+INFO - [2022-05-22 12:55:58,734] - twitterbot - tweeted by: "[Ajaz Ahamed]"
+INFO - [2022-05-22 12:55:58,734] - twitterbot - body: "RT @Ayaz_Ind: RSS want to create its own manipulated history
+
+They never participated in struggle of freedom. Mafiveer Sawarkar wrote mercy…"
+INFO - [2022-05-22 12:55:58,734] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:56:09,370] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:56:09,370] - twitterbot - tweet id: [1528343658449469442] tweeted at: [2022-05-22 11:54:58+00:00]
+INFO - [2022-05-22 12:56:09,371] - twitterbot - tweeted by: "[Riyaz R]"
+INFO - [2022-05-22 12:56:09,371] - twitterbot - body: "Mr. CMO of Karnaraka @BSBommai!
+
+We #RejectRSSTextBooks &amp; #RejectBrahminTextBooks 
+
+Rss is still loyal to thier Bri… https://t.co/NThG70f42m"
+INFO - [2022-05-22 12:56:09,371] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:56:19,983] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:56:19,983] - twitterbot - tweet id: [1528343653055201280] tweeted at: [2022-05-22 11:54:56+00:00]
+INFO - [2022-05-22 12:56:19,983] - twitterbot - tweeted by: "[Parameshwar]"
+INFO - [2022-05-22 12:56:19,983] - twitterbot - body: "RT @VinayaPrabhu10: The State government has adopted the RSS founder Keshav Baliram Hedgewar’s speeh in 10th Standards text book!
+
+Why So c…"
+INFO - [2022-05-22 12:56:19,984] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:56:30,625] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:56:30,625] - twitterbot - tweet id: [1528343651608580096] tweeted at: [2022-05-22 11:54:56+00:00]
+INFO - [2022-05-22 12:56:30,625] - twitterbot - tweeted by: "[Ajaz Ahamed]"
+INFO - [2022-05-22 12:56:30,625] - twitterbot - body: "RT @pradeepgowdas: Bunch/Bench of minority people dictates what the majority of folks to study in their academics. 
+
+#RejectRSSTextBooks
+#R…"
+INFO - [2022-05-22 12:56:30,626] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:56:41,270] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:56:41,270] - twitterbot - tweet id: [1528343632134414336] tweeted at: [2022-05-22 11:54:51+00:00]
+INFO - [2022-05-22 12:56:41,271] - twitterbot - tweeted by: "[Ajaz Ahamed]"
+INFO - [2022-05-22 12:56:41,271] - twitterbot - body: "RT @shaikhvali6: Mr. CMO of Karnaraka @BSBommai!
+
+We #RejectRSSTextBooks &amp; #RejectBrahminTextBooks 
+
+Rss is still loyal to thier British bo…"
+INFO - [2022-05-22 12:56:41,271] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:56:51,913] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:56:51,913] - twitterbot - tweet id: [1528343626514046976] tweeted at: [2022-05-22 11:54:50+00:00]
+INFO - [2022-05-22 12:56:51,914] - twitterbot - tweeted by: "[Irfan Khan tagala]"
+INFO - [2022-05-22 12:56:51,914] - twitterbot - body: "RT @SohelSh93068026: #RejectBrahminTextBooks this time youth Redicalization https://t.co/Nz8J4t0dsC"
+INFO - [2022-05-22 12:56:51,914] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:57:02,674] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:57:02,675] - twitterbot - tweet id: [1528343625276727296] tweeted at: [2022-05-22 11:54:50+00:00]
+INFO - [2022-05-22 12:57:02,675] - twitterbot - tweeted by: "[Moula Sab]"
+INFO - [2022-05-22 12:57:02,675] - twitterbot - body: "In past they didnt allowed others to learn even how to write.
+
+Now they want everyone to learn a dead language.
+
+Th… https://t.co/oyzbEJMAQB"
+INFO - [2022-05-22 12:57:02,675] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:57:13,271] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:57:13,272] - twitterbot - tweet id: [1528343623427051520] tweeted at: [2022-05-22 11:54:49+00:00]
+INFO - [2022-05-22 12:57:13,272] - twitterbot - tweeted by: "[Ajaz Ahamed]"
+INFO - [2022-05-22 12:57:13,272] - twitterbot - body: "RT @VinayaPrabhu10: I reject jihadi's lessons who demolished our temples!
+
+For Example Mughals, Dehali Sultan's And Tippus Lesson!
+
+@hk81…"
+INFO - [2022-05-22 12:57:13,272] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:57:23,907] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:57:23,907] - twitterbot - tweet id: [1528343622436937731] tweeted at: [2022-05-22 11:54:49+00:00]
+INFO - [2022-05-22 12:57:23,907] - twitterbot - tweeted by: "[Niisshii🙃]"
+INFO - [2022-05-22 12:57:23,907] - twitterbot - body: "RT @damini_prakash: #RejectBrahminTextBooks
+
+I reject Mughal history
+Mughals were invader
+
+#RemoveWorshipAct https://t.co/GwysbFXvbB"
+INFO - [2022-05-22 12:57:23,908] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:57:34,526] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:57:34,526] - twitterbot - tweet id: [1528343611024510977] tweeted at: [2022-05-22 11:54:46+00:00]
+INFO - [2022-05-22 12:57:34,526] - twitterbot - tweeted by: "[Ajaz Ahamed]"
+INFO - [2022-05-22 12:57:34,526] - twitterbot - body: "RT @hamzairfanb: We want our future generations to know about real heroes stories who fought for freedom movement not the fake boot lickers…"
+INFO - [2022-05-22 12:57:34,526] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:57:45,156] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:57:45,157] - twitterbot - tweet id: [1528343603973525504] tweeted at: [2022-05-22 11:54:45+00:00]
+INFO - [2022-05-22 12:57:45,157] - twitterbot - tweeted by: "[Parameshwar]"
+INFO - [2022-05-22 12:57:45,157] - twitterbot - body: "RT @Mutturaju7: Close to 75% brahmin representation here . Right wing doing its politics openly and shamelessly .
+
+#RejectRSSTextBooks
+#Rej…"
+INFO - [2022-05-22 12:57:45,157] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:57:55,497] - twitterbot - tweets about WHEN RAVAL
+
+INFO - [2022-05-22 12:57:56,138] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:57:56,138] - twitterbot - tweet id: [1528344350761136128] tweeted at: [2022-05-22 11:57:43+00:00]
+INFO - [2022-05-22 12:57:56,138] - twitterbot - tweeted by: "[आजाद परिंदा Want To Sing For Raval 🏠💙]"
+INFO - [2022-05-22 12:57:56,138] - twitterbot - body: "RT @Suhani_drdz: Darshan after seeing us trending 
+WHEN RAVAL 😭🤌🏻
+He be like* ye mere 2:12 cutiepies kabhi nhi sudhrenge🥰
+
+WHEN RAVAL https…"
+INFO - [2022-05-22 12:57:56,138] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:58:06,749] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:58:06,750] - twitterbot - tweet id: [1528344320838975489] tweeted at: [2022-05-22 11:57:36+00:00]
+INFO - [2022-05-22 12:58:06,750] - twitterbot - tweeted by: "[आजाद परिंदा Want To Sing For Raval 🏠💙]"
+INFO - [2022-05-22 12:58:06,750] - twitterbot - body: "RT @Priteeshadz: If you are here then reply with
+
+WHEN RAVAL"
+INFO - [2022-05-22 12:58:06,750] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:58:17,433] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:58:17,433] - twitterbot - tweet id: [1528344296919040000] tweeted at: [2022-05-22 11:57:30+00:00]
+INFO - [2022-05-22 12:58:17,434] - twitterbot - tweeted by: "[🐣]"
+INFO - [2022-05-22 12:58:17,434] - twitterbot - body: "Why is my tl filled with When Raval
+
+Kya hua???"
+INFO - [2022-05-22 12:58:17,434] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:58:28,051] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:58:28,051] - twitterbot - tweet id: [1528344292963622912] tweeted at: [2022-05-22 11:57:29+00:00]
+INFO - [2022-05-22 12:58:28,051] - twitterbot - tweeted by: "[Sana🌙#Darshan'sPehliMohabbat💙❤🛐]"
+INFO - [2022-05-22 12:58:28,051] - twitterbot - body: "WHEN RAVAL WHEN RAVAL WHEN RAVAL WHEN RAVAL WHEN RAVAL WHEN RAVAL"
+INFO - [2022-05-22 12:58:28,051] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:58:38,657] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:58:38,658] - twitterbot - tweet id: [1528344222633406465] tweeted at: [2022-05-22 11:57:12+00:00]
+INFO - [2022-05-22 12:58:38,658] - twitterbot - tweeted by: "[Neha loves D:)💙🏠]"
+INFO - [2022-05-22 12:58:38,658] - twitterbot - body: "RT @Ritiiiiee_DZ: Toppers of twitter university on action😭
+
+WHEN RAVAL https://t.co/scTKOLrQfF"
+INFO - [2022-05-22 12:58:38,658] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:58:49,285] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:58:49,285] - twitterbot - tweet id: [1528343996057067520] tweeted at: [2022-05-22 11:56:18+00:00]
+INFO - [2022-05-22 12:58:49,285] - twitterbot - tweeted by: "[💙VAISHNAVIDz🥧💙]"
+INFO - [2022-05-22 12:58:49,285] - twitterbot - body: "RT @shru_drdz: WHEN RAVAL? @DarshanRavalDZ"
+INFO - [2022-05-22 12:58:49,286] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:58:59,878] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:58:59,878] - twitterbot - tweet id: [1528343960451940352] tweeted at: [2022-05-22 11:56:10+00:00]
+INFO - [2022-05-22 12:58:59,878] - twitterbot - tweeted by: "[Ravina 🏠💙 #Soon✨]"
+INFO - [2022-05-22 12:58:59,878] - twitterbot - body: "6pm wali Story WHEN RAVAL ? 
+@DarshanRavalDZ"
+INFO - [2022-05-22 12:58:59,878] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:59:10,475] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:59:10,475] - twitterbot - tweet id: [1528343825768321024] tweeted at: [2022-05-22 11:55:37+00:00]
+INFO - [2022-05-22 12:59:10,476] - twitterbot - tweeted by: "[Neha loves D:)💙🏠]"
+INFO - [2022-05-22 12:59:10,476] - twitterbot - body: "RT @pyaariMehakuDZ: Breaking news : Blue family trends WHEN RAVAL as @DarshanRavalDZ drops a mysterious hint in his recent Instagram captio…"
+INFO - [2022-05-22 12:59:10,476] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:59:21,111] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:59:21,112] - twitterbot - tweet id: [1528343588098043904] tweeted at: [2022-05-22 11:54:41+00:00]
+INFO - [2022-05-22 12:59:21,112] - twitterbot - tweeted by: "[Ravina 🏠💙 #Soon✨]"
+INFO - [2022-05-22 12:59:21,112] - twitterbot - body: "Oh it's trending 
+
+WHEN RAVAL ?????"
+INFO - [2022-05-22 12:59:21,112] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:59:31,737] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:59:31,737] - twitterbot - tweet id: [1528343507076755456] tweeted at: [2022-05-22 11:54:21+00:00]
+INFO - [2022-05-22 12:59:31,738] - twitterbot - tweeted by: "[Neha loves D:)💙🏠]"
+INFO - [2022-05-22 12:59:31,738] - twitterbot - body: "RT @MadhuraWaghDZ: JUST A CAPTION BY HIM "WHEN"?
+AND LOOK AT THE RESULTS
+YA WELCOME TO TE CRAZIEST FANDOM 😭
+WHEN RAVAL 
+WHEN RAVAL https://…"
+INFO - [2022-05-22 12:59:31,738] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:59:42,363] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:59:42,363] - twitterbot - tweet id: [1528343079551651841] tweeted at: [2022-05-22 11:52:40+00:00]
+INFO - [2022-05-22 12:59:42,363] - twitterbot - tweeted by: "[Malu want's to meet Darshu 🥺💙]"
+INFO - [2022-05-22 12:59:42,363] - twitterbot - body: "@vartika_drdz WHY WHY WHY
+.
+WHEN RAVAL
+WHEN RAVAL
+WHEN RAVAL
+WHEN RAVAL"
+INFO - [2022-05-22 12:59:42,363] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 12:59:52,969] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 12:59:52,969] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 12:59:53,251] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 12:59:53,251] - twitterbot - tweet id: [1528342921115684865] tweeted at: [2022-05-22 11:52:02+00:00]
+INFO - [2022-05-22 12:59:53,251] - twitterbot - tweeted by: "[Ishpreet #Goriye]"
+INFO - [2022-05-22 12:59:53,252] - twitterbot - body: "RT @MalvikaDZ: WHEN RAVAL
+WHEN RAVAL
+WHEN RAVAL
+WHEN RAVAL
+?¿?¿?¿?¿ https://t.co/Yd1FKHonse"
+INFO - [2022-05-22 12:59:53,252] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:00:03,884] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:00:03,885] - twitterbot - tweet id: [1528342897497497601] tweeted at: [2022-05-22 11:51:56+00:00]
+INFO - [2022-05-22 13:00:03,885] - twitterbot - tweeted by: "[Ishpreet #Goriye]"
+INFO - [2022-05-22 13:00:03,885] - twitterbot - body: "RT @DrdzKirti: BlueFamily's UNITY&gt;&gt;&gt;
+
+WHEN RAVAL?"
+INFO - [2022-05-22 13:00:03,885] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:00:14,507] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:00:14,507] - twitterbot - tweet id: [1528342684707979264] tweeted at: [2022-05-22 11:51:05+00:00]
+INFO - [2022-05-22 13:00:14,507] - twitterbot - tweeted by: "[आजाद परिंदा Want To Sing For Raval 🏠💙]"
+INFO - [2022-05-22 13:00:14,507] - twitterbot - body: "RT @Bhumika_drdz: Rt and reply with-
+WHEN RAVAL https://t.co/b6ohygThB2"
+INFO - [2022-05-22 13:00:14,508] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:00:24,880] - twitterbot - tweets about Conspiracy Obvious In SSR Case
+
+INFO - [2022-05-22 13:00:25,627] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:00:25,627] - twitterbot - tweet id: [1528344982624448512] tweeted at: [2022-05-22 12:00:13+00:00]
+INFO - [2022-05-22 13:00:25,627] - twitterbot - tweeted by: "[Gauri ‼️💞 SSR Fan 💞]"
+INFO - [2022-05-22 13:00:25,627] - twitterbot - body: "RT @SSRianSatya: I am ready to raise my voice till justice served to SSR . @PMOIndia
+
+Are you?
+
+Conspiracy Obvious In SSR Case"
+INFO - [2022-05-22 13:00:25,627] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:00:36,240] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:00:36,240] - twitterbot - tweet id: [1528344978275049477] tweeted at: [2022-05-22 12:00:12+00:00]
+INFO - [2022-05-22 13:00:36,240] - twitterbot - tweeted by: "[BellinaAlice Wants Justice for SSR ❤]"
+INFO - [2022-05-22 13:00:36,240] - twitterbot - body: "RT @SohiniB24531891: Honorable @PMOIndia u hv any idea wt a corrupted mafia Govt u hv n MahaState?If u do nt tk any serious actions nw pres…"
+INFO - [2022-05-22 13:00:36,240] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:00:46,897] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:00:46,898] - twitterbot - tweet id: [1528344974340657152] tweeted at: [2022-05-22 12:00:11+00:00]
+INFO - [2022-05-22 13:00:46,898] - twitterbot - tweeted by: "[Sarica yadav]"
+INFO - [2022-05-22 13:00:46,898] - twitterbot - body: "RT @AJEY_RAI: Who are the kingpins of SSR murder case? 
+
+@ips_nupurprasad 
+
+Conspiracy Obvious In SSR Case"
+INFO - [2022-05-22 13:00:46,898] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:00:57,505] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:00:57,505] - twitterbot - tweet id: [1528344974084829184] tweeted at: [2022-05-22 12:00:11+00:00]
+INFO - [2022-05-22 13:00:57,505] - twitterbot - tweeted by: "[Gauri ‼️💞 SSR Fan 💞]"
+INFO - [2022-05-22 13:00:57,505] - twitterbot - body: "RT @Sushant24921433: Is CBI intrested in solving case?
+Conspiracy Obvious In SSR Case"
+INFO - [2022-05-22 13:00:57,506] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:01:08,112] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:01:08,112] - twitterbot - tweet id: [1528344974047203328] tweeted at: [2022-05-22 12:00:11+00:00]
+INFO - [2022-05-22 13:01:08,113] - twitterbot - tweeted by: "[🇮🇳Änkitä - self Sufficient 🧚‍♀️🦋💫❤✨]"
+INFO - [2022-05-22 13:01:08,113] - twitterbot - body: "RT @SsrSatya: Why truth is not yet Trimuphed
+@PMOIndia  @DoPTGoI 
+Conspiracy Obvious In SSR Case"
+INFO - [2022-05-22 13:01:08,113] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:01:18,725] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:01:18,725] - twitterbot - tweet id: [1528344973699325952] tweeted at: [2022-05-22 12:00:11+00:00]
+INFO - [2022-05-22 13:01:18,725] - twitterbot - tweeted by: "[Vandana]"
+INFO - [2022-05-22 13:01:18,725] - twitterbot - body: "RT @Mioara83776997: I don't understand ..
+Authorities are institutions, but are  conducted by people.
+People are persons .Human beings. Wit…"
+INFO - [2022-05-22 13:01:18,725] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:01:29,378] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:01:29,378] - twitterbot - tweet id: [1528344967302766596] tweeted at: [2022-05-22 12:00:10+00:00]
+INFO - [2022-05-22 13:01:29,378] - twitterbot - tweeted by: "[🇮🇳Änkitä - self Sufficient 🧚‍♀️🦋💫❤✨]"
+INFO - [2022-05-22 13:01:29,378] - twitterbot - body: "RT @SsrSatya: Why no one is bothered about justice
+@PMOIndia  @DoPTGoI 
+Conspiracy Obvious In SSR Case"
+INFO - [2022-05-22 13:01:29,379] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:01:40,018] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:01:40,018] - twitterbot - tweet id: [1528344964471480320] tweeted at: [2022-05-22 12:00:09+00:00]
+INFO - [2022-05-22 13:01:40,018] - twitterbot - tweeted by: "[Gauri ‼️💞 SSR Fan 💞]"
+INFO - [2022-05-22 13:01:40,019] - twitterbot - body: "RT @ssrstan4ever: The room whr Sushant was found was sparsely furnished and forget  a bookshelf, thr was not a book or notebook in sight. H…"
+INFO - [2022-05-22 13:01:40,019] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:01:50,638] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:01:50,639] - twitterbot - tweet id: [1528344963716550656] tweeted at: [2022-05-22 12:00:09+00:00]
+INFO - [2022-05-22 13:01:50,639] - twitterbot - tweeted by: "[Sarica yadav]"
+INFO - [2022-05-22 13:01:50,639] - twitterbot - body: "RT @Meenu95485594: We Want Justice
+#Justice4SSR
+Conspiracy Obvious In SSR Case https://t.co/b26x4AHFqn"
+INFO - [2022-05-22 13:01:50,639] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:02:01,261] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:02:01,262] - twitterbot - tweet id: [1528344959039979522] tweeted at: [2022-05-22 12:00:08+00:00]
+INFO - [2022-05-22 13:02:01,262] - twitterbot - tweeted by: "[🇮🇳Änkitä - self Sufficient 🧚‍♀️🦋💫❤✨]"
+INFO - [2022-05-22 13:02:01,262] - twitterbot - body: "RT @SsrSatya: Why do we not see the chargesheet yet
+@PMOIndia  @DoPTGoI 
+Conspiracy Obvious In SSR Case"
+INFO - [2022-05-22 13:02:01,262] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:02:11,907] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:02:11,907] - twitterbot - tweet id: [1528344954975576064] tweeted at: [2022-05-22 12:00:07+00:00]
+INFO - [2022-05-22 13:02:11,907] - twitterbot - tweeted by: "[Gauri ‼️💞 SSR Fan 💞]"
+INFO - [2022-05-22 13:02:11,907] - twitterbot - body: "RT @SomaDut96461948: Who killed Sushant Singh Rajput..??
+
+SUSHANT WAS BRUTALLY MURDERD
+Conspiracy Obvious In SSR Case
+@IPS_Association @PMO…"
+INFO - [2022-05-22 13:02:11,908] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:02:22,525] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:02:22,526] - twitterbot - tweet id: [1528344951288803328] tweeted at: [2022-05-22 12:00:06+00:00]
+INFO - [2022-05-22 13:02:22,526] - twitterbot - tweeted by: "[Sarica yadav]"
+INFO - [2022-05-22 13:02:22,527] - twitterbot - body: "RT @HashiTammy: Everyone knows that there is a conspiracy behind Sushant's death. But everyone keeps their lips tied. 
+
+No updates, No Cust…"
+INFO - [2022-05-22 13:02:22,528] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:02:33,185] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:02:33,185] - twitterbot - tweet id: [1528344949825101825] tweeted at: [2022-05-22 12:00:05+00:00]
+INFO - [2022-05-22 13:02:33,185] - twitterbot - tweeted by: "[🇮🇳Änkitä - self Sufficient 🧚‍♀️🦋💫❤✨]"
+INFO - [2022-05-22 13:02:33,185] - twitterbot - body: "RT @SsrSatya: Why this Bikau media spreading fake News
+@PMOIndia  @DoPTGoI 
+Conspiracy Obvious In SSR Case"
+INFO - [2022-05-22 13:02:33,186] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:02:43,819] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:02:43,820] - twitterbot - tweet id: [1528344946272370688] tweeted at: [2022-05-22 12:00:05+00:00]
+INFO - [2022-05-22 13:02:43,820] - twitterbot - tweeted by: "[Gauri ‼️💞 SSR Fan 💞]"
+INFO - [2022-05-22 13:02:43,820] - twitterbot - body: "RT @AshaChakrabarti: Conspiracy Obvious In SSR  Case"
+INFO - [2022-05-22 13:02:43,820] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:02:54,449] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:02:54,449] - twitterbot - tweet id: [1528344943978233857] tweeted at: [2022-05-22 12:00:04+00:00]
+INFO - [2022-05-22 13:02:54,450] - twitterbot - tweeted by: "[🇮🇳Änkitä - self Sufficient 🧚‍♀️🦋💫❤✨]"
+INFO - [2022-05-22 13:02:54,450] - twitterbot - body: "RT @SsrSatya: Why culprits are roaming freely
+@PMOIndia  @DoPTGoI 
+Conspiracy Obvious In SSR Case"
+INFO - [2022-05-22 13:02:54,450] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:03:04,797] - twitterbot - tweets about KHILADI PRATIK 1M IG POSTS
+
+INFO - [2022-05-22 13:03:05,525] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:03:05,525] - twitterbot - tweet id: [1528345648738992128] tweeted at: [2022-05-22 12:02:52+00:00]
+INFO - [2022-05-22 13:03:05,526] - twitterbot - tweeted by: "[Αjαу вαjαj]"
+INFO - [2022-05-22 13:03:05,526] - twitterbot - body: "RT @nitin20092004: Everyone take footage from pratikfam and after footage take sympathy from their own fandom
+
+KHILADI PRATIK 1M IG POSTS"
+INFO - [2022-05-22 13:03:05,526] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:03:16,177] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:03:16,177] - twitterbot - tweet id: [1528345623505903624] tweeted at: [2022-05-22 12:02:46+00:00]
+INFO - [2022-05-22 13:03:16,177] - twitterbot - tweeted by: "[Tarun p]"
+INFO - [2022-05-22 13:03:16,178] - twitterbot - body: "RT @TellyFusion: #PratikSehajpal's fans are celebrating KHILADI PRATIK 1M IG POSTS
+
+Retweet | If you're a part of it.
+
+#PratikFam"
+INFO - [2022-05-22 13:03:16,178] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:03:26,909] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:03:26,910] - twitterbot - tweet id: [1528345607504797696] tweeted at: [2022-05-22 12:02:42+00:00]
+INFO - [2022-05-22 13:03:26,910] - twitterbot - tweeted by: "[Shubham Chauhan]"
+INFO - [2022-05-22 13:03:26,910] - twitterbot - body: "RT @JackkSprrw47: 𝐈𝐍𝐅𝐋𝐔𝐄𝐍𝐂𝐄𝐑𝐒 𝐋𝐈𝐒𝐓 (TOP 25)
+
+Tagline : KHILADI PRATIK 1M IG POSTS
+Count : 55k
+Unique Authors : 604
+
+@realsehajpal @PrernaSe…"
+INFO - [2022-05-22 13:03:26,910] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:03:37,522] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:03:37,522] - twitterbot - tweet id: [1528345601544712192] tweeted at: [2022-05-22 12:02:41+00:00]
+INFO - [2022-05-22 13:03:37,522] - twitterbot - tweeted by: "[Αjαу вαjαj]"
+INFO - [2022-05-22 13:03:37,522] - twitterbot - body: "RT @ImRealBunty: Can I Get 50 Retweets And 19 Comments With Tagline ??
+
+@realsehajpal
+ “ KHILADI PRATIK 1M IG POSTS”"
+INFO - [2022-05-22 13:03:37,523] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:03:48,144] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:03:48,144] - twitterbot - tweet id: [1528345590119419904] tweeted at: [2022-05-22 12:02:38+00:00]
+INFO - [2022-05-22 13:03:48,144] - twitterbot - tweeted by: "[Αjαу вαjαj]"
+INFO - [2022-05-22 13:03:48,144] - twitterbot - body: "RT @Kailash42232979: How many people participated in the trend?? 
+
+KHILADI PRATIK 1M IG POSTS"
+INFO - [2022-05-22 13:03:48,144] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:03:58,753] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:03:58,753] - twitterbot - tweet id: [1528345584780066817] tweeted at: [2022-05-22 12:02:37+00:00]
+INFO - [2022-05-22 13:03:58,753] - twitterbot - tweeted by: "[Shubham Chauhan]"
+INFO - [2022-05-22 13:03:58,753] - twitterbot - body: "RT @beingGavy: Congrat  #PratikFam We cross 50k bcoz its Small Activity 
+
+             Now Trend is Stop🛑 
+
+Appreciation 👏to All Fam Member…"
+INFO - [2022-05-22 13:03:58,753] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:04:09,358] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:04:09,359] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:04:09,646] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:04:09,646] - twitterbot - tweet id: [1528345558934781952] tweeted at: [2022-05-22 12:02:31+00:00]
+INFO - [2022-05-22 13:04:09,647] - twitterbot - tweeted by: "[SUDHIR]"
+INFO - [2022-05-22 13:04:09,647] - twitterbot - body: "RT @LoveLapata285: Enjoy your own life without comparing it with that of another.
+KHILADI PRATIK 1M IG POSTS"
+INFO - [2022-05-22 13:04:09,647] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:04:20,289] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:04:20,290] - twitterbot - tweet id: [1528345549992120320] tweeted at: [2022-05-22 12:02:29+00:00]
+INFO - [2022-05-22 13:04:20,290] - twitterbot - tweeted by: "[Vidhu]"
+INFO - [2022-05-22 13:04:20,290] - twitterbot - body: "RT @Highlifeskylife: Happy to achieve this milestone. 
+
+ KHILADI PRATIK 1M IG POSTS"
+INFO - [2022-05-22 13:04:20,290] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:04:30,924] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:04:30,924] - twitterbot - tweet id: [1528345517603729408] tweeted at: [2022-05-22 12:02:21+00:00]
+INFO - [2022-05-22 13:04:30,924] - twitterbot - tweeted by: "[Vidhu]"
+INFO - [2022-05-22 13:04:30,924] - twitterbot - body: "RT @heena2265: People will hate you, rate you, shake you. But how strong you stand is what you make you. 
+
+KHILADI PRATIK 1M IG POSTS"
+INFO - [2022-05-22 13:04:30,924] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:04:41,525] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:04:41,525] - twitterbot - tweet id: [1528345512620937216] tweeted at: [2022-05-22 12:02:20+00:00]
+INFO - [2022-05-22 13:04:41,525] - twitterbot - tweeted by: "[Vidhu]"
+INFO - [2022-05-22 13:04:41,526] - twitterbot - body: "RT @Aman_Pratikk: If you see me less, I’m doing more.
+
+KHILADI PRATIK 1M IG POSTS"
+INFO - [2022-05-22 13:04:41,526] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:04:52,134] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:04:52,135] - twitterbot - tweet id: [1528345500918767616] tweeted at: [2022-05-22 12:02:17+00:00]
+INFO - [2022-05-22 13:04:52,135] - twitterbot - tweeted by: "[Vidhu]"
+INFO - [2022-05-22 13:04:52,135] - twitterbot - body: "RT @ImRealBunty: Attendance Time !! Let's Check how many Pratik sahajpal Lovers participating in this Trend.
+
+Retweet if u love @realsehajp…"
+INFO - [2022-05-22 13:04:52,135] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:05:02,751] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:05:02,752] - twitterbot - tweet id: [1528345496313397249] tweeted at: [2022-05-22 12:02:16+00:00]
+INFO - [2022-05-22 13:05:02,752] - twitterbot - tweeted by: "[Vidhu]"
+INFO - [2022-05-22 13:05:02,752] - twitterbot - body: "RT @Nehal__Ans: Currently It's Trending At No.15 With 20K Tweets.
+
+Do Mass Rts &amp; Bring It In Top-10 Guys.
+
+KHILADI PRATIK 1M IG POSTS"
+INFO - [2022-05-22 13:05:02,752] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:05:13,367] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:05:13,367] - twitterbot - tweet id: [1528345488642441217] tweeted at: [2022-05-22 12:02:14+00:00]
+INFO - [2022-05-22 13:05:13,367] - twitterbot - tweeted by: "[Shreyas Nalawade]"
+INFO - [2022-05-22 13:05:13,368] - twitterbot - body: "RT @Raksha_007: His hoop earrings and his ring catches my sight first 🤩
+
+Momo is lucky 😴
+
+KHILADI PRATIK 1M IG POSTS
+
+#PratikSehajpal #Prat…"
+INFO - [2022-05-22 13:05:13,368] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:05:24,010] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:05:24,010] - twitterbot - tweet id: [1528345485488009217] tweeted at: [2022-05-22 12:02:13+00:00]
+INFO - [2022-05-22 13:05:24,011] - twitterbot - tweeted by: "[Vidhu]"
+INFO - [2022-05-22 13:05:24,011] - twitterbot - body: "RT @TeamPratikOFC: Retweet is very important for now to make tagline in top 10 so give engagement to all tweet showing on tl with tagline i…"
+INFO - [2022-05-22 13:05:24,011] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:05:34,391] - twitterbot - tweets about MUNAWAR ERA BEGINS
+
+INFO - [2022-05-22 13:05:35,128] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:05:35,128] - twitterbot - tweet id: [1528346284314206210] tweeted at: [2022-05-22 12:05:24+00:00]
+INFO - [2022-05-22 13:05:35,128] - twitterbot - tweeted by: "[Sameer Khan]"
+INFO - [2022-05-22 13:05:35,128] - twitterbot - body: "RT @Team_Faruqui: We are done with 364k tweets. Can we do 36k in next 20 mins??
+
+Don't be lethargic. Participate actively.
+
+MUNAWAR ERA BEG…"
+INFO - [2022-05-22 13:05:35,128] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:05:45,768] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:05:45,769] - twitterbot - tweet id: [1528346284067033088] tweeted at: [2022-05-22 12:05:24+00:00]
+INFO - [2022-05-22 13:05:45,769] - twitterbot - tweeted by: "[Arsh]"
+INFO - [2022-05-22 13:05:45,769] - twitterbot - body: "RT @Team_Faruqui: Being a Non TV face still marking his position at spot 6 in 𝐓𝐎𝐏 20 𝐓𝐄𝐋𝐄𝐕𝐈𝐒𝐈𝐎𝐍 𝐂𝐄𝐋𝐄𝐁𝐑𝐈𝐓𝐈𝐄𝐒 just by having a debut in a rea…"
+INFO - [2022-05-22 13:05:45,769] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:05:56,366] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:05:56,367] - twitterbot - tweet id: [1528346283974750209] tweeted at: [2022-05-22 12:05:24+00:00]
+INFO - [2022-05-22 13:05:56,367] - twitterbot - tweeted by: "[r1ck_]"
+INFO - [2022-05-22 13:05:56,367] - twitterbot - body: "RT @FAIZANN45: I'm very concerned for the future of the earth and its amazing creatures. We've got to be careful and make sure we don't fou…"
+INFO - [2022-05-22 13:05:56,367] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:06:07,001] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:06:07,001] - twitterbot - tweet id: [1528346283689254913] tweeted at: [2022-05-22 12:05:23+00:00]
+INFO - [2022-05-22 13:06:07,001] - twitterbot - tweeted by: "[راحیل شاہ 🇵🇰🇹🇷]"
+INFO - [2022-05-22 13:06:07,001] - twitterbot - body: "RT @Team_Faruqui: 350𝐊 𝐃𝐎𝐍𝐄 𝐀𝐍𝐃 𝐃𝐔𝐒𝐓𝐄𝐃.
+
+𝐍𝐞𝐱𝐭 𝐓𝐚𝐫𝐠𝐞𝐭 400𝐤 𝐛𝐲 5:30𝐩𝐦.
+
+𝐊𝐀𝐑 𝐋𝐄𝐍𝐆𝐄???
+
+MUNAWAR ERA BEGINS https://t.co/9lVzOwOpjR"
+INFO - [2022-05-22 13:06:07,001] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:06:17,619] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:06:17,620] - twitterbot - tweet id: [1528346282242326530] tweeted at: [2022-05-22 12:05:23+00:00]
+INFO - [2022-05-22 13:06:17,620] - twitterbot - tweeted by: "[MunawarKing]"
+INFO - [2022-05-22 13:06:17,621] - twitterbot - body: "RT @HamzaSayied: Waiting for munawar bhai's next project
+
+Countdown Start Ninety 229
+
+MUNAWAR ERA BEGINS"
+INFO - [2022-05-22 13:06:17,621] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:06:28,359] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:06:28,359] - twitterbot - tweet id: [1528346282070360064] tweeted at: [2022-05-22 12:05:23+00:00]
+INFO - [2022-05-22 13:06:28,360] - twitterbot - tweeted by: "[Tauseef.MKJ]"
+INFO - [2022-05-22 13:06:28,360] - twitterbot - body: "RT @munawarfaruqi_: Time, you can't keep it, but you can spend it.
+MUNAWAR ERA BEGINS https://t.co/CCviztqHtQ"
+INFO - [2022-05-22 13:06:28,360] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:06:38,964] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:06:38,965] - twitterbot - tweet id: [1528346281428385792] tweeted at: [2022-05-22 12:05:23+00:00]
+INFO - [2022-05-22 13:06:38,965] - twitterbot - tweeted by: "[Satv!k]"
+INFO - [2022-05-22 13:06:38,965] - twitterbot - body: "RT @Epic_Squad_09: The worst part of success is trying to find someone who is happy for you.
+
+MUNAWAR ERA BEGINS"
+INFO - [2022-05-22 13:06:38,965] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:06:49,586] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:06:49,586] - twitterbot - tweet id: [1528346281319481345] tweeted at: [2022-05-22 12:05:23+00:00]
+INFO - [2022-05-22 13:06:49,587] - twitterbot - tweeted by: "[࿐ཽ༵ Sυƒƒι࿐ཽ༵]"
+INFO - [2022-05-22 13:06:49,587] - twitterbot - body: "RT @Mr_Dewan_BD: |TREND BOOSTER ALERT |
+
+Can I Get 150Rts And 200 Comments With The Tagline ? Keep rt that comments.. and like
+Let's do it…"
+INFO - [2022-05-22 13:06:49,587] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:07:00,218] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:07:00,218] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:07:00,498] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:07:00,498] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:07:00,772] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:07:00,772] - twitterbot - tweet id: [1528346280811843585] tweeted at: [2022-05-22 12:05:23+00:00]
+INFO - [2022-05-22 13:07:00,772] - twitterbot - tweeted by: "[BLAZE]"
+INFO - [2022-05-22 13:07:00,772] - twitterbot - body: "RT @AjayRaj8340: "Love and let the world know,hate in silence"
+--Ᏼ Ꮮ Ꭺ Ꮓ Ꭼ
+@munawar0018
+ MUNAWAR ERA BEGINS"
+INFO - [2022-05-22 13:07:00,773] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:07:11,382] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:07:11,382] - twitterbot - tweet id: [1528346279616520193] tweeted at: [2022-05-22 12:05:23+00:00]
+INFO - [2022-05-22 13:07:11,383] - twitterbot - tweeted by: "[Mkj111111]"
+INFO - [2022-05-22 13:07:11,383] - twitterbot - body: "RT @Team_Faruqui: Our champ just completed 3.1M family on insta. Many more to come. He is receiving love all across the nation.
+
+MUNAWAR ER…"
+INFO - [2022-05-22 13:07:11,383] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:07:21,997] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:07:21,997] - twitterbot - tweet id: [1528346279423709186] tweeted at: [2022-05-22 12:05:22+00:00]
+INFO - [2022-05-22 13:07:21,997] - twitterbot - tweeted by: "[🎭♣️]"
+INFO - [2022-05-22 13:07:21,997] - twitterbot - body: "RT @BolFatafat: Munawar the RockStar.
+MUNAWAR ERA BEGINS"
+INFO - [2022-05-22 13:07:21,997] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:07:32,600] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:07:32,600] - twitterbot - tweet id: [1528346278836453376] tweeted at: [2022-05-22 12:05:22+00:00]
+INFO - [2022-05-22 13:07:32,600] - twitterbot - tweeted by: "[Èpïc $qüád 🦁]"
+INFO - [2022-05-22 13:07:32,600] - twitterbot - body: "Everything youve ever wanted is on the other side of fear. George Addair
+
+MUNAWAR ERA BEGINS"
+INFO - [2022-05-22 13:07:32,601] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:07:43,191] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:07:43,191] - twitterbot - tweet id: [1528346278815576064] tweeted at: [2022-05-22 12:05:22+00:00]
+INFO - [2022-05-22 13:07:43,192] - twitterbot - tweeted by: "[half moon]"
+INFO - [2022-05-22 13:07:43,192] - twitterbot - body: "RT @The_Hybrid22: @degrawdonut @Sunn_Sunnyyyyyy @showscosmo Rushika u r also my fav !
+
+MUNAWAR ERA BEGINS"
+INFO - [2022-05-22 13:07:43,193] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:07:53,539] - twitterbot - tweets about Centre
+
+INFO - [2022-05-22 13:07:54,287] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:07:54,287] - twitterbot - tweet id: [1528346864361172992] tweeted at: [2022-05-22 12:07:42+00:00]
+INFO - [2022-05-22 13:07:54,288] - twitterbot - tweeted by: "[SenOxy🍀]"
+INFO - [2022-05-22 13:07:54,288] - twitterbot - body: "RT @ABG_49: #ECOLOXY_Centre_G15🌱!!!
+
+Beautiful Reforestation🌱 Cleaning 💦Day at the G15 Center 🙌🏾🌿.
+#ALHAMDOULILA
+A big congratulations to a…"
+INFO - [2022-05-22 13:07:54,288] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:08:04,928] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:08:04,928] - twitterbot - tweet id: [1528346857742602241] tweeted at: [2022-05-22 12:07:40+00:00]
+INFO - [2022-05-22 13:08:04,928] - twitterbot - tweeted by: "[kavitha]"
+INFO - [2022-05-22 13:08:04,928] - twitterbot - body: "RT @Sahanasatianaat: Illegal land grabbing scam originating from BBMP offices ☹️. And BBMP officials harassing for bribes by coming near th…"
+INFO - [2022-05-22 13:08:04,928] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:08:15,559] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:08:15,559] - twitterbot - tweet id: [1528346854290644992] tweeted at: [2022-05-22 12:07:40+00:00]
+INFO - [2022-05-22 13:08:15,559] - twitterbot - tweeted by: "[😴]"
+INFO - [2022-05-22 13:08:15,559] - twitterbot - body: "RT @ANI: Chandigarh | Before Telangana became state, a lot of farmer issues persisted. Farmers were dying by suicide. We are improving, giv…"
+INFO - [2022-05-22 13:08:15,559] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:08:26,187] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:08:26,188] - twitterbot - tweet id: [1528346849140166656] tweeted at: [2022-05-22 12:07:38+00:00]
+INFO - [2022-05-22 13:08:26,188] - twitterbot - tweeted by: "[Charles Daniels]"
+INFO - [2022-05-22 13:08:26,188] - twitterbot - body: "#edm101 The group was named after the Cabaret Voltaire, a nightclub in Zurich, Switzerland that was a centre for th… https://t.co/vHsIR0ZbV6"
+INFO - [2022-05-22 13:08:26,188] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:08:36,797] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:08:36,798] - twitterbot - tweet id: [1528346836934746112] tweeted at: [2022-05-22 12:07:35+00:00]
+INFO - [2022-05-22 13:08:36,798] - twitterbot - tweeted by: "[vincent flannery]"
+INFO - [2022-05-22 13:08:36,798] - twitterbot - body: "RT @LifeTenement: 1960. Myself &amp; a pal tried to escape from this building Marlborough House detention centre. Out of our beds at night the…"
+INFO - [2022-05-22 13:08:36,798] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:08:47,428] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:08:47,429] - twitterbot - tweet id: [1528346833612943361] tweeted at: [2022-05-22 12:07:35+00:00]
+INFO - [2022-05-22 13:08:47,429] - twitterbot - tweeted by: "[د. علي بن تميم]"
+INFO - [2022-05-22 13:08:47,429] - twitterbot - body: "RT @pubperspectives: This morning in #AbuDhabi: The Arabic Language Centre’s International Congress of Arabic Publishing and Creative Indus…"
+INFO - [2022-05-22 13:08:47,429] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:08:58,043] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:08:58,044] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:08:58,325] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:08:58,326] - twitterbot - tweet id: [1528346829372510209] tweeted at: [2022-05-22 12:07:34+00:00]
+INFO - [2022-05-22 13:08:58,326] - twitterbot - tweeted by: "[Irfan-ul-Hidayah South Punjab]"
+INFO - [2022-05-22 13:08:58,326] - twitterbot - body: "RT @Hammad_MQ: Shaykh Hammad Mustafa al-Madani al-Qadri attended an event arranged by MQI Canada in Mississauga Muslim Community Centre. Th…"
+INFO - [2022-05-22 13:08:58,326] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:09:08,924] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:09:08,924] - twitterbot - tweet id: [1528346821395103745] tweeted at: [2022-05-22 12:07:32+00:00]
+INFO - [2022-05-22 13:09:08,924] - twitterbot - tweeted by: "[Puspa Tiwari💌💌💌💌💑]"
+INFO - [2022-05-22 13:09:08,924] - twitterbot - body: "RT @TajinderSTS: Union Govt to buy #Moong daal from #Punjab farmers at #MSP 
+Center will spend money on purchase &amp; all the credit for this…"
+INFO - [2022-05-22 13:09:08,924] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:09:19,538] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:09:19,538] - twitterbot - tweet id: [1528346819784220672] tweeted at: [2022-05-22 12:07:31+00:00]
+INFO - [2022-05-22 13:09:19,539] - twitterbot - tweeted by: "[Lindsey Moynes]"
+INFO - [2022-05-22 13:09:19,539] - twitterbot - body: "@FirstinGlasgow hi where are the diversions in the city centre?"
+INFO - [2022-05-22 13:09:19,539] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:09:30,162] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:09:30,163] - twitterbot - tweet id: [1528346819369000962] tweeted at: [2022-05-22 12:07:31+00:00]
+INFO - [2022-05-22 13:09:30,163] - twitterbot - tweeted by: "[The Geordie Bear]"
+INFO - [2022-05-22 13:09:30,163] - twitterbot - body: "RT @TyneFlashback: 1993: Newcastle City Centre 
+
+📸 David Baxter https://t.co/x6zxCu5Sme"
+INFO - [2022-05-22 13:09:30,163] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:09:40,808] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:09:40,809] - twitterbot - tweet id: [1528346804521431040] tweeted at: [2022-05-22 12:07:28+00:00]
+INFO - [2022-05-22 13:09:40,809] - twitterbot - tweeted by: "[Narasimha Reddy]"
+INFO - [2022-05-22 13:09:40,809] - twitterbot - body: "RT @hoshetoawomi: LPG price drop: Centre announces ₹200 subsidy on cooking gas to over 9 crore under PM Ujjwala Yojana.
+
+@nsitharaman
+
+http…"
+INFO - [2022-05-22 13:09:40,809] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:09:51,419] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:09:51,420] - twitterbot - tweet id: [1528346802826903552] tweeted at: [2022-05-22 12:07:27+00:00]
+INFO - [2022-05-22 13:09:51,420] - twitterbot - tweeted by: "[The Centre Bounce]"
+INFO - [2022-05-22 13:09:51,420] - twitterbot - body: "@NotoriousRedmen Huge scores man well done 👏"
+INFO - [2022-05-22 13:09:51,420] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:10:02,047] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:10:02,047] - twitterbot - tweet id: [1528346801757163521] tweeted at: [2022-05-22 12:07:27+00:00]
+INFO - [2022-05-22 13:10:02,047] - twitterbot - tweeted by: "[Chief Stoker 96.5%😉]"
+INFO - [2022-05-22 13:10:02,047] - twitterbot - body: "RT @YorksRose_84: Shuttle bus into York will be provided for asylum seekers at reception centre https://t.co/yDsmPJTx8j"
+INFO - [2022-05-22 13:10:02,047] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:10:12,700] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:10:12,700] - twitterbot - tweet id: [1528346795633430531] tweeted at: [2022-05-22 12:07:26+00:00]
+INFO - [2022-05-22 13:10:12,700] - twitterbot - tweeted by: "[Dushyant]"
+INFO - [2022-05-22 13:10:12,700] - twitterbot - body: "RT @nsitharaman: 4/ Basic ED which is sharable with states has not been touched.
+
+Therefore, the entire burden of these two duty cuts (made…"
+INFO - [2022-05-22 13:10:12,700] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:10:23,049] - twitterbot - tweets about Free Hindu Temple
+
+INFO - [2022-05-22 13:10:23,710] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:10:23,710] - twitterbot - tweet id: [1528347392671506433] tweeted at: [2022-05-22 12:09:48+00:00]
+INFO - [2022-05-22 13:10:23,711] - twitterbot - tweeted by: "[Sarvesh Kumar mishra]"
+INFO - [2022-05-22 13:10:23,711] - twitterbot - body: "RT @goelgauravbjp: Hindus have the constitutional right to free their temples. 
+
+Free Hindu Temple is the movement now."
+INFO - [2022-05-22 13:10:23,711] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:10:34,433] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:10:34,434] - twitterbot - tweet id: [1528347363802087426] tweeted at: [2022-05-22 12:09:41+00:00]
+INFO - [2022-05-22 13:10:34,434] - twitterbot - tweeted by: "[Saraswathi Reddy]"
+INFO - [2022-05-22 13:10:34,434] - twitterbot - body: "RT @kkchauhan1234: #मंदिरों_से_मजहबी_कब्जा_हटाओ
+The Supreme Court has issued a notice to the Centre on a petition challenging the validity…"
+INFO - [2022-05-22 13:10:34,434] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:10:45,088] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:10:45,088] - twitterbot - tweet id: [1528347286694072321] tweeted at: [2022-05-22 12:09:23+00:00]
+INFO - [2022-05-22 13:10:45,088] - twitterbot - tweeted by: "[शिवा हिन्दू 🚩 #प्रशासक_समिति✊🚩]"
+INFO - [2022-05-22 13:10:45,088] - twitterbot - body: "RT @BhairavJHA_IND: “No place of worship" that has been usurped or built upon another place of worship shall be allowed to be used as one u…"
+INFO - [2022-05-22 13:10:45,088] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:10:55,740] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:10:55,741] - twitterbot - tweet id: [1528347236769226752] tweeted at: [2022-05-22 12:09:11+00:00]
+INFO - [2022-05-22 13:10:55,741] - twitterbot - tweeted by: "[Atul Rao]"
+INFO - [2022-05-22 13:10:55,741] - twitterbot - body: "RT @RSS_Friend: Because it prevents Hindu’s from reclaiming their heritage. Why should a site not be examined for what existed there prior…"
+INFO - [2022-05-22 13:10:55,741] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:11:06,358] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:11:06,359] - twitterbot - tweet id: [1528347193408516096] tweeted at: [2022-05-22 12:09:00+00:00]
+INFO - [2022-05-22 13:11:06,359] - twitterbot - tweeted by: "[Subhash Gupta]"
+INFO - [2022-05-22 13:11:06,360] - twitterbot - body: "RT @Suresh26573216: #मंदिरों_से_मजहबी_कब्जा_हटाओ
+The Supreme Court has issued a notice to the Centre on a petition challenging the validity…"
+INFO - [2022-05-22 13:11:06,360] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:11:16,983] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:11:16,983] - twitterbot - tweet id: [1528347170973577217] tweeted at: [2022-05-22 12:08:55+00:00]
+INFO - [2022-05-22 13:11:16,983] - twitterbot - tweeted by: "[RUDRA NARAYAN]"
+INFO - [2022-05-22 13:11:16,983] - twitterbot - body: "RT @Tathastuaryan: By bringing in the 1991 Act, destroying the religious places of the indigenous people of the country is to increase the…"
+INFO - [2022-05-22 13:11:16,983] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:11:27,609] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:11:27,609] - twitterbot - tweet id: [1528347053667012608] tweeted at: [2022-05-22 12:08:27+00:00]
+INFO - [2022-05-22 13:11:27,609] - twitterbot - tweeted by: "[Sanjay poonia]"
+INFO - [2022-05-22 13:11:27,609] - twitterbot - body: "RT @sanatani_rdr: Need of hour free hindu temple's. #RemoveAct1991 #ज्ञानवापी_खाली_करो #GyanvapiSurvey #Gyanvapi #Mahadev
+#Aurangzeb #Mugal…"
+INFO - [2022-05-22 13:11:27,610] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:11:38,252] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:11:38,252] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:11:38,527] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:11:38,527] - twitterbot - tweet id: [1528346970321993728] tweeted at: [2022-05-22 12:08:07+00:00]
+INFO - [2022-05-22 13:11:38,527] - twitterbot - tweeted by: "[Sanjay poonia]"
+INFO - [2022-05-22 13:11:38,527] - twitterbot - body: "RT @PawanKu97208612: The Act gave way to an arbitrary irrational cut off date by “declaring that character of places of worship-pilgrimage…"
+INFO - [2022-05-22 13:11:38,528] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:11:49,159] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:11:49,159] - twitterbot - tweet id: [1528346958124949504] tweeted at: [2022-05-22 12:08:04+00:00]
+INFO - [2022-05-22 13:11:49,159] - twitterbot - tweeted by: "[Prince_Pal_7027]"
+INFO - [2022-05-22 13:11:49,159] - twitterbot - body: "RT @arjuntiwaribjp: #मंदिरों_से_मजहबी_कब्जा_हटाओ
+The Supreme Court has issued a notice to the Centre on a petition challenging the validity…"
+INFO - [2022-05-22 13:11:49,160] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:11:59,793] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:11:59,793] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:12:00,081] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:12:00,082] - twitterbot - tweet id: [1528346784636014592] tweeted at: [2022-05-22 12:07:23+00:00]
+INFO - [2022-05-22 13:12:00,083] - twitterbot - tweeted by: "[Prince_Pal_7027]"
+INFO - [2022-05-22 13:12:00,083] - twitterbot - body: "RT @nationalstgirl_: #मंदिरों_से_मजहबी_कब्जा_हटाओ
+The Supreme Court has issued a notice to the Centre on a petition challenging the validit…"
+INFO - [2022-05-22 13:12:00,084] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:12:10,722] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:12:10,722] - twitterbot - tweet id: [1528346682987270147] tweeted at: [2022-05-22 12:06:59+00:00]
+INFO - [2022-05-22 13:12:10,722] - twitterbot - tweeted by: "[Guruprasad Pandhare]"
+INFO - [2022-05-22 13:12:10,723] - twitterbot - body: "RT @RSS_Friend: No suit or proceeding shall lie in Court in respect of disputes against encroachment done by fundamentalist barbaric invade…"
+INFO - [2022-05-22 13:12:10,723] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:12:21,368] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:12:21,369] - twitterbot - tweet id: [1528346666969223168] tweeted at: [2022-05-22 12:06:55+00:00]
+INFO - [2022-05-22 13:12:21,369] - twitterbot - tweeted by: "[Guruprasad Pandhare]"
+INFO - [2022-05-22 13:12:21,369] - twitterbot - body: "RT @kailas_patnaik: Vishnu Jain and Harishankar Jain.. Both father and son are fighting together the legal battle of Gyanvapi.A Grand salut…"
+INFO - [2022-05-22 13:12:21,369] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:12:31,986] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:12:31,986] - twitterbot - tweet id: [1528346654226542593] tweeted at: [2022-05-22 12:06:52+00:00]
+INFO - [2022-05-22 13:12:31,987] - twitterbot - tweeted by: "[किसान पुत्र अरविंद पाण्डेय]"
+INFO - [2022-05-22 13:12:31,987] - twitterbot - body: "RT @pandeymanishmzp: *Kashi-Mathura, Hindu shrines,whichwere destroyed by the Mughal demons and built mosques on them will not be returned…"
+INFO - [2022-05-22 13:12:31,987] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:12:42,318] - twitterbot - tweets about Tokyo
+
+INFO - [2022-05-22 13:12:42,987] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:12:42,987] - twitterbot - tweet id: [1528348076695597056] tweeted at: [2022-05-22 12:12:31+00:00]
+INFO - [2022-05-22 13:12:42,987] - twitterbot - tweeted by: "[AnGeL3DaRk3]"
+INFO - [2022-05-22 13:12:42,987] - twitterbot - body: "RT @japantimes: Cityscape-defining Tokyo Skytree, Japan's tallest structure and a symbol of the country's pre-pandemic tourism boom, on Sun…"
+INFO - [2022-05-22 13:12:42,988] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:12:53,600] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:12:53,601] - twitterbot - tweet id: [1528348073654558721] tweeted at: [2022-05-22 12:12:30+00:00]
+INFO - [2022-05-22 13:12:53,601] - twitterbot - tweeted by: "[ルーぴ | Ruu 💎💗🦇 (癒えない・Tears (2022) enthusiast)]"
+INFO - [2022-05-22 13:12:53,601] - twitterbot - body: "why does 6t in tokyo dome feel like kalafina in budoukan milestone to me hehe 😌"
+INFO - [2022-05-22 13:12:53,601] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:13:04,248] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:13:04,248] - twitterbot - tweet id: [1528348046593077249] tweeted at: [2022-05-22 12:12:24+00:00]
+INFO - [2022-05-22 13:13:04,248] - twitterbot - tweeted by: "[Steve Little 🔶️]"
+INFO - [2022-05-22 13:13:04,248] - twitterbot - body: "RT @LibHistoryToday: Happy birthday to Menzies Campbell! Campbell served as leader of the Liberal Democrats 2006-07 and MP for North East F…"
+INFO - [2022-05-22 13:13:04,248] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:13:14,862] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:13:14,863] - twitterbot - tweet id: [1528348028196859905] tweeted at: [2022-05-22 12:12:19+00:00]
+INFO - [2022-05-22 13:13:14,863] - twitterbot - tweeted by: "[gio is a complete mess 🏡]"
+INFO - [2022-05-22 13:13:14,863] - twitterbot - body: "RT @hsdaily: Little Freak was partially recorded in Tokyo, credited as ‘Tom’s Room’ in the album’s liner notes. 
+
+It’s the only track nods…"
+INFO - [2022-05-22 13:13:14,863] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:13:25,552] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:13:25,553] - twitterbot - tweet id: [1528348025281687553] tweeted at: [2022-05-22 12:12:19+00:00]
+INFO - [2022-05-22 13:13:25,553] - twitterbot - tweeted by: "[Subith Sunder Raj]"
+INFO - [2022-05-22 13:13:25,553] - twitterbot - body: "RT @ImTanujSingh: Tokyo Paralympics 2020 Gold Medalist Avani Lakhara supporting RCB in the IPL. https://t.co/EbW1RmRki6"
+INFO - [2022-05-22 13:13:25,553] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:13:36,205] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:13:36,205] - twitterbot - tweet id: [1528348010115174408] tweeted at: [2022-05-22 12:12:15+00:00]
+INFO - [2022-05-22 13:13:36,206] - twitterbot - tweeted by: "[onichann]"
+INFO - [2022-05-22 13:13:36,206] - twitterbot - body: "RT @TokyoGlitchNFT: -5 x Zenin ZENLIST 
+-5 x Tokyo Glitch GLITCHLIST
+
+&gt; RT &amp; COMMENT YOUR DISCORD  
+(Must be following us &amp; @ZeninNFT)
+
+#So…"
+INFO - [2022-05-22 13:13:36,206] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:13:46,822] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:13:46,822] - twitterbot - tweet id: [1528348008181530630] tweeted at: [2022-05-22 12:12:15+00:00]
+INFO - [2022-05-22 13:13:46,822] - twitterbot - tweeted by: "[Bri⁷ ⟭⟬ SAW BTS :( 11/1-11/2]"
+INFO - [2022-05-22 13:13:46,823] - twitterbot - body: "@jiminiekitty I didn’t know shipping was a thing but then I saw Tokyo gcf as a new army and I thought they were dating T-T"
+INFO - [2022-05-22 13:13:46,823] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:13:57,435] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:13:57,436] - twitterbot - tweet id: [1528348002103963648] tweeted at: [2022-05-22 12:12:13+00:00]
+INFO - [2022-05-22 13:13:57,436] - twitterbot - tweeted by: "[수🚩]"
+INFO - [2022-05-22 13:13:57,436] - twitterbot - body: "RT @erenesthic: — a tokyo revengers au!
+#ransuya || #rinsuya few tweets!
+
+jahat. https://t.co/085h4iWDMk"
+INFO - [2022-05-22 13:13:57,436] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:14:08,084] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:14:08,084] - twitterbot - tweet id: [1528347989126750208] tweeted at: [2022-05-22 12:12:10+00:00]
+INFO - [2022-05-22 13:14:08,084] - twitterbot - tweeted by: "[Virendra Pratap Singh]"
+INFO - [2022-05-22 13:14:08,085] - twitterbot - body: "RT @Dimi: SCOOP・US, Japan, Australia &amp; India will launch satellite-based maritime initiate to combat #Chinese #illegalfishing when @JoeBide…"
+INFO - [2022-05-22 13:14:08,085] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:14:18,717] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:14:18,718] - twitterbot - tweet id: [1528347988539559936] tweeted at: [2022-05-22 12:12:10+00:00]
+INFO - [2022-05-22 13:14:18,718] - twitterbot - tweeted by: "[Varada]"
+INFO - [2022-05-22 13:14:18,718] - twitterbot - body: "RT @palkisu: Beautiful Sunday morning in Tokyo! Watch the curtain raiser for the #QuadSummit on @WIONews #GravitasTokyoEdition https://t.co…"
+INFO - [2022-05-22 13:14:18,719] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:14:29,368] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:14:29,368] - twitterbot - tweet id: [1528347984949395456] tweeted at: [2022-05-22 12:12:09+00:00]
+INFO - [2022-05-22 13:14:29,368] - twitterbot - tweeted by: "[FreeAssange.eu]"
+INFO - [2022-05-22 13:14:29,368] - twitterbot - body: "RT @SomersetBean: May 22-24 is the so-called "Quad Leaders' Summit" in Tokyo: new Australian PM @AlboMP will have the opportunity to tell @…"
+INFO - [2022-05-22 13:14:29,369] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:14:40,019] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:14:40,020] - twitterbot - tweet id: [1528347957321678850] tweeted at: [2022-05-22 12:12:03+00:00]
+INFO - [2022-05-22 13:14:40,020] - twitterbot - tweeted by: "[keiji dean.]"
+INFO - [2022-05-22 13:14:40,020] - twitterbot - body: "@Iostfugitive - neon city lights of tokyo
+- sprite, sakura flavor
+- lollipop"
+INFO - [2022-05-22 13:14:40,020] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:14:50,627] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:14:50,627] - twitterbot - tweet id: [1528347955320659972] tweeted at: [2022-05-22 12:12:02+00:00]
+INFO - [2022-05-22 13:14:50,627] - twitterbot - tweeted by: "[🕯🌺🔥SoHappyJan💧🦘🐨]"
+INFO - [2022-05-22 13:14:50,627] - twitterbot - body: "RT @AlboMP: Good to speak with @POTUS today and reaffirm the long-standing alliance between our two countries.
+
+I look forward to continuin…"
+INFO - [2022-05-22 13:14:50,627] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:15:01,261] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:15:01,261] - twitterbot - tweet id: [1528347923083575296] tweeted at: [2022-05-22 12:11:54+00:00]
+INFO - [2022-05-22 13:15:01,261] - twitterbot - tweeted by: "[kristen]"
+INFO - [2022-05-22 13:15:01,261] - twitterbot - body: "RT @AsiaEnhypen: INFO | 220522
+
+ENHYPEN’s LED AD on the Harujuku Entrance in Shibuya Tokyo was seen on PewDiePie’s (a famous vlogger) recen…"
+INFO - [2022-05-22 13:15:01,261] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:15:11,908] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:15:11,908] - twitterbot - tweet id: [1528347908235743232] tweeted at: [2022-05-22 12:11:51+00:00]
+INFO - [2022-05-22 13:15:11,908] - twitterbot - tweeted by: "[高まりおりおー🌸ゆうージャンナー]"
+INFO - [2022-05-22 13:15:11,908] - twitterbot - body: "RT @FanCiel: L'Arc～en～Ciel
+30th L'Anniversary LIVE -DAY 2-
+22.05.2022 - TOKYO DOME
+
+Setlist 
+
+#LArcenCiel 
+#30thLAnniversaryLIVE
+#ラルクアンシエル…"
+INFO - [2022-05-22 13:15:11,909] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:15:22,256] - twitterbot - tweets about Hotstar
+
+INFO - [2022-05-22 13:15:22,888] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:15:22,889] - twitterbot - tweet id: [1528348700589686784] tweeted at: [2022-05-22 12:15:00+00:00]
+INFO - [2022-05-22 13:15:22,889] - twitterbot - tweeted by: "[WA FOR FAST RESPON |JUAL NETFLIX FULGAR ONLY 45K❕]"
+INFO - [2022-05-22 13:15:22,889] - twitterbot - body: "JUAL NETFLIX ANTI HOLD GARANSI
+ 
+SHR 45K/bln 
+PRV 190K
+
+Apple music viu grammarly youtube amazon prime disney hotst… https://t.co/lHRu2nX2vf"
+INFO - [2022-05-22 13:15:22,889] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:15:33,504] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:15:33,505] - twitterbot - tweet id: [1528348684039393280] tweeted at: [2022-05-22 12:14:56+00:00]
+INFO - [2022-05-22 13:15:33,505] - twitterbot - tweeted by: "[Amose Siva]"
+INFO - [2022-05-22 13:15:33,505] - twitterbot - body: "RT @DisneyPlusHS: @amose_siva The price of fame will hold their futures in the balance.
+#HotstarSpecials #EscaypeLive is now streaming. #Es…"
+INFO - [2022-05-22 13:15:33,505] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:15:44,116] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:15:44,116] - twitterbot - tweet id: [1528348426471350273] tweeted at: [2022-05-22 12:13:54+00:00]
+INFO - [2022-05-22 13:15:44,116] - twitterbot - tweeted by: "[fiiin]"
+INFO - [2022-05-22 13:15:44,116] - twitterbot - body: "@iprimaa Disney hotstar kak"
+INFO - [2022-05-22 13:15:44,116] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:15:54,726] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:15:54,727] - twitterbot - tweet id: [1528348386659008512] tweeted at: [2022-05-22 12:13:45+00:00]
+INFO - [2022-05-22 13:15:54,727] - twitterbot - tweeted by: "[லாக் அவுட் சில் ❣️]"
+INFO - [2022-05-22 13:15:54,727] - twitterbot - body: "Why any programes and movie not download in hotsar @hotstar_helps"
+INFO - [2022-05-22 13:15:54,727] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:16:05,322] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:16:05,323] - twitterbot - tweet id: [1528348379482161152] tweeted at: [2022-05-22 12:13:43+00:00]
+INFO - [2022-05-22 13:16:05,324] - twitterbot - tweeted by: "[Mahesh Kumar. A]"
+INFO - [2022-05-22 13:16:05,324] - twitterbot - body: "@vijaytelevision when u upload content of #VikramAudioLaunch  on hotstar"
+INFO - [2022-05-22 13:16:05,324] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:16:15,939] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:16:15,939] - twitterbot - tweet id: [1528348261328773121] tweeted at: [2022-05-22 12:13:15+00:00]
+INFO - [2022-05-22 13:16:15,939] - twitterbot - tweeted by: "[Gooner Chris]"
+INFO - [2022-05-22 13:16:15,939] - twitterbot - body: "RT @ArsenalIndians: The Arsenal MATCHDAY 🔴⚪
+
+❓ Home
+🆚 Everton
+🗓 Sunday, May 22
+🏆 Premier League
+🏟 Emirates Stadium
+🗣 Andre Marriner
+⏰ 8:30…"
+INFO - [2022-05-22 13:16:15,940] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:16:26,557] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:16:26,557] - twitterbot - tweet id: [1528348218589089792] tweeted at: [2022-05-22 12:13:05+00:00]
+INFO - [2022-05-22 13:16:26,557] - twitterbot - tweeted by: "[Amit Kumar]"
+INFO - [2022-05-22 13:16:26,557] - twitterbot - body: "@Shreyas08701440 And there is nothing to support in this 30 second video tik toker..
+She just present cheap enterta… https://t.co/onb5W4kjR3"
+INFO - [2022-05-22 13:16:26,557] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:16:37,182] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:16:37,182] - twitterbot - tweet id: [1528348198854860800] tweeted at: [2022-05-22 12:13:00+00:00]
+INFO - [2022-05-22 13:16:37,182] - twitterbot - tweeted by: "[cesa | JASTAG & APP PREM]"
+INFO - [2022-05-22 13:16:37,183] - twitterbot - body: "@aileevanka hai💭 if you want your app to be premium, this is the placeu. ୨୧
+
+ada jual netflix spotify youtube disne… https://t.co/rv2ub77sxJ"
+INFO - [2022-05-22 13:16:37,183] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:16:47,795] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:16:47,796] - twitterbot - tweet id: [1528348165375946752] tweeted at: [2022-05-22 12:12:52+00:00]
+INFO - [2022-05-22 13:16:47,796] - twitterbot - tweeted by: "[🟢 ꒰ยอมอ꒱ ฟอลก่อนเดม❕]"
+INFO - [2022-05-22 13:16:47,796] - twitterbot - body: "˜” *🐝 °• . Disney + Hotstar ´¯`·🧈.¸¸.ஐ
+
+🍯 30 day จอละ 35฿
+🍯 30 day แอคละ 68฿
+
+DM or https://t.co/NnJK8lCUjR… https://t.co/FCuxunfpc1"
+INFO - [2022-05-22 13:16:47,796] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:16:58,408] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:16:58,408] - twitterbot - tweet id: [1528347939713605632] tweeted at: [2022-05-22 12:11:58+00:00]
+INFO - [2022-05-22 13:16:58,408] - twitterbot - tweeted by: "[Sachin kumar Ambedkar]"
+INFO - [2022-05-22 13:16:58,409] - twitterbot - body: "RT @DisneyPlusHS: @Sachink81121596 The price of fame will hold their futures in the balance.
+#HotstarSpecials #EscaypeLive is now streaming…"
+INFO - [2022-05-22 13:16:58,409] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:17:09,037] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:17:09,038] - twitterbot - tweet id: [1528347760453251072] tweeted at: [2022-05-22 12:11:16+00:00]
+INFO - [2022-05-22 13:17:09,038] - twitterbot - tweeted by: "[nana ` order ke wa !]"
+INFO - [2022-05-22 13:17:09,038] - twitterbot - body: "haloo kak! aku ada app premium nih. netflix, spotify, viu, wetv, iqiyi, disney hotstar, canva, youtube, picsart, hb… https://t.co/K8gpQN5waj"
+INFO - [2022-05-22 13:17:09,038] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:17:19,386] - twitterbot - tweets about Davos
+
+INFO - [2022-05-22 13:17:20,198] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:17:20,198] - twitterbot - tweet id: [1528349230141788162] tweeted at: [2022-05-22 12:17:06+00:00]
+INFO - [2022-05-22 13:17:20,198] - twitterbot - tweeted by: "[🔪Son Of A Butcher 🔪]"
+INFO - [2022-05-22 13:17:20,198] - twitterbot - body: "RT @loffredojeremy: Pfizer CEO Albert Bourla explains Pfizer's new tech to Davos crowd: "ingestible pills" - a pill with a tiny chip that s…"
+INFO - [2022-05-22 13:17:20,198] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:17:30,812] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:17:30,812] - twitterbot - tweet id: [1528349225406300161] tweeted at: [2022-05-22 12:17:05+00:00]
+INFO - [2022-05-22 13:17:30,812] - twitterbot - tweeted by: "[Julie Masiga]"
+INFO - [2022-05-22 13:17:30,812] - twitterbot - body: "Have we moved beyond the traditional 9 to 5? We're talking about the future of work at Davos 2022. Join the convers… https://t.co/EOuzzXX241"
+INFO - [2022-05-22 13:17:30,812] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:17:41,481] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:17:41,481] - twitterbot - tweet id: [1528349210180993026] tweeted at: [2022-05-22 12:17:01+00:00]
+INFO - [2022-05-22 13:17:41,482] - twitterbot - tweeted by: "[T14G0]"
+INFO - [2022-05-22 13:17:41,482] - twitterbot - body: "RT @AFP: Russian forces pursued their bombardment of frontline Ukrainian cities including #Kharkiv on Sunday, seeking to gain military mome…"
+INFO - [2022-05-22 13:17:41,482] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:17:52,101] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:17:52,101] - twitterbot - tweet id: [1528349189180211200] tweeted at: [2022-05-22 12:16:56+00:00]
+INFO - [2022-05-22 13:17:52,101] - twitterbot - tweeted by: "[Kim Grace]"
+INFO - [2022-05-22 13:17:52,101] - twitterbot - body: "What is #TrudeauTheTyrant up to today?  HIs itinerary yesterday and today in the Ottawa region/personal day.  When… https://t.co/EF000pZhs6"
+INFO - [2022-05-22 13:17:52,101] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:18:02,707] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:18:02,708] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:18:02,982] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:18:02,982] - twitterbot - tweet id: [1528349181508730880] tweeted at: [2022-05-22 12:16:54+00:00]
+INFO - [2022-05-22 13:18:02,982] - twitterbot - tweeted by: "[PebblesLondon💙 #FBPE🇺🇦]"
+INFO - [2022-05-22 13:18:02,982] - twitterbot - body: "RT @SPascoalLima: @sophielouisecc A wasted trip to Davos for "a poor student that lives off BOGOF". Or perhaps you attended the wrong confe…"
+INFO - [2022-05-22 13:18:02,983] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:18:13,594] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:18:13,595] - twitterbot - tweet id: [1528349172574965760] tweeted at: [2022-05-22 12:16:52+00:00]
+INFO - [2022-05-22 13:18:13,595] - twitterbot - tweeted by: "[MOSES BOBTOYA]"
+INFO - [2022-05-22 13:18:13,595] - twitterbot - body: "RT @JamesMelville: If you think Davos, WEF and the WHO are the solution, then you are part of the problem."
+INFO - [2022-05-22 13:18:13,595] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:18:24,202] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:18:24,202] - twitterbot - tweet id: [1528349143147630597] tweeted at: [2022-05-22 12:16:45+00:00]
+INFO - [2022-05-22 13:18:24,203] - twitterbot - tweeted by: "[Dominic Atari-Williams 🇺🇦 🇪🇺]"
+INFO - [2022-05-22 13:18:24,203] - twitterbot - body: "@JackPosobiec A lot of influential people go to Davos, even your beloved Trump addressed wef so what's your point?"
+INFO - [2022-05-22 13:18:24,203] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:18:34,829] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:18:34,830] - twitterbot - tweet id: [1528349132334804995] tweeted at: [2022-05-22 12:16:43+00:00]
+INFO - [2022-05-22 13:18:34,830] - twitterbot - tweeted by: "[Hobbes 2.0]"
+INFO - [2022-05-22 13:18:34,830] - twitterbot - body: "Imagine the compliance with Freedom, when these people are made to ingest their lead based 'tablets'.
+
+https://t.co/LEuJdEOMZT"
+INFO - [2022-05-22 13:18:34,830] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:18:45,451] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:18:45,452] - twitterbot - tweet id: [1528349131835572224] tweeted at: [2022-05-22 12:16:43+00:00]
+INFO - [2022-05-22 13:18:45,452] - twitterbot - tweeted by: "[Nicole]"
+INFO - [2022-05-22 13:18:45,452] - twitterbot - body: "RT @BernieSpofforth: DAVOS - hosts the WEF and the WHO from today.
+
+It is no coincidence that the WHO and the WEF Meet in Geneva at the sam…"
+INFO - [2022-05-22 13:18:45,452] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:18:56,123] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:18:56,124] - twitterbot - tweet id: [1528349131017789449] tweeted at: [2022-05-22 12:16:42+00:00]
+INFO - [2022-05-22 13:18:56,124] - twitterbot - tweeted by: "[Chris Kline]"
+INFO - [2022-05-22 13:18:56,124] - twitterbot - body: "RT @RealCalvin1: Nothing says fight climate change like flying over 1,000 private jets to Davos for WHO/WEF event."
+INFO - [2022-05-22 13:18:56,124] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:19:06,758] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:19:06,758] - twitterbot - tweet id: [1528349120175349760] tweeted at: [2022-05-22 12:16:40+00:00]
+INFO - [2022-05-22 13:19:06,758] - twitterbot - tweeted by: "[Madhukar Reddy]"
+INFO - [2022-05-22 13:19:06,758] - twitterbot - body: "RT @YSJ2024: CM Jagan Leads Delegation To Davos To Attract Investments For Growth. https://t.co/id71kMBQ4M"
+INFO - [2022-05-22 13:19:06,759] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:19:17,385] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:19:17,386] - twitterbot - tweet id: [1528349113565302786] tweeted at: [2022-05-22 12:16:38+00:00]
+INFO - [2022-05-22 13:19:17,386] - twitterbot - tweeted by: "[𝑫𝒂𝒗𝒐𝒔𝑲𝒍𝒐𝒔𝒕𝒆𝒓𝒔𝑺𝒌𝒚]"
+INFO - [2022-05-22 13:19:17,386] - twitterbot - body: "Daily pic #Sertig #Davos https://t.co/ppBPYGHcQZ"
+INFO - [2022-05-22 13:19:17,386] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:19:27,998] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:19:27,998] - twitterbot - tweet id: [1528349111778480129] tweeted at: [2022-05-22 12:16:38+00:00]
+INFO - [2022-05-22 13:19:27,998] - twitterbot - tweeted by: "[Keith Martin]"
+INFO - [2022-05-22 13:19:27,998] - twitterbot - body: "RT @JackPosobiec: BREAKING: The 2022 WEF and WHO Assemblies begin *today* in Davos and Geneva"
+INFO - [2022-05-22 13:19:27,998] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:19:38,616] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:19:38,617] - twitterbot - tweet id: [1528349099321221121] tweeted at: [2022-05-22 12:16:35+00:00]
+INFO - [2022-05-22 13:19:38,617] - twitterbot - tweeted by: "[lakshman]"
+INFO - [2022-05-22 13:19:38,617] - twitterbot - body: "RT @sreeharipudi: #AndhraPradesh #ChiefMinister @ysjagan inaugurating the AP Pavilion at World Economic Forum (WEF), Davos on Sunday. https…"
+INFO - [2022-05-22 13:19:38,617] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:19:48,973] - twitterbot - tweets about Excise
+
+INFO - [2022-05-22 13:19:49,639] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:19:49,639] - twitterbot - tweet id: [1528349864014123008] tweeted at: [2022-05-22 12:19:37+00:00]
+INFO - [2022-05-22 13:19:49,639] - twitterbot - tweeted by: "[Raju]"
+INFO - [2022-05-22 13:19:49,639] - twitterbot - body: "RT @PawanKalyan: Reducing Excise duty by Rs 8 on petrol &amp; Rs 6 on diesel (per litre) shall bring a huge relief to the Common Man. Thank you…"
+INFO - [2022-05-22 13:19:49,640] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:20:00,294] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:20:00,294] - twitterbot - tweet id: [1528349860537085952] tweeted at: [2022-05-22 12:19:36+00:00]
+INFO - [2022-05-22 13:20:00,294] - twitterbot - tweeted by: "[Vikash Choudhary➐]"
+INFO - [2022-05-22 13:20:00,294] - twitterbot - body: "RT @amitmalviya: The reduction is in Additional Excise Duty, which is not shared with the States. Hence, proposed reduction is entirely bor…"
+INFO - [2022-05-22 13:20:00,294] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:20:10,937] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:20:10,937] - twitterbot - tweet id: [1528349856120463361] tweeted at: [2022-05-22 12:19:35+00:00]
+INFO - [2022-05-22 13:20:10,937] - twitterbot - tweeted by: "[devesh bhardwaj]"
+INFO - [2022-05-22 13:20:10,938] - twitterbot - body: "RT @SaketGokhale: What spin doctor @nsitharaman won’t tell u:
+
+On fuel excise duty, 42% of share is of states. After yesterday’s cut, state…"
+INFO - [2022-05-22 13:20:10,938] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:20:21,570] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:20:21,570] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:20:21,881] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:20:21,881] - twitterbot - tweet id: [1528349851389374464] tweeted at: [2022-05-22 12:19:34+00:00]
+INFO - [2022-05-22 13:20:21,882] - twitterbot - tweeted by: "[GST]"
+INFO - [2022-05-22 13:20:21,882] - twitterbot - body: "RT @kryes: What Mr. Chidambaram says
+is different from
+What Hon'ble Minister PTR says!
+
+Chidambaram talks about generic State Taxes
+*Additi…"
+INFO - [2022-05-22 13:20:21,882] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:20:32,524] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:20:32,525] - twitterbot - tweet id: [1528349850726592512] tweeted at: [2022-05-22 12:19:34+00:00]
+INFO - [2022-05-22 13:20:32,525] - twitterbot - tweeted by: "[Varun]"
+INFO - [2022-05-22 13:20:32,525] - twitterbot - body: "RT @Bijay_reborn: Lets start !!!
+
+On Saturday we got surprised announcement of Excise Cut  !!
+
+Lets see how the market are placed"
+INFO - [2022-05-22 13:20:32,525] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:20:43,137] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:20:43,137] - twitterbot - tweet id: [1528349849317298181] tweeted at: [2022-05-22 12:19:34+00:00]
+INFO - [2022-05-22 13:20:43,138] - twitterbot - tweeted by: "[Prashant]"
+INFO - [2022-05-22 13:20:43,138] - twitterbot - body: "RT @sunilkjakhar: Thank you @BhagwantMann ji for gracefully acknowledging Central Govt's commitment for procuring Moong at #MSP in Punjab.…"
+INFO - [2022-05-22 13:20:43,138] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:20:53,758] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:20:53,759] - twitterbot - tweet id: [1528349845848616961] tweeted at: [2022-05-22 12:19:33+00:00]
+INFO - [2022-05-22 13:20:53,759] - twitterbot - tweeted by: "[istandwithfarmers]"
+INFO - [2022-05-22 13:20:53,760] - twitterbot - body: "RT @drthomasisaac: For every 1 rupee tax reduction on petroleum products states contribution is 41 paise. It is the excise duty which is sh…"
+INFO - [2022-05-22 13:20:53,760] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:21:04,395] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:21:04,396] - twitterbot - tweet id: [1528349843520778242] tweeted at: [2022-05-22 12:19:32+00:00]
+INFO - [2022-05-22 13:21:04,396] - twitterbot - tweeted by: "[Mohan Kumar Mishra]"
+INFO - [2022-05-22 13:21:04,396] - twitterbot - body: "RT @blsanthosh: The hallmark of PM @narendramodi administration is comprehensive thinking &amp; decisions which will have positive cascading ef…"
+INFO - [2022-05-22 13:21:04,397] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:21:15,014] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:21:15,014] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:21:15,287] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:21:15,287] - twitterbot - tweet id: [1528349837921783808] tweeted at: [2022-05-22 12:19:31+00:00]
+INFO - [2022-05-22 13:21:15,287] - twitterbot - tweeted by: "[Shahzeb Alvi Mdg]"
+INFO - [2022-05-22 13:21:15,287] - twitterbot - body: "RT @HindustanTimes: Kerala FM says no plan to cut sales tax on fuel after excise duty reduction  https://t.co/ApsGNVT4D5"
+INFO - [2022-05-22 13:21:15,288] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:21:25,911] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:21:25,912] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:21:26,193] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:21:26,193] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:21:26,469] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:21:26,470] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:21:26,745] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:21:26,746] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:21:26,746] - twitterbot - tweets about Bangladeshi
+
+INFO - [2022-05-22 13:21:27,423] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:21:27,423] - twitterbot - tweet id: [1528350278071644160] tweeted at: [2022-05-22 12:21:16+00:00]
+INFO - [2022-05-22 13:21:27,424] - twitterbot - tweeted by: "[KS]"
+INFO - [2022-05-22 13:21:27,424] - twitterbot - body: "RT @AskAnshul: May 2021: A Bangladeshi woman was gangraped in Bengaluru, Karnataka
+
+Total 12 arrested: 11 illegal Bangladeshis including 3…"
+INFO - [2022-05-22 13:21:27,424] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:21:38,049] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:21:38,049] - twitterbot - tweet id: [1528350275672879104] tweeted at: [2022-05-22 12:21:15+00:00]
+INFO - [2022-05-22 13:21:38,050] - twitterbot - tweeted by: "[Eternal Optimist 🇮🇳]"
+INFO - [2022-05-22 13:21:38,050] - twitterbot - body: "RT @dibakardutta_: TMC leader Alo Rani Sarkar, who contested the 2021 West Bengal Vidhan Sabha polls from the Bangaon Dakshin constituency,…"
+INFO - [2022-05-22 13:21:38,050] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:21:48,673] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:21:48,674] - twitterbot - tweet id: [1528350231309430785] tweeted at: [2022-05-22 12:21:05+00:00]
+INFO - [2022-05-22 13:21:48,674] - twitterbot - tweeted by: "[Rajendra M]"
+INFO - [2022-05-22 13:21:48,674] - twitterbot - body: "RT @rishibagree: TMC leader Alo Rani Sarkar, who contested the 2021 West Bengal Vidhan Sabha polls from the Bangaon Dakshin constituency, t…"
+INFO - [2022-05-22 13:21:48,674] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:21:59,325] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:21:59,325] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:21:59,636] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:21:59,636] - twitterbot - tweet id: [1528350075541331969] tweeted at: [2022-05-22 12:20:28+00:00]
+INFO - [2022-05-22 13:21:59,637] - twitterbot - tweeted by: "[pravinchandra]"
+INFO - [2022-05-22 13:21:59,637] - twitterbot - body: "RT @SaffronDelhite: Bangladeshi or not, their tribe always gets fanned all by #Pappu &amp; his Congress
+
+Congress in any form, be it TMC or NCP…"
+INFO - [2022-05-22 13:21:59,637] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:22:10,347] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:22:10,347] - twitterbot - tweet id: [1528350055409029121] tweeted at: [2022-05-22 12:20:23+00:00]
+INFO - [2022-05-22 13:22:10,347] - twitterbot - tweeted by: "[रुद्रा प्रकाश अधिवक्ता 🖤]"
+INFO - [2022-05-22 13:22:10,347] - twitterbot - body: "RT @yvs_raizada: TMC MLA RANI SARKAR is a BANGLADESHI...
+
+Not only she be arrested &amp; prosecuted..even #gaddar @TMC  e banned &amp; Mamata Bano…"
+INFO - [2022-05-22 13:22:10,347] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:22:20,986] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:22:20,986] - twitterbot - tweet id: [1528349976501161984] tweeted at: [2022-05-22 12:20:04+00:00]
+INFO - [2022-05-22 13:22:20,986] - twitterbot - tweeted by: "[Rudransh 🇮🇳🇮🇱]"
+INFO - [2022-05-22 13:22:20,986] - twitterbot - body: "RT @arunpudur: 🧵Assam: Bangladeshi Muslim women sets the Batadrava Police Station on fire. @assampolice
+
+Batadrava area is dominated by ill…"
+INFO - [2022-05-22 13:22:20,986] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:22:31,624] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:22:31,624] - twitterbot - tweet id: [1528349807081029635] tweeted at: [2022-05-22 12:19:24+00:00]
+INFO - [2022-05-22 13:22:31,624] - twitterbot - tweeted by: "[Lutful H Chowdhury]"
+INFO - [2022-05-22 13:22:31,624] - twitterbot - body: "@bsdhanoa @Mallufideintent Aap vi keya, Sir (not sure tho, as south Bangladeshi i wrote correct hindi)"
+INFO - [2022-05-22 13:22:31,625] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:22:42,235] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:22:42,235] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:22:42,525] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:22:42,525] - twitterbot - tweet id: [1528349410995736576] tweeted at: [2022-05-22 12:17:49+00:00]
+INFO - [2022-05-22 13:22:42,525] - twitterbot - tweeted by: "[भीष्म]"
+INFO - [2022-05-22 13:22:42,525] - twitterbot - body: "RT @AdarshG39677709: This is the situation of Assam &amp; the atrocities faced by the Assamese people from Mia Bangladeshi.Their is more than 8…"
+INFO - [2022-05-22 13:22:42,526] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:22:53,191] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:22:53,191] - twitterbot - tweet id: [1528349331786711041] tweeted at: [2022-05-22 12:17:30+00:00]
+INFO - [2022-05-22 13:22:53,192] - twitterbot - tweeted by: "[Jeffarin(💓 T) 菊花开 🥰😍😘😊🤗🤭]"
+INFO - [2022-05-22 13:22:53,192] - twitterbot - body: "RT @Rohingya_ISCG: Rich discussion between @FilippoGrandi , UN High Commissioner for @Refugees and the UN 🇺🇳, INGOs and #Bangladeshi NGOs i…"
+INFO - [2022-05-22 13:22:53,192] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:23:03,855] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:23:03,855] - twitterbot - tweet id: [1528349300132298754] tweeted at: [2022-05-22 12:17:23+00:00]
+INFO - [2022-05-22 13:23:03,855] - twitterbot - tweeted by: "[Wave]"
+INFO - [2022-05-22 13:23:03,856] - twitterbot - body: "RT @SuvenduWB: The Hon'ble Calcutta High Court rejected the Petition today.
+Want to know why?
+Her name is registered as a voter in the elec…"
+INFO - [2022-05-22 13:23:03,856] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:23:14,479] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:23:14,479] - twitterbot - tweet id: [1528349212865286144] tweeted at: [2022-05-22 12:17:02+00:00]
+INFO - [2022-05-22 13:23:14,480] - twitterbot - tweeted by: "[Tamjidul🇧🇩]"
+INFO - [2022-05-22 13:23:14,480] - twitterbot - body: "Pics that go Hard (Bangladeshi Version) https://t.co/p4QsSS6Xvy"
+INFO - [2022-05-22 13:23:14,480] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:23:25,100] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:23:25,100] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:23:25,378] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:23:25,378] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:23:25,378] - twitterbot - tweets about Paratpar Guru
+
+INFO - [2022-05-22 13:23:26,064] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:23:26,064] - twitterbot - tweet id: [1528350775813894145] tweeted at: [2022-05-22 12:23:14+00:00]
+INFO - [2022-05-22 13:23:26,065] - twitterbot - tweeted by: "[Vedant K]"
+INFO - [2022-05-22 13:23:26,065] - twitterbot - body: "RT @SanatanPrabhat: Our Founder Editor Paratpar Guru (Dr.) Athavale has taken up the monumental mission of establishing the ‘Hindu Rashtra’…"
+INFO - [2022-05-22 13:23:26,065] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:23:36,703] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:23:36,704] - twitterbot - tweet id: [1528350701121810433] tweeted at: [2022-05-22 12:22:57+00:00]
+INFO - [2022-05-22 13:23:36,704] - twitterbot - tweeted by: "[Vedant K]"
+INFO - [2022-05-22 13:23:36,704] - twitterbot - body: "RT @1chetanrajhans: On the occasion of the 80th Janmotsav of Paratpar Guru (Dr.) Athavale, #HinduEktaDindi (procession) was organized in th…"
+INFO - [2022-05-22 13:23:36,704] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:23:47,324] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:23:47,324] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:23:47,615] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:23:47,615] - twitterbot - tweet id: [1528349773085806592] tweeted at: [2022-05-22 12:19:15+00:00]
+INFO - [2022-05-22 13:23:47,615] - twitterbot - tweeted by: "[Sachin Sonar]"
+INFO - [2022-05-22 13:23:47,615] - twitterbot - body: "RT @hjsdrpingale: Only a Divine personage who performs the mission of reinstating Dharma is termed an ‘Incarnation’ (for example, Shriram &amp;…"
+INFO - [2022-05-22 13:23:47,615] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:23:58,241] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:23:58,242] - twitterbot - tweet id: [1528349636150169600] tweeted at: [2022-05-22 12:18:43+00:00]
+INFO - [2022-05-22 13:23:58,242] - twitterbot - tweeted by: "[Sandesh]"
+INFO - [2022-05-22 13:23:58,242] - twitterbot - body: "RT @PoojaM_97: Paratpar Guru (Dr.) Athavale's 80th Janmotsav !  🌷🌸
+#HinduRashtraJagrutiAbhiyan
+#HinduEktaDindi
+Gratitude a millions times u…"
+INFO - [2022-05-22 13:23:58,243] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:24:08,885] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:24:08,886] - twitterbot - tweet id: [1528349633965043713] tweeted at: [2022-05-22 12:18:42+00:00]
+INFO - [2022-05-22 13:24:08,886] - twitterbot - tweeted by: "[Sachin Sonar]"
+INFO - [2022-05-22 13:24:08,886] - twitterbot - body: "RT @HinduJagrutiOrg: HJS bows down at Holy Feet of Paratpar Guru Dr. Jayant Balaji Athavale on the occasion of His 80th birthday anniversar…"
+INFO - [2022-05-22 13:24:08,886] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:24:19,545] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:24:19,546] - twitterbot - tweet id: [1528349066060517377] tweeted at: [2022-05-22 12:16:27+00:00]
+INFO - [2022-05-22 13:24:19,546] - twitterbot - tweeted by: "[Sitanshu Desai]"
+INFO - [2022-05-22 13:24:19,546] - twitterbot - body: "RT @RadheRa13719273: The work of Hindu Rashtra gained momentum by organizing #HinduEktaDindi with the blessings of Paratpar Guru (Dr.) Atha…"
+INFO - [2022-05-22 13:24:19,546] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:24:30,181] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:24:30,182] - twitterbot - tweet id: [1528348830751592448] tweeted at: [2022-05-22 12:15:31+00:00]
+INFO - [2022-05-22 13:24:30,182] - twitterbot - tweeted by: "[@manisha81]"
+INFO - [2022-05-22 13:24:30,182] - twitterbot - body: "RT @AcSamarth: Under the guidance of Paratpar Guru (Dr) Athavale seeker-artists proficient in different arts are doing research on sattvik…"
+INFO - [2022-05-22 13:24:30,182] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:24:40,809] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:24:40,810] - twitterbot - tweet id: [1528348060849278976] tweeted at: [2022-05-22 12:12:27+00:00]
+INFO - [2022-05-22 13:24:40,810] - twitterbot - tweeted by: "[🚩 Krishna Das 🌻 Hindurashtra - 2023 🚩]"
+INFO - [2022-05-22 13:24:40,810] - twitterbot - body: "RT @RavichandraBM7: Paratpar Guru (Dr.) Athavale has taken up d monumental mission of establishing d ‘#Hindu #Nation’ for the welfare of d…"
+INFO - [2022-05-22 13:24:40,810] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:24:51,438] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:24:51,439] - twitterbot - tweet id: [1528348042360868870] tweeted at: [2022-05-22 12:12:23+00:00]
+INFO - [2022-05-22 13:24:51,439] - twitterbot - tweeted by: "[🚩 Krishna Das 🌻 Hindurashtra - 2023 🚩]"
+INFO - [2022-05-22 13:24:51,439] - twitterbot - body: "RT @SnehalPatil4SP: #HinduEktaDindi
+We all owe a million gratitude to Paratpar Guru (Dr) Athavale's holy feet as seekers, patriots, and dev…"
+INFO - [2022-05-22 13:24:51,439] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:25:02,047] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:25:02,047] - twitterbot - tweet id: [1528348012426145793] tweeted at: [2022-05-22 12:12:16+00:00]
+INFO - [2022-05-22 13:25:02,047] - twitterbot - tweeted by: "[🚩 Krishna Das 🌻 Hindurashtra - 2023 🚩]"
+INFO - [2022-05-22 13:25:02,047] - twitterbot - body: "RT @jyotijamagond: 🙏 Incarnate nature of Paratpar Guru (Dr) Athavale recognised by Saints and respected people
+
+🙏🙏 Like Shriram and Shrikru…"
+INFO - [2022-05-22 13:25:02,047] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:25:12,673] - twitterbot - The authenticated user already liked the tweet.
+INFO - [2022-05-22 13:25:12,673] - twitterbot - The tweet didn't fulfull the requirements in order to be retweeted
+INFO - [2022-05-22 13:25:12,960] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:25:12,961] - twitterbot - tweet id: [1528347995405578240] tweeted at: [2022-05-22 12:12:12+00:00]
+INFO - [2022-05-22 13:25:12,961] - twitterbot - tweeted by: "[🚩 Krishna Das 🌻 Hindurashtra - 2023 🚩]"
+INFO - [2022-05-22 13:25:12,961] - twitterbot - body: "RT @Suman_H_P: On the occasion of the 80th Janmotsav of Paratpar Guru (Dr.) Athavale !
+
+ #HinduEktaDindi (procession) was organized in the…"
+INFO - [2022-05-22 13:25:12,961] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:25:23,580] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:25:23,580] - twitterbot - tweet id: [1528347931488550915] tweeted at: [2022-05-22 12:11:56+00:00]
+INFO - [2022-05-22 13:25:23,580] - twitterbot - tweeted by: "[🚩 Krishna Das 🌻 Hindurashtra - 2023 🚩]"
+INFO - [2022-05-22 13:25:23,580] - twitterbot - body: "RT @Ganesh02892127: Great national leaders, who have offered their revolutionary lives as an oblation in the sacred fire of Bharat’s freedo…"
+INFO - [2022-05-22 13:25:23,580] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:25:34,205] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:25:34,205] - twitterbot - tweet id: [1528347702521520129] tweeted at: [2022-05-22 12:11:02+00:00]
+INFO - [2022-05-22 13:25:34,206] - twitterbot - tweeted by: "[🚩 Krishna Das 🌻 Hindurashtra - 2023 🚩]"
+INFO - [2022-05-22 13:25:34,206] - twitterbot - body: "RT @kamath26: Lord Vishnu-like Paratpar Guru (Dr) Athavale,who teaches spiritual practice to the seekers through the medium of various Dhar…"
+INFO - [2022-05-22 13:25:34,206] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:25:44,568] - twitterbot - tweets about Human Rights Violation
+
+INFO - [2022-05-22 13:25:45,257] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:25:45,257] - twitterbot - tweet id: [1528351323493519360] tweeted at: [2022-05-22 12:25:25+00:00]
+INFO - [2022-05-22 13:25:45,257] - twitterbot - tweeted by: "[Avinash Sharma]"
+INFO - [2022-05-22 13:25:45,257] - twitterbot - body: "RT @AndekhaaSach: #संत_के_अधिकार_दरकिनार 
+Sant Shri Asharamji Bapu given NO relief since 9 years despite innocence &amp; life threatening disea…"
+INFO - [2022-05-22 13:25:45,258] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:25:55,910] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:25:55,910] - twitterbot - tweet id: [1528351277482397696] tweeted at: [2022-05-22 12:25:14+00:00]
+INFO - [2022-05-22 13:25:55,910] - twitterbot - tweeted by: "[Bhavana]"
+INFO - [2022-05-22 13:25:55,911] - twitterbot - body: "RT @RKSharm20802955: Innocent Sant Shri Asharamji Bapu have Rights to get relief after proven not Guilty &amp; Health problems.
+Lot's of  Lette…"
+INFO - [2022-05-22 13:25:55,911] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:26:06,554] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:26:06,555] - twitterbot - tweet id: [1528351213300813825] tweeted at: [2022-05-22 12:24:59+00:00]
+INFO - [2022-05-22 13:26:06,555] - twitterbot - tweeted by: "[Shrikant Panda]"
+INFO - [2022-05-22 13:26:06,555] - twitterbot - body: "RT @SolankiVardaram: Politicians,actors,don,maulvi,padri -all get bail easily. Only Hindu saints like Sant Shri Asharamji Bapu will not get…"
+INFO - [2022-05-22 13:26:06,555] - twitterbot - The tweet was favored!
+INFO - [2022-05-22 13:26:17,188] - twitterbot - The authenticated user has not yet liked the tweet.
+INFO - [2022-05-22 13:26:17,189] - twitterbot - tweet id: [1528351197022670848] tweeted at: [2022-05-22 12:24:55+00:00]
+INFO - [2022-05-22 13:26:17,190] - twitterbot - tweeted by: "[Manoj Nagdev]"
+INFO - [2022-05-22 13:26:17,191] - twitterbot - body: "RT @AnjaliVadher1: @HitendraVora2 @YssSpeaks @AIIndia @PTI_News @AP @UNHumanRights @humanrights1st @HRC @India_NHRC @HRC4India @PMOIndia @h…"
+INFO - [2022-05-22 13:26:17,192] - twitterbot - The tweet was favored!
+ERROR - [2022-05-22 13:26:17,461] - twitterbot - 429 Too Many Requests
+INFO - [2022-05-22 13:26:17,462] - twitterbot - 257 tweets favored!
+ERROR - [2022-05-22 13:26:17,462] - twitterbot - with_traceback() takes exactly one argument (0 given)

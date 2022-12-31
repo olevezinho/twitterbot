@@ -87,5 +87,11 @@ def queryTwitter_2(twitter_api):
         print("%d %s (%s)" % (i, s["created_at"], s["user"]["screen_name"])) 
         print(s["text"], '\n')
 
-# Iterate through 5 more batches of results by following the cursor
-#def queryTwitter_3(twitter_api):
+# show user info
+
+# show followers
+def showUserDetails(api): 
+    user = api.get_user(screen_name='oLevezinho')
+    print(" Name:............. ", user.name) 
+    print(" Description:...... ", user.description) 
+    print(" Location:......... ", user.location)
