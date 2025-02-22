@@ -1,7 +1,7 @@
-certifi==2023.7.22
+certifi==2024.7.4
 charset-normalizer==2.0.7
 idna==3.3
-mysql-connector-python==8.0.27
+mysql-connector-python==9.1.0
 numpy==1.22.2
 oauthlib==3.2.2
 pandas==1.3.4
@@ -10,9 +10,9 @@ protobuf==3.19.5
 python-dateutil==2.8.2
 python-dotenv==0.19.1
 pytz==2021.3
-requests==2.31.0
+requests==2.32.0
 requests-oauthlib==1.3.0
 six==1.16.0
 tweepy==4.2.0
 twitter==1.19.3
-urllib3==1.26.18
+urllib3==1.26.19
